@@ -1,0 +1,466 @@
+[
+  {
+    "fang_name": "宫中香",
+    "book": "《陈氏香谱》",
+    "author": "陈敬",
+    "volume": "卷第一",
+    "source_text": "宫中香法：沉香一两、檀香一两、零陵香一两、藿香一两、甘松一两、白芷五钱、丁香五钱、麝香少许。右为细末，炼蜜和匀，隔火焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香一两"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香一两"
+      },
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松一两"
+      },
+      {
+        "name": "白芷",
+        "amount": "五钱",
+        "original_text": "白芷五钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "五钱",
+        "original_text": "丁香五钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香少许"
+      }
+    ],
+    "method": "右为细末，炼蜜和匀，隔火焚之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "宫中常用之香，气味醇厚。"
+  },
+  {
+    "fang_name": "宣和御制香",
+    "book": "《陈氏香谱》",
+    "author": "陈敬",
+    "volume": "卷第一",
+    "source_text": "宣和御制香：沉香三两、檀香二两、龙脑五钱、麝香二钱、甲香五钱、降真香一两、零陵香一两、藿香一两、甘松一两、丁香一两、白芷五钱、小茴香五钱。右为细末，用苏合香油和成剂，入瓷器中密封，薰焙三日，取出焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "三两",
+        "original_text": "沉香三两"
+      },
+      {
+        "name": "檀香",
+        "amount": "二两",
+        "original_text": "檀香二两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "五钱",
+        "original_text": "龙脑五钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      },
+      {
+        "name": "甲香",
+        "amount": "五钱",
+        "original_text": "甲香五钱"
+      },
+      {
+        "name": "降真香",
+        "amount": "一两",
+        "original_text": "降真香一两"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香一两"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香一两"
+      },
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁香一两"
+      },
+      {
+        "name": "白芷",
+        "amount": "五钱",
+        "original_text": "白芷五钱"
+      },
+      {
+        "name": "小茴香",
+        "amount": "五钱",
+        "original_text": "小茴香五钱"
+      }
+    ],
+    "method": "右为细末，用苏合香油和成剂，入瓷器中密封，薰焙三日，取出焚之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "宋徽宗宣和年间御用香方。"
+  },
+  {
+    "fang_name": "俪兰香",
+    "book": "《陈氏香谱》",
+    "author": "陈敬",
+    "volume": "卷第一",
+    "source_text": "俪兰香：沉香二两、檀香一两、麝香一钱、龙脑一钱、零陵香一两、藿香一两、甘松一两、丁香五钱、白芷五钱。右为细末，炼蜜和匀，如常法焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "二两",
+        "original_text": "沉香二两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香一两"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香一两"
+      },
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "五钱",
+        "original_text": "丁香五钱"
+      },
+      {
+        "name": "白芷",
+        "amount": "五钱",
+        "original_text": "白芷五钱"
+      }
+    ],
+    "method": "右为细末，炼蜜和匀，如常法焚之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "仿兰花清雅之韵。"
+  },
+  {
+    "fang_name": "胜酴醾香",
+    "book": "《陈氏香谱》",
+    "author": "陈敬",
+    "volume": "卷第一",
+    "source_text": "胜酴醾香：沉香一两、檀香一两、丁香五钱、零陵香五钱、藿香五钱、甘松五钱、白芷三钱、梅花蕊少许、龙脑少许。右为细末，用炼蜜和作饼，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "五钱",
+        "original_text": "丁香五钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "五钱",
+        "original_text": "零陵香五钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "五钱",
+        "original_text": "藿香五钱"
+      },
+      {
+        "name": "甘松",
+        "amount": "五钱",
+        "original_text": "甘松五钱"
+      },
+      {
+        "name": "白芷",
+        "amount": "三钱",
+        "original_text": "白芷三钱"
+      },
+      {
+        "name": "梅花蕊",
+        "amount": "少许",
+        "original_text": "梅花蕊少许"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑少许"
+      }
+    ],
+    "method": "右为细末，用炼蜜和作饼，焚之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "香胜酴醾花，故得名。"
+  },
+  {
+    "fang_name": "玉堂香",
+    "book": "《陈氏香谱》",
+    "author": "陈敬",
+    "volume": "卷第一",
+    "source_text": "玉堂香：沉香二两、檀香一两、零陵香一两、藿香一两、甘松一两、丁香五钱、白芷五钱、官桂五钱、麝香一钱。右为细末，以炼蜜和成剂，入瓷瓶蒸之，取出捻饼焚。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "二两",
+        "original_text": "沉香二两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香一两"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香一两"
+      },
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "五钱",
+        "original_text": "丁香五钱"
+      },
+      {
+        "name": "白芷",
+        "amount": "五钱",
+        "original_text": "白芷五钱"
+      },
+      {
+        "name": "官桂",
+        "amount": "五钱",
+        "original_text": "官桂五钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "右为细末，以炼蜜和成剂，入瓷瓶蒸之，取出捻饼焚。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "清润柔和，有益文思。"
+  },
+  {
+    "fang_name": "梅蕊香",
+    "book": "《陈氏香谱》",
+    "author": "陈敬",
+    "volume": "卷第一",
+    "source_text": "梅蕊香：沉香一两、檀香一两、丁香五钱、零陵香五钱、藿香五钱、甘松三钱、茴香三钱、麝香少许。右为细末，用腊茶清和作剂，捻如梅蕊，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "五钱",
+        "original_text": "丁香五钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "五钱",
+        "original_text": "零陵香五钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "五钱",
+        "original_text": "藿香五钱"
+      },
+      {
+        "name": "甘松",
+        "amount": "三钱",
+        "original_text": "甘松三钱"
+      },
+      {
+        "name": "茴香",
+        "amount": "三钱",
+        "original_text": "茴香三钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香少许"
+      }
+    ],
+    "method": "右为细末，用腊茶清和作剂，捻如梅蕊，焚之。",
+    "category": "香丸",
+    "usage": "焚香",
+    "notes": "形似梅花蕊，香气清幽。"
+  },
+  {
+    "fang_name": "暖玉香",
+    "book": "《陈氏香谱》",
+    "author": "陈敬",
+    "volume": "卷第一",
+    "source_text": "暖玉香：沉香二两、檀香二两、乳香五钱、没药五钱、龙脑二钱、麝香一钱、零陵香一两、藿香一两。右为细末，用香酒和成剂，隔火慢焙，作饼焚。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "二两",
+        "original_text": "沉香二两"
+      },
+      {
+        "name": "檀香",
+        "amount": "二两",
+        "original_text": "檀香二两"
+      },
+      {
+        "name": "乳香",
+        "amount": "五钱",
+        "original_text": "乳香五钱"
+      },
+      {
+        "name": "没药",
+        "amount": "五钱",
+        "original_text": "没药五钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑二钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香一两"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香一两"
+      }
+    ],
+    "method": "右为细末，用香酒和成剂，隔火慢焙，作饼焚。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "温润如玉，宜冬日使用。"
+  },
+  {
+    "fang_name": "醉海棠香",
+    "book": "《陈氏香谱》",
+    "author": "陈敬",
+    "volume": "卷第一",
+    "source_text": "醉海棠香：沉香一两、檀香一两、丁香半两、藿香半两、零陵香半两、甘松半两、白芷三钱、海棠花干末三钱、麝香少许。右为细末，以炼蜜和匀，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "藿香",
+        "amount": "半两",
+        "original_text": "藿香半两"
+      },
+      {
+        "name": "零陵香",
+        "amount": "半两",
+        "original_text": "零陵香半两"
+      },
+      {
+        "name": "甘松",
+        "amount": "半两",
+        "original_text": "甘松半两"
+      },
+      {
+        "name": "白芷",
+        "amount": "三钱",
+        "original_text": "白芷三钱"
+      },
+      {
+        "name": "海棠花干末",
+        "amount": "三钱",
+        "original_text": "海棠花干末三钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香少许"
+      }
+    ],
+    "method": "右为细末，以炼蜜和匀，焚之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "取海棠微醉之意。"
+  }
+]

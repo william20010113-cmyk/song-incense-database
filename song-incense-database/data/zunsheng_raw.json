@@ -1,0 +1,1550 @@
+[
+  {
+    "fang_name": "四弃香方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "四弃香方：取荔枝壳、松子壳、梨皮、甘蔗渣各等分，晒干，碾为细末，和匀，以炼蜜为丸，如梧桐子大，烧之。",
+    "ingredients": [
+      {
+        "name": "荔枝壳",
+        "amount": "等分",
+        "original_text": "荔枝壳"
+      },
+      {
+        "name": "松子壳",
+        "amount": "等分",
+        "original_text": "松子壳"
+      },
+      {
+        "name": "梨皮",
+        "amount": "等分",
+        "original_text": "梨皮"
+      },
+      {
+        "name": "甘蔗渣",
+        "amount": "等分",
+        "original_text": "甘蔗渣"
+      },
+      {
+        "name": "炼蜜",
+        "amount": "适量",
+        "original_text": "炼蜜"
+      }
+    ],
+    "method": "晒干，碾为细末，和匀，以炼蜜为丸，如梧桐子大，烧之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "源自《遵生八笺》燕闲清赏笺，为四弃之物所制，取其清芬。"
+  },
+  {
+    "fang_name": "韩魏公浓梅香方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "韩魏公浓梅香方：沉香一两，檀香半两，丁香半两，木香半两，藿香半两，龙脑少许，麝香少许。右为细末，炼蜜和匀，丸如豆大，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "木香",
+        "amount": "半两",
+        "original_text": "木香半两"
+      },
+      {
+        "name": "藿香",
+        "amount": "半两",
+        "original_text": "藿香半两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑少许"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香少许"
+      }
+    ],
+    "method": "为细末，炼蜜和匀，丸如豆大，烧之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "韩魏公即韩琦，此方为梅花香型。"
+  },
+  {
+    "fang_name": "寿阳公主梅花香方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "寿阳公主梅花香方：沉香七钱，栈香五钱，檀香三钱，丁香二钱，龙脑半钱，麝香半钱。右为细末，炼蜜和丸，如梧桐子大，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "七钱",
+        "original_text": "沉香七钱"
+      },
+      {
+        "name": "栈香",
+        "amount": "五钱",
+        "original_text": "栈香五钱"
+      },
+      {
+        "name": "檀香",
+        "amount": "三钱",
+        "original_text": "檀香三钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "二钱",
+        "original_text": "丁香二钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "半钱",
+        "original_text": "龙脑半钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "半钱",
+        "original_text": "麝香半钱"
+      }
+    ],
+    "method": "为细末，炼蜜和丸，如梧桐子大，烧之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "寿阳公主梅花香，唐开元问公主。"
+  },
+  {
+    "fang_name": "杨吉老龙涎香方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "杨吉老龙涎香方：沉香一两，檀香半两，丁香半两，龙脑半钱，麝香半钱，酒煮白芸香一两。右为细末，炼蜜和匀，丸如豆大，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "半钱",
+        "original_text": "龙脑半钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "半钱",
+        "original_text": "麝香半钱"
+      },
+      {
+        "name": "白芸香",
+        "amount": "一两",
+        "original_text": "酒煮白芸香一两"
+      }
+    ],
+    "method": "为细末，炼蜜和匀，丸如豆大，烧之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "杨吉老为宋代香学家。"
+  },
+  {
+    "fang_name": "唐开元宫中香方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "唐开元宫中香方：沉香二两，檀香一两，龙脑半两，麝香半两，马牙硝半两。右为细末，炼蜜和匀，丸如豆大，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "二两",
+        "original_text": "沉香二两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "半两",
+        "original_text": "龙脑半两"
+      },
+      {
+        "name": "麝香",
+        "amount": "半两",
+        "original_text": "麝香半两"
+      },
+      {
+        "name": "马牙硝",
+        "amount": "半两",
+        "original_text": "马牙硝半两"
+      }
+    ],
+    "method": "为细末，炼蜜和匀，丸如豆大，烧之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "唐代宫中御用香方。"
+  },
+  {
+    "fang_name": "宣和御制香方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "宣和御制香方：沉香四两，檀香二两，龙脑一两，麝香一两，甲香一两。右为细末，炼蜜和匀，丸如弹子大，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "四两",
+        "original_text": "沉香四两"
+      },
+      {
+        "name": "檀香",
+        "amount": "二两",
+        "original_text": "檀香二两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一两",
+        "original_text": "龙脑一两"
+      },
+      {
+        "name": "麝香",
+        "amount": "一两",
+        "original_text": "麝香一两"
+      },
+      {
+        "name": "甲香",
+        "amount": "一两",
+        "original_text": "甲香一两"
+      }
+    ],
+    "method": "为细末，炼蜜和匀，丸如弹子大，烧之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "宋徽宗宣和年间御制。"
+  },
+  {
+    "fang_name": "安息香方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "安息香方：安息香二两，沉香一两，檀香五钱，丁香五钱，龙脑一钱，麝香一钱。右为细末，炼蜜和匀，丸如豆大，烧之。",
+    "ingredients": [
+      {
+        "name": "安息香",
+        "amount": "二两",
+        "original_text": "安息香二两"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "五钱",
+        "original_text": "檀香五钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "五钱",
+        "original_text": "丁香五钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "为细末，炼蜜和匀，丸如豆大，烧之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "安息香为主香。"
+  },
+  {
+    "fang_name": "藏春香方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "藏春香方：沉香一两，檀香五钱，丁香五钱，木香五钱，藿香五钱，龙脑二钱，麝香二钱。右为细末，炼蜜和匀，丸如豆大，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "五钱",
+        "original_text": "檀香五钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "五钱",
+        "original_text": "丁香五钱"
+      },
+      {
+        "name": "木香",
+        "amount": "五钱",
+        "original_text": "木香五钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "五钱",
+        "original_text": "藿香五钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑二钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      }
+    ],
+    "method": "为细末，炼蜜和匀，丸如豆大，烧之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "藏春香，取其春意藏于香中。"
+  },
+  {
+    "fang_name": "蔷薇香方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "蔷薇香方：沉香一两，檀香五钱，丁香五钱，木香五钱，藿香五钱，甘松五钱，龙脑一钱，麝香一钱。右为细末，炼蜜和匀，丸如豆大，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "五钱",
+        "original_text": "檀香五钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "五钱",
+        "original_text": "丁香五钱"
+      },
+      {
+        "name": "木香",
+        "amount": "五钱",
+        "original_text": "木香五钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "五钱",
+        "original_text": "藿香五钱"
+      },
+      {
+        "name": "甘松",
+        "amount": "五钱",
+        "original_text": "甘松五钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "为细末，炼蜜和匀，丸如豆大，烧之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "拟蔷薇花香。"
+  },
+  {
+    "fang_name": "兰花香方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "兰花香方：沉香一两，檀香五钱，丁香三钱，木香三钱，藿香三钱，零陵香三钱，龙脑一钱，麝香一钱。右为细末，炼蜜和匀，丸如豆大，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "五钱",
+        "original_text": "檀香五钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "三钱",
+        "original_text": "丁香三钱"
+      },
+      {
+        "name": "木香",
+        "amount": "三钱",
+        "original_text": "木香三钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "三钱",
+        "original_text": "藿香三钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "三钱",
+        "original_text": "零陵香三钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "为细末，炼蜜和匀，丸如豆大，烧之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "拟兰花幽香。"
+  },
+  {
+    "fang_name": "木犀香方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "木犀香方：沉香一两，檀香五钱，丁香三钱，木香三钱，藿香三钱，桂花（木犀）三钱，龙脑一钱，麝香一钱。右为细末，炼蜜和匀，丸如豆大，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "五钱",
+        "original_text": "檀香五钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "三钱",
+        "original_text": "丁香三钱"
+      },
+      {
+        "name": "木香",
+        "amount": "三钱",
+        "original_text": "木香三钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "三钱",
+        "original_text": "藿香三钱"
+      },
+      {
+        "name": "桂花",
+        "amount": "三钱",
+        "original_text": "桂花（木犀）三钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "为细末，炼蜜和匀，丸如豆大，烧之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "木犀即桂花，此香拟桂花之香。"
+  },
+  {
+    "fang_name": "百花香方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "百花香方：沉香一两，檀香五钱，丁香三钱，木香三钱，藿香三钱，甘松三钱，零陵香三钱，玫瑰花三钱，龙脑一钱，麝香一钱。右为细末，炼蜜和匀，丸如豆大，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "五钱",
+        "original_text": "檀香五钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "三钱",
+        "original_text": "丁香三钱"
+      },
+      {
+        "name": "木香",
+        "amount": "三钱",
+        "original_text": "木香三钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "三钱",
+        "original_text": "藿香三钱"
+      },
+      {
+        "name": "甘松",
+        "amount": "三钱",
+        "original_text": "甘松三钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "三钱",
+        "original_text": "零陵香三钱"
+      },
+      {
+        "name": "玫瑰花",
+        "amount": "三钱",
+        "original_text": "玫瑰花三钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "为细末，炼蜜和匀，丸如豆大，烧之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "集众花之香。"
+  },
+  {
+    "fang_name": "玉华香方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "玉华香方：沉香一两，檀香五钱，丁香三钱，木香三钱，藿香三钱，龙脑二钱，麝香二钱，甲香二钱。右为细末，炼蜜和匀，丸如豆大，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "五钱",
+        "original_text": "檀香五钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "三钱",
+        "original_text": "丁香三钱"
+      },
+      {
+        "name": "木香",
+        "amount": "三钱",
+        "original_text": "木香三钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "三钱",
+        "original_text": "藿香三钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑二钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      },
+      {
+        "name": "甲香",
+        "amount": "二钱",
+        "original_text": "甲香二钱"
+      }
+    ],
+    "method": "为细末，炼蜜和匀，丸如豆大，烧之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "玉华香，清雅之名。"
+  },
+  {
+    "fang_name": "檀香方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "檀香方：檀香四两，沉香一两，丁香五钱，木香五钱，龙脑一钱，麝香一钱。右为细末，炼蜜和匀，丸如豆大，烧之。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "amount": "四两",
+        "original_text": "檀香四两"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "五钱",
+        "original_text": "丁香五钱"
+      },
+      {
+        "name": "木香",
+        "amount": "五钱",
+        "original_text": "木香五钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "为细末，炼蜜和匀，丸如豆大，烧之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "主檀香之香。"
+  },
+  {
+    "fang_name": "龙涎香方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "龙涎香方：龙涎香（或代以龙脑）一两，沉香二两，檀香一两，丁香五钱，麝香二钱。右为细末，炼蜜和匀，丸如豆大，烧之。",
+    "ingredients": [
+      {
+        "name": "龙涎香",
+        "amount": "一两",
+        "original_text": "龙涎香（或代以龙脑）一两"
+      },
+      {
+        "name": "沉香",
+        "amount": "二两",
+        "original_text": "沉香二两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "五钱",
+        "original_text": "丁香五钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      }
+    ],
+    "method": "为细末，炼蜜和匀，丸如豆大，烧之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "龙涎香为珍贵香料，可能用龙脑替代。"
+  },
+  {
+    "fang_name": "煮香法",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "煮香法：用沉香、檀香、丁香、木香、藿香、甘松、零陵香等，各等分，以水煮一日，去水，再以酒煮一日，阴干，合香用之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "木香",
+        "amount": "等分",
+        "original_text": "木香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      }
+    ],
+    "method": "各等分，以水煮一日，去水，再以酒煮一日，阴干，合香用之。",
+    "category": "合香技法",
+    "usage": "预处理香料",
+    "notes": "煮香法为去燥增润之法。"
+  },
+  {
+    "fang_name": "印香法",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "印香法：用檀香、沉香、丁香、木香、藿香、零陵香、甘松、白芷、小茴香各等分，为细末，用模具印之，烧于香炉。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "木香",
+        "amount": "等分",
+        "original_text": "木香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "小茴香",
+        "amount": "等分",
+        "original_text": "小茴香"
+      }
+    ],
+    "method": "为细末，用模具印之，烧于香炉。",
+    "category": "合香",
+    "usage": "印香焚烧",
+    "notes": "印香即香篆，用模具压成图形。"
+  },
+  {
+    "fang_name": "香饼子方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "香饼子方：炭末五两，黄丹一两，白芷一两，丁香五钱，木香五钱，乳香五钱。右为细末，用糯米粥和匀，搓成饼子，晒干，烧之。",
+    "ingredients": [
+      {
+        "name": "炭末",
+        "amount": "五两",
+        "original_text": "炭末五两"
+      },
+      {
+        "name": "黄丹",
+        "amount": "一两",
+        "original_text": "黄丹一两"
+      },
+      {
+        "name": "白芷",
+        "amount": "一两",
+        "original_text": "白芷一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "五钱",
+        "original_text": "丁香五钱"
+      },
+      {
+        "name": "木香",
+        "amount": "五钱",
+        "original_text": "木香五钱"
+      },
+      {
+        "name": "乳香",
+        "amount": "五钱",
+        "original_text": "乳香五钱"
+      }
+    ],
+    "method": "为细末，用糯米粥和匀，搓成饼子，晒干，烧之。",
+    "category": "香炭",
+    "usage": "作为炭火助燃香料",
+    "notes": "香饼子用于埋火或隔火熏香。"
+  },
+  {
+    "fang_name": "香球方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "香球方：沉香、檀香、丁香、木香、藿香、甘松、零陵香、白芷各一两，龙脑、麝香各一钱。右为细末，炼蜜和匀，丸如弹子大，以纸裹之，缀于香球中。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁香一两"
+      },
+      {
+        "name": "木香",
+        "amount": "一两",
+        "original_text": "木香一两"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香一两"
+      },
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松一两"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香一两"
+      },
+      {
+        "name": "白芷",
+        "amount": "一两",
+        "original_text": "白芷一两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "为细末，炼蜜和匀，丸如弹子大，以纸裹之，缀于香球中。",
+    "category": "合香",
+    "usage": "放入香球中熏烧",
+    "notes": "香球为金属镂空球，用于熏被或随身。"
+  },
+  {
+    "fang_name": "香囊方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "香囊方：用紫绛香、檀香、丁香、木香、藿香、零陵香、甘松、白芷、山柰、小茴香各等分，为细末，盛于绢袋中，佩之。",
+    "ingredients": [
+      {
+        "name": "紫绛香",
+        "amount": "等分",
+        "original_text": "紫绛香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "木香",
+        "amount": "等分",
+        "original_text": "木香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "山柰",
+        "amount": "等分",
+        "original_text": "山柰"
+      },
+      {
+        "name": "小茴香",
+        "amount": "等分",
+        "original_text": "小茴香"
+      }
+    ],
+    "method": "为细末，盛于绢袋中，佩之。",
+    "category": "佩戴香",
+    "usage": "随身佩戴或悬挂",
+    "notes": "香囊为古人常用服饰配件。"
+  },
+  {
+    "fang_name": "降真香方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "降真香方：降真香二两，沉香一两，檀香五钱，丁香三钱，龙脑一钱，麝香一钱。右为细末，炼蜜和匀，丸如豆大，烧之。",
+    "ingredients": [
+      {
+        "name": "降真香",
+        "amount": "二两",
+        "original_text": "降真香二两"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "五钱",
+        "original_text": "檀香五钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "三钱",
+        "original_text": "丁香三钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "为细末，炼蜜和匀，丸如豆大，烧之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "降真香为道教常用香。"
+  },
+  {
+    "fang_name": "熏衣香方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "熏衣香方：沉香一两，檀香五钱，丁香五钱，木香五钱，藿香五钱，零陵香五钱，龙脑一钱，麝香一钱。右为细末，炼蜜和匀，丸如豆大，置熏笼中熏衣。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "五钱",
+        "original_text": "檀香五钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "五钱",
+        "original_text": "丁香五钱"
+      },
+      {
+        "name": "木香",
+        "amount": "五钱",
+        "original_text": "木香五钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "五钱",
+        "original_text": "藿香五钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "五钱",
+        "original_text": "零陵香五钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "为细末，炼蜜和匀，丸如豆大，置熏笼中熏衣。",
+    "category": "熏衣香",
+    "usage": "熏蒸衣物",
+    "notes": "熏衣香使衣物沾香。"
+  },
+  {
+    "fang_name": "湿香方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "湿香方：沉香、檀香、丁香、木香、藿香、甘松、零陵香各一两，研为粗末，用炼蜜调成泥状，置于瓶中，用时取少许烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁香一两"
+      },
+      {
+        "name": "木香",
+        "amount": "一两",
+        "original_text": "木香一两"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香一两"
+      },
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松一两"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香一两"
+      }
+    ],
+    "method": "研为粗末，用炼蜜调成泥状，置于瓶中，用时取少许烧之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "湿香以蜜调，湿润而不干。"
+  },
+  {
+    "fang_name": "干香方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "干香方：沉香、檀香、丁香、木香、藿香、甘松、零陵香各一两，为细末，用干蜜（炼蜜放冷）调匀，搓成小丸，晒干烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁香一两"
+      },
+      {
+        "name": "木香",
+        "amount": "一两",
+        "original_text": "木香一两"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香一两"
+      },
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松一两"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香一两"
+      }
+    ],
+    "method": "为细末，用干蜜调匀，搓成小丸，晒干烧之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "干香易于保存。"
+  },
+  {
+    "fang_name": "傅身香粉方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "起居安乐笺",
+    "source_text": "傅身香粉方：丹砂、檀香、丁香、木香、藿香、白芷、川芎、细辛、甘松、零陵香各一两，为细末，入麝香少许，和匀，以绢袋盛之，浴后扑身。",
+    "ingredients": [
+      {
+        "name": "丹砂",
+        "amount": "一两",
+        "original_text": "丹砂一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁香一两"
+      },
+      {
+        "name": "木香",
+        "amount": "一两",
+        "original_text": "木香一两"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香一两"
+      },
+      {
+        "name": "白芷",
+        "amount": "一两",
+        "original_text": "白芷一两"
+      },
+      {
+        "name": "川芎",
+        "amount": "一两",
+        "original_text": "川芎一两"
+      },
+      {
+        "name": "细辛",
+        "amount": "一两",
+        "original_text": "细辛一两"
+      },
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松一两"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香一两"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香少许"
+      }
+    ],
+    "method": "为细末，入麝香少许，和匀，以绢袋盛之，浴后扑身。",
+    "category": "身体香粉",
+    "usage": "浴后扑身",
+    "notes": "傅身香粉用于身体爽汗生香。"
+  },
+  {
+    "fang_name": "面脂香方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "起居安乐笺",
+    "source_text": "面脂香方：白芷、白附子、白茯苓、白及、白蔹、白术、杏仁、桃仁各一两，檀香、丁香、木香、藿香各五钱，羊脂、猪脂各半斤。右为细末，入脂中调匀，蒸熟，敷面。",
+    "ingredients": [
+      {
+        "name": "白芷",
+        "amount": "一两",
+        "original_text": "白芷一两"
+      },
+      {
+        "name": "白附子",
+        "amount": "一两",
+        "original_text": "白附子一两"
+      },
+      {
+        "name": "白茯苓",
+        "amount": "一两",
+        "original_text": "白茯苓一两"
+      },
+      {
+        "name": "白及",
+        "amount": "一两",
+        "original_text": "白及一两"
+      },
+      {
+        "name": "白蔹",
+        "amount": "一两",
+        "original_text": "白蔹一两"
+      },
+      {
+        "name": "白术",
+        "amount": "一两",
+        "original_text": "白术一两"
+      },
+      {
+        "name": "杏仁",
+        "amount": "一两",
+        "original_text": "杏仁一两"
+      },
+      {
+        "name": "桃仁",
+        "amount": "一两",
+        "original_text": "桃仁一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "五钱",
+        "original_text": "檀香五钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "五钱",
+        "original_text": "丁香五钱"
+      },
+      {
+        "name": "木香",
+        "amount": "五钱",
+        "original_text": "木香五钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "五钱",
+        "original_text": "藿香五钱"
+      },
+      {
+        "name": "羊脂",
+        "amount": "半斤",
+        "original_text": "羊脂半斤"
+      },
+      {
+        "name": "猪脂",
+        "amount": "半斤",
+        "original_text": "猪脂半斤"
+      }
+    ],
+    "method": "为细末，入脂中调匀，蒸熟，敷面。",
+    "category": "面部护理",
+    "usage": "敷面润肤",
+    "notes": "面脂香方兼有护肤与香芬之效。"
+  },
+  {
+    "fang_name": "莲花香茶方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "起居安乐笺",
+    "source_text": "莲花香茶方：莲花蕊、薄荷、甘草、檀香、丁香各等分，为细末，和茶叶中，冲泡之。",
+    "ingredients": [
+      {
+        "name": "莲花蕊",
+        "amount": "等分",
+        "original_text": "莲花蕊"
+      },
+      {
+        "name": "薄荷",
+        "amount": "等分",
+        "original_text": "薄荷"
+      },
+      {
+        "name": "甘草",
+        "amount": "等分",
+        "original_text": "甘草"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "茶叶",
+        "amount": "适量",
+        "original_text": "茶叶"
+      }
+    ],
+    "method": "为细末，和茶叶中，冲泡之。",
+    "category": "香茶",
+    "usage": "饮用",
+    "notes": "莲花香茶清芬怡神。"
+  },
+  {
+    "fang_name": "香墨方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "香墨方：松烟墨十两，丁香、檀香、木香、藿香、龙脑、麝香各一钱，为细末，和墨中，制成墨锭。",
+    "ingredients": [
+      {
+        "name": "松烟墨",
+        "amount": "十两",
+        "original_text": "松烟墨十两"
+      },
+      {
+        "name": "丁香",
+        "amount": "一钱",
+        "original_text": "丁香一钱"
+      },
+      {
+        "name": "檀香",
+        "amount": "一钱",
+        "original_text": "檀香一钱"
+      },
+      {
+        "name": "木香",
+        "amount": "一钱",
+        "original_text": "木香一钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "一钱",
+        "original_text": "藿香一钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "为细末，和墨中，制成墨锭。",
+    "category": "文房香品",
+    "usage": "书写用墨",
+    "notes": "香墨书写时带有香气。"
+  },
+  {
+    "fang_name": "香炭方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "香炭方：炭末四两，黄丹一两，白芷五钱，檀香五钱，丁香五钱，木香五钱，乳香三钱。右为细末，用糯米粥和匀，捻成饼，晒干，烧之。",
+    "ingredients": [
+      {
+        "name": "炭末",
+        "amount": "四两",
+        "original_text": "炭末四两"
+      },
+      {
+        "name": "黄丹",
+        "amount": "一两",
+        "original_text": "黄丹一两"
+      },
+      {
+        "name": "白芷",
+        "amount": "五钱",
+        "original_text": "白芷五钱"
+      },
+      {
+        "name": "檀香",
+        "amount": "五钱",
+        "original_text": "檀香五钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "五钱",
+        "original_text": "丁香五钱"
+      },
+      {
+        "name": "木香",
+        "amount": "五钱",
+        "original_text": "木香五钱"
+      },
+      {
+        "name": "乳香",
+        "amount": "三钱",
+        "original_text": "乳香三钱"
+      }
+    ],
+    "method": "为细末，用糯米粥和匀，捻成饼，晒干，烧之。",
+    "category": "香炭",
+    "usage": "用作炭火，焚烧时带有香气",
+    "notes": "香炭用于熏香或取暖。"
+  },
+  {
+    "fang_name": "柏子香方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "柏子香方：柏子仁二两，沉香一两，檀香五钱，丁香三钱，龙脑一钱，麝香一钱。右为细末，炼蜜和匀，丸如豆大，烧之。",
+    "ingredients": [
+      {
+        "name": "柏子仁",
+        "amount": "二两",
+        "original_text": "柏子仁二两"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "五钱",
+        "original_text": "檀香五钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "三钱",
+        "original_text": "丁香三钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "为细末，炼蜜和匀，丸如豆大，烧之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "柏子香清雅宜人。"
+  },
+  {
+    "fang_name": "梅花香方",
+    "book": "遵生八笺",
+    "author": "高濂 (明)",
+    "volume": "燕闲清赏笺",
+    "source_text": "梅花香方：沉香一两，檀香五钱，丁香三钱，木香三钱，藿香三钱，龙脑二钱，麝香二钱，梅花（蜡梅）少许。右为细末，炼蜜和匀，丸如豆大，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "五钱",
+        "original_text": "檀香五钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "三钱",
+        "original_text": "丁香三钱"
+      },
+      {
+        "name": "木香",
+        "amount": "三钱",
+        "original_text": "木香三钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "三钱",
+        "original_text": "藿香三钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑二钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      },
+      {
+        "name": "梅花",
+        "amount": "少许",
+        "original_text": "梅花（蜡梅）少许"
+      }
+    ],
+    "method": "为细末，炼蜜和匀，丸如豆大，烧之。",
+    "category": "合香",
+    "usage": "焚香",
+    "notes": "梅花香方拟梅花清韵。"
+  }
+]

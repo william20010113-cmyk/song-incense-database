@@ -1,0 +1,860 @@
+[
+  {
+    "fang_name": "逗情香方",
+    "book": "中国香文献辑要",
+    "author": "现代辑录",
+    "volume": "卷三·合香方",
+    "source_text": "逗情香方：沉香半两，檀香一钱，麝香半钱，龙脑少许，蜜和丸如绿豆大，焚之令人情思悠然。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一钱",
+        "original_text": "檀香一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "半钱",
+        "original_text": "麝香半钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑少许"
+      }
+    ],
+    "method": "将诸香研细末，炼蜜和匀，丸如绿豆大，阴干备用。",
+    "category": "合香·情致类",
+    "usage": "焚于静室，助闲情逸致。",
+    "notes": "此方多载于明代香谱，与『蝴蝶香』同属怡情之品。"
+  },
+  {
+    "fang_name": "蝴蝶香方",
+    "book": "中国香文献辑要",
+    "author": "现代辑录",
+    "volume": "卷三·合香方",
+    "source_text": "蝴蝶香方：零陵香半两，甘松半两，藿香叶半两，丁香二钱，白芷二钱，麝香半钱，蜜和焚之，其烟袅袅如蝶。",
+    "ingredients": [
+      {
+        "name": "零陵香",
+        "amount": "半两",
+        "original_text": "零陵香半两"
+      },
+      {
+        "name": "甘松",
+        "amount": "半两",
+        "original_text": "甘松半两"
+      },
+      {
+        "name": "藿香叶",
+        "amount": "半两",
+        "original_text": "藿香叶半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "二钱",
+        "original_text": "丁香二钱"
+      },
+      {
+        "name": "白芷",
+        "amount": "二钱",
+        "original_text": "白芷二钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "半钱",
+        "original_text": "麝香半钱"
+      }
+    ],
+    "method": "诸药捣罗为末，炼蜜调匀，捻作饼子或丸，阴干焚之。",
+    "category": "合香·仿生类",
+    "usage": "焚香赏烟，取其轻盈盘旋之姿。",
+    "notes": "《香乘》有类似方，此系明代辑本所收。"
+  },
+  {
+    "fang_name": "琼瑶香方",
+    "book": "中国香文献辑要",
+    "author": "现代辑录",
+    "volume": "卷四·名香方",
+    "source_text": "琼瑶香方：沉香一两，白檀半两，乳香三钱，龙脑一钱，甲香二钱（制），蜜和丸。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "白檀",
+        "amount": "半两",
+        "original_text": "白檀半两"
+      },
+      {
+        "name": "乳香",
+        "amount": "三钱",
+        "original_text": "乳香三钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "甲香",
+        "amount": "二钱",
+        "original_text": "甲香二钱（制）"
+      }
+    ],
+    "method": "甲香先以酒煮制，去腥；余香研细，蜜和丸，窨半月后焚。",
+    "category": "合香·清贵类",
+    "usage": "书斋焚用，贵气清雅。",
+    "notes": "此方不见于宋谱，明人增补。"
+  },
+  {
+    "fang_name": "闻思香方",
+    "book": "中国香文献辑要",
+    "author": "现代辑录",
+    "volume": "卷二·宋元遗方",
+    "source_text": "闻思香方：玄参、甘松各一两，白檀香半两，丁香、麝香各二钱，蜜和焚之，闻之引人深思。",
+    "ingredients": [
+      {
+        "name": "玄参",
+        "amount": "一两",
+        "original_text": "玄参一两"
+      },
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松一两"
+      },
+      {
+        "name": "白檀香",
+        "amount": "半两",
+        "original_text": "白檀香半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "二钱",
+        "original_text": "丁香二钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      }
+    ],
+    "method": "玄参切片，甘松去土，共研末，炼蜜和丸如梧桐子大，焚烧。",
+    "category": "合香·禅意类",
+    "usage": "打坐、静思时用。",
+    "notes": "传为江西黄庭坚所制，宋已有之，明人辑录。"
+  },
+  {
+    "fang_name": "意可香方",
+    "book": "中国香文献辑要",
+    "author": "现代辑录",
+    "volume": "卷二·宋元遗方",
+    "source_text": "意可香方：沉香、白檀、丁香、甘松、零陵香各半两，龙脑、麝香各一钱，蜜和丸。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "白檀",
+        "amount": "半两",
+        "original_text": "白檀半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "甘松",
+        "amount": "半两",
+        "original_text": "甘松半两"
+      },
+      {
+        "name": "零陵香",
+        "amount": "半两",
+        "original_text": "零陵香半两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "研末，蜜和为丸，窨一月后焚。",
+    "category": "合香·禅意类",
+    "usage": "坐禅、对客。",
+    "notes": "黄庭坚《山谷别集》载有此方，明《香乘》亦收。"
+  },
+  {
+    "fang_name": "更深香方",
+    "book": "中国香文献辑要",
+    "author": "现代辑录",
+    "volume": "卷五·夜香方",
+    "source_text": "更深香方：沉香一两，檀香半两，乳香二钱，安息香二钱，龙脑一钱，蜜和丸，夜焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两"
+      },
+      {
+        "name": "乳香",
+        "amount": "二钱",
+        "original_text": "乳香二钱"
+      },
+      {
+        "name": "安息香",
+        "amount": "二钱",
+        "original_text": "安息香二钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      }
+    ],
+    "method": "研细末，炼蜜和丸，每丸重半钱，夜静焚之。",
+    "category": "合香·时令类",
+    "usage": "夜深人静时焚，助眠安神。",
+    "notes": "此方多见于明清香谱，宋谱罕见。"
+  },
+  {
+    "fang_name": "小宗香方",
+    "book": "中国香文献辑要",
+    "author": "现代辑录",
+    "volume": "卷二·宋元遗方",
+    "source_text": "小宗香方：沉香、白檀、丁香、麝香各等分，蜜和丸如豆大，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香、白檀、丁香、麝香各等分"
+      },
+      {
+        "name": "白檀",
+        "amount": "等分",
+        "original_text": "沉香、白檀、丁香、麝香各等分"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "沉香、白檀、丁香、麝香各等分"
+      },
+      {
+        "name": "麝香",
+        "amount": "等分",
+        "original_text": "沉香、白檀、丁香、麝香各等分"
+      }
+    ],
+    "method": "四味研末，蜜和为丸。",
+    "category": "合香·清简类",
+    "usage": "日常焚用。",
+    "notes": "『小宗』名取法于『大宗』，传为僧家所制。"
+  },
+  {
+    "fang_name": "双井香方",
+    "book": "中国香文献辑要",
+    "author": "现代辑录",
+    "volume": "卷二·宋元遗方",
+    "source_text": "双井香方：沉香、檀香、乳香、木香各三钱，麝香半钱，蜜和丸。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "三钱",
+        "original_text": "沉香三钱"
+      },
+      {
+        "name": "檀香",
+        "amount": "三钱",
+        "original_text": "檀香三钱"
+      },
+      {
+        "name": "乳香",
+        "amount": "三钱",
+        "original_text": "乳香三钱"
+      },
+      {
+        "name": "木香",
+        "amount": "三钱",
+        "original_text": "木香三钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "半钱",
+        "original_text": "麝香半钱"
+      }
+    ],
+    "method": "研末，蜜丸，窨干焚之。",
+    "category": "合香·文人类",
+    "usage": "书斋焚用，助文思。",
+    "notes": "江西双井茶产地所传，与茶香并称。"
+  },
+  {
+    "fang_name": "马都监香方",
+    "book": "中国香文献辑要",
+    "author": "现代辑录",
+    "volume": "卷二·宋元遗方",
+    "source_text": "马都监香方：沉香、檀香、丁香、零陵香、甘松、藿香各半两，龙脑、麝香各一钱，蜜和丸。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "零陵香",
+        "amount": "半两",
+        "original_text": "零陵香半两"
+      },
+      {
+        "name": "甘松",
+        "amount": "半两",
+        "original_text": "甘松半两"
+      },
+      {
+        "name": "藿香",
+        "amount": "半两",
+        "original_text": "藿香半两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "八味研末，蜜和为丸，每焚一丸。",
+    "category": "合香·官方类",
+    "usage": "宴客、公庭所用。",
+    "notes": "传为宋代马姓都监所制，明《香乘》有载。"
+  },
+  {
+    "fang_name": "安晚香方",
+    "book": "中国香文献辑要",
+    "author": "现代辑录",
+    "volume": "卷五·夜香方",
+    "source_text": "安晚香方：檀香二两，沉香一两，乳香半两，苏合油少许，蜜和作饼，晚焚安神。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "amount": "二两",
+        "original_text": "檀香二两"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香半两"
+      },
+      {
+        "name": "苏合油",
+        "amount": "少许",
+        "original_text": "苏合油少许"
+      }
+    ],
+    "method": "前三味研末，滴入苏合油，蜜调作薄饼，阴干焚之。",
+    "category": "合香·安神类",
+    "usage": "晚间睡前焚香。",
+    "notes": "此方多见于明代《遵生八笺》类书。"
+  },
+  {
+    "fang_name": "荀令十里香方",
+    "book": "中国香文献辑要",
+    "author": "现代辑录",
+    "volume": "卷三·合香方",
+    "source_text": "荀令十里香方：沉香、白檀、甘松、零陵香各一两，丁香三钱，麝香一钱，蜜丸焚之，香闻十里。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "白檀",
+        "amount": "一两",
+        "original_text": "白檀一两"
+      },
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松一两"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "三钱",
+        "original_text": "丁香三钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "研末，炼蜜和丸，每丸重半钱。",
+    "category": "合香·典故类",
+    "usage": "熏衣、焚室。",
+    "notes": "借东汉荀彧（荀令君）衣香典故，宋明假托。"
+  },
+  {
+    "fang_name": "韩寿偷香方",
+    "book": "中国香文献辑要",
+    "author": "现代辑录",
+    "volume": "卷三·合香方",
+    "source_text": "韩寿偷香方：沉香、檀香、乳香、龙脑、麝香各等分，研末，蜜丸，熏衣。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香、檀香、乳香、龙脑、麝香各等分"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "沉香、檀香、乳香、龙脑、麝香各等分"
+      },
+      {
+        "name": "乳香",
+        "amount": "等分",
+        "original_text": "沉香、檀香、乳香、龙脑、麝香各等分"
+      },
+      {
+        "name": "龙脑",
+        "amount": "等分",
+        "original_text": "沉香、檀香、乳香、龙脑、麝香各等分"
+      },
+      {
+        "name": "麝香",
+        "amount": "等分",
+        "original_text": "沉香、檀香、乳香、龙脑、麝香各等分"
+      }
+    ],
+    "method": "研极细末，炼蜜为丸，置衣笼中熏衣。",
+    "category": "合香·典故类",
+    "usage": "熏衣，取其风流之意。",
+    "notes": "用晋代韩寿与贾女私通典，明人增制。"
+  },
+  {
+    "fang_name": "贾女香方",
+    "book": "中国香文献辑要",
+    "author": "现代辑录",
+    "volume": "卷三·合香方",
+    "source_text": "贾女香方：檀香一两，沉香半两，丁香、零陵香、甘松各三钱，麝香半钱，蜜和丸。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "三钱",
+        "original_text": "丁香三钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "三钱",
+        "original_text": "零陵香三钱"
+      },
+      {
+        "name": "甘松",
+        "amount": "三钱",
+        "original_text": "甘松三钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "半钱",
+        "original_text": "麝香半钱"
+      }
+    ],
+    "method": "研末，蜜和丸，焚或熏衣。",
+    "category": "合香·典故类",
+    "usage": "闺阁熏用。",
+    "notes": "与韩寿偷香方相应，均为风流典故所出。"
+  },
+  {
+    "fang_name": "妙华香方",
+    "book": "中国香文献辑要",
+    "author": "现代辑录",
+    "volume": "卷三·合香方",
+    "source_text": "妙华香方：沉香、檀香、乳香、丁香、甘松各半两，龙脑、麝香各一钱，蜜和丸，焚之天华散落。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "甘松",
+        "amount": "半两",
+        "original_text": "甘松半两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "七味研末，蜜和丸如芡实大。",
+    "category": "合香·禅意类",
+    "usage": "佛前供养或静修。",
+    "notes": "名取『妙法莲华』之意。"
+  },
+  {
+    "fang_name": "百刻香方",
+    "book": "中国香文献辑要",
+    "author": "现代辑录",
+    "volume": "卷六·香印类",
+    "source_text": "百刻香方：沉香、檀香、乳香、龙脑、麝香各等分，研末，以榆皮粉为糊，印作篆文，烧之可计时。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香、檀香、乳香、龙脑、麝香各等分"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "沉香、檀香、乳香、龙脑、麝香各等分"
+      },
+      {
+        "name": "乳香",
+        "amount": "等分",
+        "original_text": "沉香、檀香、乳香、龙脑、麝香各等分"
+      },
+      {
+        "name": "龙脑",
+        "amount": "等分",
+        "original_text": "沉香、檀香、乳香、龙脑、麝香各等分"
+      },
+      {
+        "name": "麝香",
+        "amount": "等分",
+        "original_text": "沉香、檀香、乳香、龙脑、麝香各等分"
+      }
+    ],
+    "method": "五香研末，榆皮粉煮糊，调香末作印，阴干备用。连烧可计十二时辰。",
+    "category": "合香·计时类",
+    "usage": "香篆计时。",
+    "notes": "宋代已有百刻香，明人完善配方。"
+  },
+  {
+    "fang_name": "宝篆香方",
+    "book": "中国香文献辑要",
+    "author": "现代辑录",
+    "volume": "卷六·香印类",
+    "source_text": "宝篆香方：檀香二两，沉香一两，乳香、没药各五钱，龙脑、麝香各二钱，以蜜和作篆模。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "amount": "二两",
+        "original_text": "檀香二两"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "乳香",
+        "amount": "五钱",
+        "original_text": "乳香五钱"
+      },
+      {
+        "name": "没药",
+        "amount": "五钱",
+        "original_text": "没药五钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑二钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      }
+    ],
+    "method": "研末，炼蜜和匀，压入篆模，脱出阴干。",
+    "category": "合香·香印类",
+    "usage": "焚香篆，观烟赏玩。",
+    "notes": "明代文人所喜，篆字百态。"
+  },
+  {
+    "fang_name": "蓝田香方",
+    "book": "中国香文献辑要",
+    "author": "现代辑录",
+    "volume": "卷三·合香方",
+    "source_text": "蓝田香方：沉香、檀香、乳香、丁香、零陵香各半两，龙脑一钱，蜜和丸，焚之如蓝田日暖。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "零陵香",
+        "amount": "半两",
+        "original_text": "零陵香半两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      }
+    ],
+    "method": "研末，蜜为丸。",
+    "category": "合香·清贵类",
+    "usage": "书房焚香。",
+    "notes": "借李商隐『蓝田日暖玉生烟』诗意。"
+  },
+  {
+    "fang_name": "翠羽香方",
+    "book": "中国香文献辑要",
+    "author": "现代辑录",
+    "volume": "卷三·合香方",
+    "source_text": "翠羽香方：零陵香、甘松、藿香、白芷各一两，丁香二钱，麝香半钱，蜜和丸，焚之翠羽轻摇。",
+    "ingredients": [
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香一两"
+      },
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松一两"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香一两"
+      },
+      {
+        "name": "白芷",
+        "amount": "一两",
+        "original_text": "白芷一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "二钱",
+        "original_text": "丁香二钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "半钱",
+        "original_text": "麝香半钱"
+      }
+    ],
+    "method": "研末，蜜和丸，每焚一丸。",
+    "category": "合香·仿生类",
+    "usage": "焚香赏烟之轻盈。",
+    "notes": "烟色青翠，故名翠羽。"
+  },
+  {
+    "fang_name": "甜香方",
+    "book": "中国香文献辑要",
+    "author": "现代辑录",
+    "volume": "卷三·合香方",
+    "source_text": "甜香方：檀香二两，沉香一两，丁香、茅香、零陵香各五钱，龙脑二钱，炼蜜和丸，其味甘甜。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "amount": "二两",
+        "original_text": "檀香二两"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "五钱",
+        "original_text": "丁香五钱"
+      },
+      {
+        "name": "茅香",
+        "amount": "五钱",
+        "original_text": "茅香五钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "五钱",
+        "original_text": "零陵香五钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑二钱"
+      }
+    ],
+    "method": "研末，炼蜜为丸，窨一月焚之。",
+    "category": "合香·甜腻类",
+    "usage": "宴饮、闺阁。",
+    "notes": "明人喜甜香，此方为典型。"
+  },
+  {
+    "fang_name": "醒心香方",
+    "book": "中国香文献辑要",
+    "author": "现代辑录",
+    "volume": "卷四·清神方",
+    "source_text": "醒心香方：龙脑三钱，薄荷叶五钱，沉香半两，檀香半两，蜜和作饼，焚之能醒心神。",
+    "ingredients": [
+      {
+        "name": "龙脑",
+        "amount": "三钱",
+        "original_text": "龙脑三钱"
+      },
+      {
+        "name": "薄荷叶",
+        "amount": "五钱",
+        "original_text": "薄荷叶五钱"
+      },
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两"
+      }
+    ],
+    "method": "薄荷叶晒干，余香研末，蜜调作薄饼，焚之。",
+    "category": "合香·提神类",
+    "usage": "午后困倦或读书时焚。",
+    "notes": "取其清凉醒脑。"
+  },
+  {
+    "fang_name": "玉蕊香方",
+    "book": "中国香文献辑要",
+    "author": "现代辑录",
+    "volume": "卷四·名香方",
+    "source_text": "玉蕊香方：沉香、白檀、乳香、丁香、甘松各半两，龙脑、麝香各一钱，炼蜜和丸，焚之如琼花玉蕊。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "白檀",
+        "amount": "半两",
+        "original_text": "白檀半两"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "甘松",
+        "amount": "半两",
+        "original_text": "甘松半两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "研末，炼蜜为丸，窨半月。",
+    "category": "合香·清贵类",
+    "usage": "雅集、清谈。",
+    "notes": "名贵典雅，明人常制。"
+  }
+]

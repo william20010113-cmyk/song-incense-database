@@ -1,0 +1,849 @@
+{
+  "丁香": {
+    "name": "丁香",
+    "nature": "温",
+    "flavor": "辛",
+    "meridian": [
+      "脾",
+      "胃",
+      "肾"
+    ],
+    "effect": "温中降逆，散寒止痛",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "乳香": {
+    "name": "乳香",
+    "nature": "温",
+    "flavor": "辛、苦",
+    "meridian": [
+      "心",
+      "肝",
+      "脾"
+    ],
+    "effect": "活血行气，止痛消肿",
+    "toxicity": "无毒",
+    "source": "《证类本草》"
+  },
+  "兰草": {
+    "name": "兰草",
+    "nature": "平",
+    "flavor": "辛",
+    "meridian": [
+      "肺",
+      "脾",
+      "肝"
+    ],
+    "effect": "利水渗湿，芳香化浊",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "含笑花": {
+    "name": "含笑花",
+    "nature": "温",
+    "flavor": "甘、辛",
+    "meridian": [
+      "肺",
+      "脾"
+    ],
+    "effect": "活血调经，安神解郁",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "安息香": {
+    "name": "安息香",
+    "nature": "平",
+    "flavor": "辛、苦",
+    "meridian": [
+      "心",
+      "肝",
+      "脾"
+    ],
+    "effect": "开窍醒神，行气活血",
+    "toxicity": "无毒",
+    "source": "《证类本草》"
+  },
+  "排香": {
+    "name": "排香",
+    "nature": "温",
+    "flavor": "辛、甘",
+    "meridian": [
+      "脾",
+      "胃",
+      "肺"
+    ],
+    "effect": "芳香化湿，辟秽和中",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "木犀花": {
+    "name": "木犀花",
+    "nature": "温",
+    "flavor": "辛",
+    "meridian": [
+      "肺",
+      "肝",
+      "大肠"
+    ],
+    "effect": "化痰止咳，散寒破结",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "木香": {
+    "name": "木香",
+    "nature": "温",
+    "flavor": "辛、苦",
+    "meridian": [
+      "脾",
+      "胃",
+      "大肠",
+      "三焦"
+    ],
+    "effect": "行气止痛，健脾消食",
+    "toxicity": "无毒",
+    "source": "《证类本草》"
+  },
+  "松香": {
+    "name": "松香",
+    "nature": "温",
+    "flavor": "辛、甘",
+    "meridian": [
+      "肝",
+      "脾",
+      "肺"
+    ],
+    "effect": "祛风燥湿，生肌止痛",
+    "toxicity": "有毒",
+    "source": "《本草纲目》"
+  },
+  "枣肉": {
+    "name": "枣肉",
+    "nature": "温",
+    "flavor": "甘",
+    "meridian": [
+      "脾",
+      "胃",
+      "心"
+    ],
+    "effect": "补中益气，养血安神",
+    "toxicity": "无毒",
+    "source": "《证类本草》"
+  },
+  "柏子仁": {
+    "name": "柏子仁",
+    "nature": "平",
+    "flavor": "甘",
+    "meridian": [
+      "心",
+      "肾",
+      "大肠"
+    ],
+    "effect": "养心安神，润肠通便",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "柏子实": {
+    "name": "柏子实",
+    "nature": "平",
+    "flavor": "甘、涩",
+    "meridian": [
+      "心",
+      "肾",
+      "大肠"
+    ],
+    "effect": "养心安神，收敛止血",
+    "toxicity": "无毒",
+    "source": "《证类本草》"
+  },
+  "桂心": {
+    "name": "桂心",
+    "nature": "热",
+    "flavor": "辛、甘",
+    "meridian": [
+      "心",
+      "脾",
+      "肾"
+    ],
+    "effect": "补火助阳，散寒止痛",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "桂花": {
+    "name": "桂花",
+    "nature": "温",
+    "flavor": "辛",
+    "meridian": [
+      "肺",
+      "肝",
+      "大肠"
+    ],
+    "effect": "化痰止咳，散寒破结",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "桂花末": {
+    "name": "桂花末",
+    "nature": "温",
+    "flavor": "辛",
+    "meridian": [
+      "肺",
+      "肝",
+      "大肠"
+    ],
+    "effect": "散寒止痛，温中暖胃",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "梅花": {
+    "name": "梅花",
+    "nature": "平",
+    "flavor": "微酸、涩",
+    "meridian": [
+      "肝",
+      "胃",
+      "肺"
+    ],
+    "effect": "疏肝解郁，开胃生津",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "梅花冰片": {
+    "name": "梅花冰片",
+    "nature": "凉",
+    "flavor": "辛、苦",
+    "meridian": [
+      "心",
+      "肺",
+      "脾"
+    ],
+    "effect": "开窍醒神，清热止痛",
+    "toxicity": "有小毒",
+    "source": "《证类本草》"
+  },
+  "檀香": {
+    "name": "檀香",
+    "nature": "温",
+    "flavor": "辛",
+    "meridian": [
+      "脾",
+      "胃",
+      "肺"
+    ],
+    "effect": "行气温中，开胃止痛",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "沉香": {
+    "name": "沉香",
+    "nature": "温",
+    "flavor": "辛、苦",
+    "meridian": [
+      "脾",
+      "胃",
+      "肾"
+    ],
+    "effect": "行气止痛，温中止呕",
+    "toxicity": "无毒",
+    "source": "《证类本草》"
+  },
+  "油": {
+    "name": "油",
+    "nature": "平",
+    "flavor": "甘",
+    "meridian": [
+      "脾",
+      "胃",
+      "大肠"
+    ],
+    "effect": "润肠通便，解毒生肌",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "浆水": {
+    "name": "浆水",
+    "nature": "凉",
+    "flavor": "甘、酸",
+    "meridian": [
+      "脾",
+      "胃",
+      "大肠"
+    ],
+    "effect": "和胃止呕，清热除烦",
+    "toxicity": "无毒",
+    "source": "《证类本草》"
+  },
+  "片脑": {
+    "name": "片脑",
+    "nature": "凉",
+    "flavor": "辛、苦",
+    "meridian": [
+      "心",
+      "肺",
+      "脾"
+    ],
+    "effect": "开窍醒神，清热止痛",
+    "toxicity": "有小毒",
+    "source": "《本草纲目》"
+  },
+  "玄参": {
+    "name": "玄参",
+    "nature": "寒",
+    "flavor": "甘、苦、咸",
+    "meridian": [
+      "肺",
+      "胃",
+      "肾"
+    ],
+    "effect": "清热凉血，滋阴解毒",
+    "toxicity": "无毒",
+    "source": "《证类本草》"
+  },
+  "玫瑰花瓣": {
+    "name": "玫瑰花瓣",
+    "nature": "温",
+    "flavor": "甘、微苦",
+    "meridian": [
+      "肝",
+      "脾"
+    ],
+    "effect": "疏肝解郁，活血止痛",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "甘松": {
+    "name": "甘松",
+    "nature": "温",
+    "flavor": "辛、甘",
+    "meridian": [
+      "脾",
+      "胃"
+    ],
+    "effect": "理气止痛，醒脾开胃",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "甘草": {
+    "name": "甘草",
+    "nature": "平",
+    "flavor": "甘",
+    "meridian": [
+      "心",
+      "肺",
+      "脾",
+      "胃"
+    ],
+    "effect": "补脾益气，清热解毒",
+    "toxicity": "无毒",
+    "source": "《证类本草》《本草纲目》"
+  },
+  "甘菊花": {
+    "name": "甘菊花",
+    "nature": "微寒",
+    "flavor": "甘、苦",
+    "meridian": [
+      "肺",
+      "肝"
+    ],
+    "effect": "疏风清热，平肝明目",
+    "toxicity": "无毒",
+    "source": "《证类本草》《本草纲目》"
+  },
+  "甲香": {
+    "name": "甲香",
+    "nature": "平",
+    "flavor": "咸",
+    "meridian": [
+      "肝",
+      "脾"
+    ],
+    "effect": "清热祛风，行气止痛",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "白檀香": {
+    "name": "白檀香",
+    "nature": "温",
+    "flavor": "辛",
+    "meridian": [
+      "脾",
+      "胃",
+      "肺"
+    ],
+    "effect": "行气温中，开胃止痛",
+    "toxicity": "无毒",
+    "source": "《证类本草》《本草纲目》"
+  },
+  "白芨": {
+    "name": "白芨",
+    "nature": "微寒",
+    "flavor": "苦、甘、涩",
+    "meridian": [
+      "肺",
+      "肝",
+      "胃"
+    ],
+    "effect": "收敛止血，消肿生肌",
+    "toxicity": "无毒",
+    "source": "《证类本草》《本草纲目》"
+  },
+  "白芨末": {
+    "name": "白芨末",
+    "nature": "微寒",
+    "flavor": "苦、甘、涩",
+    "meridian": [
+      "肺",
+      "肝",
+      "胃"
+    ],
+    "effect": "收敛止血，消肿生肌",
+    "toxicity": "无毒",
+    "source": "《证类本草》《本草纲目》"
+  },
+  "白芷": {
+    "name": "白芷",
+    "nature": "温",
+    "flavor": "辛",
+    "meridian": [
+      "肺",
+      "胃",
+      "大肠"
+    ],
+    "effect": "解表散寒，祛风止痛",
+    "toxicity": "无毒",
+    "source": "《证类本草》《本草纲目》"
+  },
+  "石菖蒲": {
+    "name": "石菖蒲",
+    "nature": "温",
+    "flavor": "辛、苦",
+    "meridian": [
+      "心",
+      "胃"
+    ],
+    "effect": "开窍豁痰，醒神益智",
+    "toxicity": "无毒",
+    "source": "《证类本草》《本草纲目》"
+  },
+  "笃耨香": {
+    "name": "笃耨香",
+    "nature": "温",
+    "flavor": "辛",
+    "meridian": [
+      "心",
+      "脾"
+    ],
+    "effect": "理气活血，通窍辟秽",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "糯米粉": {
+    "name": "糯米粉",
+    "nature": "平",
+    "flavor": "甘",
+    "meridian": [
+      "脾",
+      "胃",
+      "肺"
+    ],
+    "effect": "补中益气，健脾止泻",
+    "toxicity": "无毒",
+    "source": "《证类本草》（糯米）"
+  },
+  "素馨花": {
+    "name": "素馨花",
+    "nature": "平",
+    "flavor": "甘",
+    "meridian": [
+      "肝"
+    ],
+    "effect": "疏肝解郁，理气调经",
+    "toxicity": "无毒",
+    "source": "《本草纲目拾遗》"
+  },
+  "紫茸": {
+    "name": "紫茸",
+    "nature": "平",
+    "flavor": "甘、咸",
+    "meridian": [
+      "肝",
+      "肾"
+    ],
+    "effect": "凉血止血，清热解毒",
+    "toxicity": "无毒",
+    "source": "《证类本草》《本草纲目》"
+  },
+  "细辛": {
+    "name": "细辛",
+    "nature": "温",
+    "flavor": "辛",
+    "meridian": [
+      "肺",
+      "肾",
+      "心"
+    ],
+    "effect": "祛风散寒，通窍止痛",
+    "toxicity": "有小毒",
+    "source": "《证类本草》《本草纲目》"
+  },
+  "肉桂": {
+    "name": "肉桂",
+    "nature": "大热",
+    "flavor": "辛、甘",
+    "meridian": [
+      "肾",
+      "脾",
+      "心",
+      "肝"
+    ],
+    "effect": "补火助阳，散寒止痛",
+    "toxicity": "无毒",
+    "source": "《证类本草》《本草纲目》"
+  },
+  "艾叶": {
+    "name": "艾叶",
+    "nature": "温",
+    "flavor": "辛、苦",
+    "meridian": [
+      "肝",
+      "脾",
+      "肾"
+    ],
+    "effect": "温经止血，散寒止痛",
+    "toxicity": "有小毒",
+    "source": "《证类本草》《本草纲目》"
+  },
+  "芸香": {
+    "name": "芸香",
+    "nature": "温",
+    "flavor": "辛、苦",
+    "meridian": [
+      "肝",
+      "脾"
+    ],
+    "effect": "祛风湿，通经络",
+    "toxicity": "无毒",
+    "source": "《证类本草》"
+  },
+  "芸香草": {
+    "name": "芸香草",
+    "nature": "温",
+    "flavor": "辛、苦",
+    "meridian": [
+      "肝",
+      "脾"
+    ],
+    "effect": "祛风散寒，止咳平喘",
+    "toxicity": "无毒",
+    "source": "《证类本草》"
+  },
+  "苍术": {
+    "name": "苍术",
+    "nature": "温",
+    "flavor": "辛、苦",
+    "meridian": [
+      "脾",
+      "胃",
+      "肝"
+    ],
+    "effect": "燥湿健脾，祛风散寒",
+    "toxicity": "无毒",
+    "source": "《证类本草》《本草纲目》"
+  },
+  "苏合油": {
+    "name": "苏合油",
+    "nature": "温",
+    "flavor": "辛",
+    "meridian": [
+      "心",
+      "脾"
+    ],
+    "effect": "开窍辟秽，止痛",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "苏合香": {
+    "name": "苏合香",
+    "nature": "温",
+    "flavor": "辛",
+    "meridian": [
+      "心",
+      "脾"
+    ],
+    "effect": "开窍辟秽，止痛",
+    "toxicity": "无毒",
+    "source": "《证类本草》《本草纲目》"
+  },
+  "苏合香油": {
+    "name": "苏合香油",
+    "nature": "温",
+    "flavor": "辛",
+    "meridian": [
+      "心",
+      "脾"
+    ],
+    "effect": "开窍辟秽，止痛",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "茅香": {
+    "name": "茅香",
+    "nature": "平",
+    "flavor": "甘",
+    "meridian": [
+      "脾",
+      "胃"
+    ],
+    "effect": "辟秽化浊，理气止痛",
+    "toxicity": "无毒",
+    "source": "《证类本草》"
+  },
+  "茉莉花": {
+    "name": "茉莉花",
+    "nature": "温",
+    "flavor": "辛、甘",
+    "meridian": [
+      "脾",
+      "肝"
+    ],
+    "effect": "理气止痛，辟秽和中",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "茴香": {
+    "name": "茴香",
+    "nature": "温",
+    "flavor": "辛",
+    "meridian": [
+      "肾",
+      "膀胱",
+      "胃"
+    ],
+    "effect": "散寒止痛，理气和胃",
+    "toxicity": "无毒",
+    "source": "《证类本草》《本草纲目》"
+  },
+  "荷叶": {
+    "name": "荷叶",
+    "nature": "平",
+    "flavor": "苦",
+    "meridian": [
+      "肝",
+      "脾",
+      "胃"
+    ],
+    "effect": "清暑化湿，升阳止血",
+    "toxicity": "无毒",
+    "source": "《证类本草》《本草纲目》"
+  },
+  "菖蒲": {
+    "name": "菖蒲",
+    "nature": "温",
+    "flavor": "辛",
+    "meridian": [
+      "心",
+      "胃"
+    ],
+    "effect": "开窍豁痰",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "薄荷叶": {
+    "name": "薄荷叶",
+    "nature": "凉",
+    "flavor": "辛",
+    "meridian": [
+      "肺",
+      "肝"
+    ],
+    "effect": "疏散风热",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "藿香": {
+    "name": "藿香",
+    "nature": "温",
+    "flavor": "辛",
+    "meridian": [
+      "脾",
+      "胃",
+      "肺"
+    ],
+    "effect": "芳香化湿",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "藿香叶": {
+    "name": "藿香叶",
+    "nature": "温",
+    "flavor": "辛",
+    "meridian": [
+      "脾",
+      "胃",
+      "肺"
+    ],
+    "effect": "发表化湿",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "蜜": {
+    "name": "蜜",
+    "nature": "平",
+    "flavor": "甘",
+    "meridian": [
+      "肺",
+      "脾",
+      "大肠"
+    ],
+    "effect": "补中润燥",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "降真香": {
+    "name": "降真香",
+    "nature": "温",
+    "flavor": "辛",
+    "meridian": [
+      "肝",
+      "脾"
+    ],
+    "effect": "活血止血",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "雄黄": {
+    "name": "雄黄",
+    "nature": "温",
+    "flavor": "辛",
+    "meridian": [
+      "肝",
+      "大肠"
+    ],
+    "effect": "解毒杀虫",
+    "toxicity": "有毒",
+    "source": "《本草纲目》"
+  },
+  "零陵香": {
+    "name": "零陵香",
+    "nature": "平",
+    "flavor": "辛甘",
+    "meridian": [
+      "肺",
+      "脾"
+    ],
+    "effect": "祛风散寒",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "香油": {
+    "name": "香油",
+    "nature": "凉",
+    "flavor": "甘",
+    "meridian": [
+      "大肠"
+    ],
+    "effect": "润肠通便",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "香花花瓣": {
+    "name": "香花花瓣",
+    "nature": "平",
+    "flavor": "甘",
+    "meridian": [
+      "肝",
+      "脾"
+    ],
+    "effect": "理气解郁",
+    "toxicity": "无毒",
+    "source": "《本草纲目拾遗》"
+  },
+  "马牙香": {
+    "name": "马牙香",
+    "nature": "温",
+    "flavor": "辛",
+    "meridian": [
+      "心",
+      "肝",
+      "脾"
+    ],
+    "effect": "活血止痛",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "鸡舌香": {
+    "name": "鸡舌香",
+    "nature": "温",
+    "flavor": "辛",
+    "meridian": [
+      "脾",
+      "胃",
+      "肾"
+    ],
+    "effect": "温中降逆",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "鹅梨": {
+    "name": "鹅梨",
+    "nature": "凉",
+    "flavor": "甘酸",
+    "meridian": [
+      "肺",
+      "胃"
+    ],
+    "effect": "清热生津",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "麝香": {
+    "name": "麝香",
+    "nature": "温",
+    "flavor": "辛",
+    "meridian": [
+      "心",
+      "脾"
+    ],
+    "effect": "开窍醒神",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  },
+  "龙涎香": {
+    "name": "龙涎香",
+    "nature": "平",
+    "flavor": "甘酸",
+    "meridian": [
+      "心",
+      "肺",
+      "肾"
+    ],
+    "effect": "开窍化痰",
+    "toxicity": "无毒",
+    "source": "《本草纲目拾遗》"
+  },
+  "龙涎香末": {
+    "name": "龙涎香末",
+    "nature": "平",
+    "flavor": "甘酸",
+    "meridian": [
+      "心",
+      "肺",
+      "肾"
+    ],
+    "effect": "开窍化痰",
+    "toxicity": "无毒",
+    "source": "《本草纲目拾遗》"
+  },
+  "龙脑": {
+    "name": "龙脑",
+    "nature": "微寒",
+    "flavor": "辛苦",
+    "meridian": [
+      "心",
+      "脾",
+      "肺"
+    ],
+    "effect": "开窍醒神",
+    "toxicity": "无毒",
+    "source": "《本草纲目》"
+  }
+}

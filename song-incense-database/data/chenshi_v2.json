@@ -1,0 +1,2019 @@
+[
+  {
+    "fang_name": "百花香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "百花香：甘松（一两），零陵香（一两），藿香（半两），茴香（半两），丁香（半两），檀香（一两，剉），桂花（半两），麝香（少许）。右为细末，炼蜜和匀，作饼或丸，爇之。",
+    "ingredients": [
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松（一两）"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香（一两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "半两",
+        "original_text": "藿香（半两）"
+      },
+      {
+        "name": "茴香",
+        "amount": "半两",
+        "original_text": "茴香（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两，剉）"
+      },
+      {
+        "name": "桂花",
+        "amount": "半两",
+        "original_text": "桂花（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香（少许）"
+      }
+    ],
+    "method": "右为细末，炼蜜和匀，作饼或丸，爇之。",
+    "category": "合香",
+    "usage": "焚烧使用",
+    "notes": "百花香为常见合香方，取诸花之香。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "万春香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "万春香：沉香（一两），檀香（一两），乳香（半两），丁香（半两），木香（半两），龙脑（一钱），麝香（一钱）。右为细末，炼蜜和丸，如梧桐子大，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "木香",
+        "amount": "半两",
+        "original_text": "木香（半两）"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑（一钱）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如梧桐子大，烧之。",
+    "category": "焚香",
+    "usage": "焚烧",
+    "notes": "万春香寓意长久之春，香气浓郁。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "宝华香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "宝华香：檀香（四两，剉碎），沉香（一两），丁香（半两），乳香（半两），木香（半两），零陵香（一两），藿香（一两），甘松（一两），麝香（一钱）。右为细末，炼蜜和饼，烧之。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "amount": "四两",
+        "original_text": "檀香（四两，剉碎）"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "木香",
+        "amount": "半两",
+        "original_text": "木香（半两）"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香（一两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香（一两）"
+      },
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松（一两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和饼，烧之。",
+    "category": "焚香",
+    "usage": "焚烧",
+    "notes": "宝华香取宝华之象，香气温润。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "聚仙香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "聚仙香：沉香（一两），檀香（一两），乳香（一两），丁香（半两），木香（半两），藿香（半两），零陵香（半两），甘松（半两），麝香（一钱），龙脑（一钱）。右为细末，炼蜜和丸，如弹子大，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "一两",
+        "original_text": "乳香（一两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "木香",
+        "amount": "半两",
+        "original_text": "木香（半两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "半两",
+        "original_text": "藿香（半两）"
+      },
+      {
+        "name": "零陵香",
+        "amount": "半两",
+        "original_text": "零陵香（半两）"
+      },
+      {
+        "name": "甘松",
+        "amount": "半两",
+        "original_text": "甘松（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑（一钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如弹子大，烧之。",
+    "category": "焚香",
+    "usage": "焚烧",
+    "notes": "聚仙香模拟仙家聚会之香，众香齐备。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "通仙香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "通仙香：檀香（三两），沉香（一两），乳香（半两），丁香（半两），木香（半两），零陵香（半两），藿香（半两），甘松（半两），龙脑（一钱），麝香（一钱）。右为细末，炼蜜和饼，焚烧。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "amount": "三两",
+        "original_text": "檀香（三两）"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "木香",
+        "amount": "半两",
+        "original_text": "木香（半两）"
+      },
+      {
+        "name": "零陵香",
+        "amount": "半两",
+        "original_text": "零陵香（半两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "半两",
+        "original_text": "藿香（半两）"
+      },
+      {
+        "name": "甘松",
+        "amount": "半两",
+        "original_text": "甘松（半两）"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑（一钱）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和饼，焚烧。",
+    "category": "焚香",
+    "usage": "焚烧",
+    "notes": "通仙香意在通感仙真，香气清远。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "灵犀香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "灵犀香：沉香（一两），檀香（一两），龙脑（半钱），麝香（半钱）。右为细末，炼蜜和丸，如绿豆大，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两）"
+      },
+      {
+        "name": "龙脑",
+        "amount": "半钱",
+        "original_text": "龙脑（半钱）"
+      },
+      {
+        "name": "麝香",
+        "amount": "半钱",
+        "original_text": "麝香（半钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如绿豆大，烧之。",
+    "category": "焚香",
+    "usage": "焚烧",
+    "notes": "灵犀香取灵犀一点之意，香气通透。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "金鸡香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "金鸡香：沉香（一两），檀香（一两），丁香（半两），木香（半两），乳香（半两），龙脑（一钱），麝香（一钱）。右为细末，炼蜜和丸，如梧桐子大，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "木香",
+        "amount": "半两",
+        "original_text": "木香（半两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑（一钱）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如梧桐子大，烧之。",
+    "category": "焚香",
+    "usage": "焚烧",
+    "notes": "金鸡香以金鸡为名，取其吉祥之意。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "玉华香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "玉华香：檀香（四两），沉香（一两），丁香（半两），乳香（半两），木香（半两），零陵香（一两），藿香（一两），甘松（一两），麝香（一钱），龙脑（半钱）。右为细末，炼蜜和饼，焚之。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "amount": "四两",
+        "original_text": "檀香（四两）"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "木香",
+        "amount": "半两",
+        "original_text": "木香（半两）"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香（一两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香（一两）"
+      },
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松（一两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      },
+      {
+        "name": "龙脑",
+        "amount": "半钱",
+        "original_text": "龙脑（半钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和饼，焚之。",
+    "category": "焚香",
+    "usage": "焚烧",
+    "notes": "玉华香如美玉光华，香气雅致。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "玉蕊香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "玉蕊香：檀香（二两），沉香（一两），丁香（半两），乳香（半两），零陵香（半两），藿香（半两），甘松（半两），麝香（一钱）。右为细末，炼蜜和丸，如芡实大，烧之。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "amount": "二两",
+        "original_text": "檀香（二两）"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "零陵香",
+        "amount": "半两",
+        "original_text": "零陵香（半两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "半两",
+        "original_text": "藿香（半两）"
+      },
+      {
+        "name": "甘松",
+        "amount": "半两",
+        "original_text": "甘松（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如芡实大，烧之。",
+    "category": "焚香",
+    "usage": "焚烧",
+    "notes": "玉蕊香取花蕊之洁白，香气清幽。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "瑶英香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "瑶英香：沉香（一两），檀香（一两），乳香（半两），丁香（半两），木香（半两），零陵香（半两），藿香（半两），甘松（半两），龙脑（一钱），麝香（一钱）。右为细末，炼蜜和饼，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "木香",
+        "amount": "半两",
+        "original_text": "木香（半两）"
+      },
+      {
+        "name": "零陵香",
+        "amount": "半两",
+        "original_text": "零陵香（半两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "半两",
+        "original_text": "藿香（半两）"
+      },
+      {
+        "name": "甘松",
+        "amount": "半两",
+        "original_text": "甘松（半两）"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑（一钱）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和饼，烧之。",
+    "category": "焚香",
+    "usage": "焚烧",
+    "notes": "瑶英香喻美玉之英，香气华贵。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "清远香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "清远香：沉香（一两），檀香（一两），乳香（半两），丁香（半两），零陵香（半两），藿香（半两），甘松（半两），龙脑（半钱），麝香（半钱）。右为细末，炼蜜和丸，如绿豆大，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "零陵香",
+        "amount": "半两",
+        "original_text": "零陵香（半两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "半两",
+        "original_text": "藿香（半两）"
+      },
+      {
+        "name": "甘松",
+        "amount": "半两",
+        "original_text": "甘松（半两）"
+      },
+      {
+        "name": "龙脑",
+        "amount": "半钱",
+        "original_text": "龙脑（半钱）"
+      },
+      {
+        "name": "麝香",
+        "amount": "半钱",
+        "original_text": "麝香（半钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如绿豆大，烧之。",
+    "category": "焚香",
+    "usage": "焚烧",
+    "notes": "清远香取气味清幽而悠远。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "清心香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "清心香：沉香（一两），檀香（一两），丁香（半两），乳香（半两），木香（半两），龙脑（一钱），麝香（一钱）。右为细末，炼蜜和丸，如弹子大，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "木香",
+        "amount": "半两",
+        "original_text": "木香（半两）"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑（一钱）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如弹子大，烧之。",
+    "category": "焚香",
+    "usage": "焚烧",
+    "notes": "清心香有清心安神之效。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "醒骨香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "醒骨香：檀香（二两），零陵香（一两），藿香（一两），丁香（半两），乳香（半两），龙脑（一钱），麝香（一钱）。右为细末，炼蜜和丸，如芡实大，烧之。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "amount": "二两",
+        "original_text": "檀香（二两）"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香（一两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香（一两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑（一钱）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如芡实大，烧之。",
+    "category": "焚香",
+    "usage": "焚烧",
+    "notes": "醒骨香有提神醒脑之功。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "阁中香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "阁中香：沉香（一两），檀香（一两），乳香（半两），丁香（半两），木香（半两），零陵香（半两），藿香（半两），甘松（半两），麝香（一钱），龙脑（半钱）。右为细末，炼蜜和饼，焚于阁中。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "木香",
+        "amount": "半两",
+        "original_text": "木香（半两）"
+      },
+      {
+        "name": "零陵香",
+        "amount": "半两",
+        "original_text": "零陵香（半两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "半两",
+        "original_text": "藿香（半两）"
+      },
+      {
+        "name": "甘松",
+        "amount": "半两",
+        "original_text": "甘松（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      },
+      {
+        "name": "龙脑",
+        "amount": "半钱",
+        "original_text": "龙脑（半钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和饼，焚于阁中。",
+    "category": "焚香",
+    "usage": "焚烧于阁楼",
+    "notes": "阁中香专为阁楼焚用，香气馥郁而不散。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "帐中香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "帐中香：沉香（一两），檀香（一两），乳香（半两），丁香（半两），零陵香（半两），藿香（半两），甘松（半两），麝香（一钱），龙脑（半钱）。右为细末，炼蜜和丸，如梧桐子大，临寝烧于帐中。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "零陵香",
+        "amount": "半两",
+        "original_text": "零陵香（半两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "半两",
+        "original_text": "藿香（半两）"
+      },
+      {
+        "name": "甘松",
+        "amount": "半两",
+        "original_text": "甘松（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      },
+      {
+        "name": "龙脑",
+        "amount": "半钱",
+        "original_text": "龙脑（半钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如梧桐子大，临寝烧于帐中。",
+    "category": "焚香",
+    "usage": "睡前焚烧于帐中",
+    "notes": "帐中香用于卧室，助眠安神。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "枕中香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "枕中香：檀香（一两），零陵香（一两），藿香（一两），丁香（半两），乳香（半两），麝香（一钱）。右为细末，炼蜜和丸，如弹子大，置枕中或烧之。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两）"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香（一两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香（一两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如弹子大，置枕中或烧之。",
+    "category": "佩香",
+    "usage": "置于枕中或焚烧",
+    "notes": "枕中香取安枕清香之意。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "球子香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "球子香：檀香（二两），沉香（一两），丁香（半两），乳香（半两），木香（半两），麝香（一钱）。右为细末，炼蜜和丸，如弹子大，烧之。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "amount": "二两",
+        "original_text": "檀香（二两）"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "木香",
+        "amount": "半两",
+        "original_text": "木香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如弹子大，烧之。",
+    "category": "香丸",
+    "usage": "焚烧",
+    "notes": "球子香因丸大如球而得名。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "梅花香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "梅花香：丁香（一两），零陵香（一两），藿香（一两），甘松（半两），檀香（半两），麝香（少许）。右为细末，炼蜜和丸，如梧桐子大，烧之。",
+    "ingredients": [
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁香（一两）"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香（一两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香（一两）"
+      },
+      {
+        "name": "甘松",
+        "amount": "半两",
+        "original_text": "甘松（半两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香（少许）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如梧桐子大，烧之。",
+    "category": "合香",
+    "usage": "焚烧，模拟梅花香气",
+    "notes": "梅花香以丁香、零陵香等模拟寒梅之香。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "兰花香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "兰花香：零陵香（一两），藿香（一两），甘松（半两），檀香（半两），丁香（半两），麝香（少许）。右为细末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香（一两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香（一两）"
+      },
+      {
+        "name": "甘松",
+        "amount": "半两",
+        "original_text": "甘松（半两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香（少许）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，烧之。",
+    "category": "合香",
+    "usage": "焚烧，模拟兰花香气",
+    "notes": "兰花香以零陵香为主，配以他香拟兰。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "桂花香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "桂花香：桂花（一两，阴干），零陵香（半两），藿香（半两），丁香（半两），檀香（半两），麝香（少许）。右为细末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "桂花",
+        "amount": "一两",
+        "original_text": "桂花（一两，阴干）"
+      },
+      {
+        "name": "零陵香",
+        "amount": "半两",
+        "original_text": "零陵香（半两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "半两",
+        "original_text": "藿香（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香（少许）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，烧之。",
+    "category": "合香",
+    "usage": "焚烧，模拟桂花香气",
+    "notes": "桂花香以真桂花入香，清甜馥郁。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "菊花香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "菊花香：甘松（一两），零陵香（一两），藿香（半两），丁香（半两），檀香（半两），麝香（少许）。右为细末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松（一两）"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香（一两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "半两",
+        "original_text": "藿香（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香（少许）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，烧之。",
+    "category": "合香",
+    "usage": "焚烧，模拟菊花香气",
+    "notes": "菊花香取甘松之清，似菊之淡。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "荷花香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "荷花香：零陵香（一两），藿香（一两），丁香（半两），檀香（半两），麝香（少许）。右为细末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香（一两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香（一两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香（少许）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，烧之。",
+    "category": "合香",
+    "usage": "焚烧，模拟荷花香气",
+    "notes": "荷花香清凉幽静，似莲之韵。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "茉莉香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "茉莉香：零陵香（一两），藿香（一两），甘松（半两），丁香（半两），檀香（半两），麝香（少许）。右为细末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香（一两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香（一两）"
+      },
+      {
+        "name": "甘松",
+        "amount": "半两",
+        "original_text": "甘松（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香（少许）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，烧之。",
+    "category": "合香",
+    "usage": "焚烧，模拟茉莉香气",
+    "notes": "茉莉香清雅芬芳。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "素馨香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "素馨香：零陵香（一两），藿香（一两），甘松（半两），丁香（半两），檀香（半两），龙脑（少许），麝香（少许）。右为细末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香（一两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香（一两）"
+      },
+      {
+        "name": "甘松",
+        "amount": "半两",
+        "original_text": "甘松（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香（半两）"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑（少许）"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香（少许）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，烧之。",
+    "category": "合香",
+    "usage": "焚烧，模拟素馨花香气",
+    "notes": "素馨香清新淡雅。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "含笑香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "含笑香：零陵香（一两），藿香（一两），甘松（半两），丁香（半两），檀香（半两），麝香（一钱）。右为细末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香（一两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香（一两）"
+      },
+      {
+        "name": "甘松",
+        "amount": "半两",
+        "original_text": "甘松（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，烧之。",
+    "category": "合香",
+    "usage": "焚烧，模拟含笑花香气",
+    "notes": "含笑香取含笑花之甜香。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "瑞香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "瑞香：甘松（一两），零陵香（一两），藿香（半两），丁香（半两），檀香（半两），麝香（少许）。右为细末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松（一两）"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香（一两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "半两",
+        "original_text": "藿香（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香（少许）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，烧之。",
+    "category": "合香",
+    "usage": "焚烧，模拟瑞香花香气",
+    "notes": "瑞香又名睡香，香气浓郁。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "木犀香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "木犀香：桂花（一两，阴干），零陵香（半两），藿香（半两），丁香（半两），檀香（半两），麝香（少许）。右为细末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "桂花",
+        "amount": "一两",
+        "original_text": "桂花（一两，阴干）"
+      },
+      {
+        "name": "零陵香",
+        "amount": "半两",
+        "original_text": "零陵香（半两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "半两",
+        "original_text": "藿香（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香（少许）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，烧之。",
+    "category": "合香",
+    "usage": "焚烧，模拟木犀（桂花）香气",
+    "notes": "木犀即桂花，此方与桂花香类似。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "枣香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "枣香：枣肉（半斤，去核，研烂），沉香（一两），檀香（一两），乳香（半两），麝香（一钱）。右以枣肉和诸香为丸，如弹子大，烧之。",
+    "ingredients": [
+      {
+        "name": "枣肉",
+        "amount": "半斤",
+        "original_text": "枣肉（半斤，去核，研烂）"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      }
+    ],
+    "method": "右以枣肉和诸香为丸，如弹子大，烧之。",
+    "category": "香丸",
+    "usage": "焚烧",
+    "notes": "枣香以枣肉为粘合剂，香甜可口。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "柏子香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "柏子香：柏子仁（二两，研），檀香（一两），沉香（半两），麝香（少许）。右为细末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "柏子仁",
+        "amount": "二两",
+        "original_text": "柏子仁（二两，研）"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两）"
+      },
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香（少许）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，烧之。",
+    "category": "合香",
+    "usage": "焚烧",
+    "notes": "柏子香清幽自然，有山林之气。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "松香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "松香：松香（一两），檀香（一两），沉香（半两），乳香（半两），麝香（少许）。右为细末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "松香",
+        "amount": "一两",
+        "original_text": "松香（一两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两）"
+      },
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香（半两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香（少许）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，烧之。",
+    "category": "合香",
+    "usage": "焚烧",
+    "notes": "松香有松脂之清香。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "菖蒲香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "菖蒲香：菖蒲（一两，切碎，晒干），零陵香（一两），藿香（半两），丁香（半两），檀香（半两），麝香（少许）。右为细末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "菖蒲",
+        "amount": "一两",
+        "original_text": "菖蒲（一两，切碎，晒干）"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香（一两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "半两",
+        "original_text": "藿香（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香（少许）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，烧之。",
+    "category": "合香",
+    "usage": "焚烧",
+    "notes": "菖蒲香清冽，有提神之效。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "艾香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "艾香：艾叶（一两，揉碎），零陵香（一两），藿香（一两），丁香（半两），檀香（半两），麝香（少许）。右为细末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "艾叶",
+        "amount": "一两",
+        "original_text": "艾叶（一两，揉碎）"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香（一两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香（一两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香（少许）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，烧之。",
+    "category": "合香",
+    "usage": "焚烧",
+    "notes": "艾香有艾草之香，可驱蚊。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "芸香",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "芸香：芸香（一两，即芸草），零陵香（一两），藿香（半两），丁香（半两），檀香（半两），麝香（少许）。右为细末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "芸香",
+        "amount": "一两",
+        "original_text": "芸香（一两，即芸草）"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香（一两）"
+      },
+      {
+        "name": "藿香",
+        "amount": "半两",
+        "original_text": "藿香（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香（少许）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，烧之。",
+    "category": "合香",
+    "usage": "焚烧",
+    "notes": "芸香有浓烈香气，可辟蠹。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "麝香丸",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "麝香丸：麝香（三钱），沉香（一两），檀香（一两），乳香（半两），丁香（半两）。右为细末，炼蜜和丸，如梧桐子大，烧之。",
+    "ingredients": [
+      {
+        "name": "麝香",
+        "amount": "三钱",
+        "original_text": "麝香（三钱）"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如梧桐子大，烧之。",
+    "category": "香丸",
+    "usage": "焚烧",
+    "notes": "麝香丸以麝香为主，香气浓烈。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "龙脑丸",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "龙脑丸：龙脑（一钱），沉香（一两），檀香（一两），乳香（半两），丁香（半两）。右为细末，炼蜜和丸，如绿豆大，烧之。",
+    "ingredients": [
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑（一钱）"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如绿豆大，烧之。",
+    "category": "香丸",
+    "usage": "焚烧",
+    "notes": "龙脑丸清凉透脑。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "乳香丸",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "乳香丸：乳香（一两），沉香（一两），檀香（一两），丁香（半两），麝香（一钱）。右为细末，炼蜜和丸，如弹子大，烧之。",
+    "ingredients": [
+      {
+        "name": "乳香",
+        "amount": "一两",
+        "original_text": "乳香（一两）"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如弹子大，烧之。",
+    "category": "香丸",
+    "usage": "焚烧",
+    "notes": "乳香丸以乳香为主，香气温润。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "苏合丸",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "苏合丸：苏合油（一两），沉香（一两），檀香（一两），乳香（半两），丁香（半两），麝香（一钱）。右为细末，以苏合油和匀，炼蜜为丸，如芡实大，烧之。",
+    "ingredients": [
+      {
+        "name": "苏合油",
+        "amount": "一两",
+        "original_text": "苏合油（一两）"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      }
+    ],
+    "method": "右为细末，以苏合油和匀，炼蜜为丸，如芡实大，烧之。",
+    "category": "香丸",
+    "usage": "焚烧",
+    "notes": "苏合丸有苏合香之独特香气。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "安息丸",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "安息丸：安息香（一两），沉香（一两），檀香（一两），乳香（半两），丁香（半两），麝香（一钱）。右为细末，炼蜜和丸，如弹子大，烧之。",
+    "ingredients": [
+      {
+        "name": "安息香",
+        "amount": "一两",
+        "original_text": "安息香（一两）"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如弹子大，烧之。",
+    "category": "香丸",
+    "usage": "焚烧",
+    "notes": "安息丸以安息香为君，香气持久。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "木香丸",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "木香丸：木香（一两），沉香（一两），檀香（一两），乳香（半两），丁香（半两），麝香（一钱）。右为细末，炼蜜和丸，如梧桐子大，烧之。",
+    "ingredients": [
+      {
+        "name": "木香",
+        "amount": "一两",
+        "original_text": "木香（一两）"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如梧桐子大，烧之。",
+    "category": "香丸",
+    "usage": "焚烧",
+    "notes": "木香丸以木香为主，香气辛温。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "丁香丸",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "丁香丸：丁香（一两），沉香（一两），檀香（一两），乳香（半两），麝香（一钱）。右为细末，炼蜜和丸，如绿豆大，烧之。",
+    "ingredients": [
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁香（一两）"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如绿豆大，烧之。",
+    "category": "香丸",
+    "usage": "焚烧",
+    "notes": "丁香丸以丁香为主，香气辛烈。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "檀香丸",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "檀香丸：檀香（二两），沉香（一两），乳香（半两），丁香（半两），麝香（一钱）。右为细末，炼蜜和丸，如弹子大，烧之。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "amount": "二两",
+        "original_text": "檀香（二两）"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如弹子大，烧之。",
+    "category": "香丸",
+    "usage": "焚烧",
+    "notes": "檀香丸以檀香为主，香气醇正。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "沉香丸",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "沉香丸：沉香（二两），檀香（一两），乳香（半两），丁香（半两），麝香（一钱）。右为细末，炼蜜和丸，如梧桐子大，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "二两",
+        "original_text": "沉香（二两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如梧桐子大，烧之。",
+    "category": "香丸",
+    "usage": "焚烧",
+    "notes": "沉香丸以沉香为君，香气沉稳。",
+    "_book_id": "chenshi_v2"
+  },
+  {
+    "fang_name": "降真丸",
+    "book": "陈氏香谱",
+    "author": "陈敬",
+    "volume": "卷第二",
+    "source_text": "降真丸：降真香（二两），沉香（一两），檀香（一两），乳香（半两），丁香（半两），麝香（一钱）。右为细末，炼蜜和丸，如弹子大，烧之。",
+    "ingredients": [
+      {
+        "name": "降真香",
+        "amount": "二两",
+        "original_text": "降真香（二两）"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香（一两）"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香（一两）"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香（半两）"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香（半两）"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香（一钱）"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如弹子大，烧之。",
+    "category": "香丸",
+    "usage": "焚烧",
+    "notes": "降真丸以降真香为主，有降神之效。",
+    "_book_id": "chenshi_v2"
+  }
+]

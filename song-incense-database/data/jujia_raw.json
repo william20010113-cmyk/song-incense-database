@@ -1,0 +1,1755 @@
+[
+  {
+    "fang_name": "百花香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "百花香：用沉香、栈香、藿香、甘松、白芷、零陵香、丁香、檀香、脑麝各等分，为末，炼蜜和匀，丸如弹子大，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "栈香",
+        "amount": "等分",
+        "original_text": "栈香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "各等分为末，炼蜜和匀，丸如弹子大，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": "脑麝即龙脑和麝香。"
+  },
+  {
+    "fang_name": "梅花香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "梅花香：用沉香、丁香、零陵香、檀香、藿香、甘松、白芷、脑麝各等分，为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": "常见梅花香方。"
+  },
+  {
+    "fang_name": "昌龄梅花香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "昌龄梅花香：用沉香一两、丁香五钱、零陵香三钱、檀香五钱、藿香三钱、甘松三钱、白芷二钱、脑麝少许，为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "五钱",
+        "original_text": "丁香五钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "三钱",
+        "original_text": "零陵香三钱"
+      },
+      {
+        "name": "檀香",
+        "amount": "五钱",
+        "original_text": "檀香五钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "三钱",
+        "original_text": "藿香三钱"
+      },
+      {
+        "name": "甘松",
+        "amount": "三钱",
+        "original_text": "甘松三钱"
+      },
+      {
+        "name": "白芷",
+        "amount": "二钱",
+        "original_text": "白芷二钱"
+      },
+      {
+        "name": "脑麝",
+        "amount": "少许",
+        "original_text": "脑麝少许"
+      }
+    ],
+    "method": "为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": "传为洪刍所制。"
+  },
+  {
+    "fang_name": "寿阳香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "寿阳香：用沉香、檀香、零陵香、藿香、丁香、白芷、甘松、脑麝各等分，为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": ""
+  },
+  {
+    "fang_name": "胜笃耨",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "胜笃耨：用沉香、檀香、乳香、龙脑、麝香各等分，为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "等分",
+        "original_text": "乳香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "等分",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "等分",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": "笃耨乃树脂，胜之。"
+  },
+  {
+    "fang_name": "四和香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "四和香：用沉香、檀香、乳香、脑麝各等分，为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "等分",
+        "original_text": "乳香"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": "四和香有多种配方。"
+  },
+  {
+    "fang_name": "降真香(方)",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "降真香方：用降真香不拘多少，锉碎，以痰火煅之，或与诸香和用。",
+    "ingredients": [
+      {
+        "name": "降真香",
+        "amount": "不拘多少",
+        "original_text": "降真香不拘多少"
+      }
+    ],
+    "method": "锉碎，以痰火煅之，或与诸香和用。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": "或云煅后去烟。"
+  },
+  {
+    "fang_name": "龙涎香(方)",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "龙涎香方：用沉香、檀香、乳香、丁香、甘松、零陵香、藿香、白芷、脑麝各等分，为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "等分",
+        "original_text": "乳香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": "模拟龙涎香气。"
+  },
+  {
+    "fang_name": "清远香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "清远香：用甘松、零陵香、藿香、白芷、丁香、檀香、沉香各等分，为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      }
+    ],
+    "method": "为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": "取其清幽。"
+  },
+  {
+    "fang_name": "水晶龙涎香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "水晶龙涎香：用沉香、檀香、乳香、龙脑、麝香各等分，为末，以琼枝浆和之，丸如龙眼，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "等分",
+        "original_text": "乳香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "等分",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "等分",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "为末，以琼枝浆和之，丸如龙眼，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": "琼枝浆或为调合料。"
+  },
+  {
+    "fang_name": "御爱香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "御爱香：用沉香、檀香、乳香、丁香、脑麝各等分，为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "等分",
+        "original_text": "乳香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": "宫廷用香。"
+  },
+  {
+    "fang_name": "江梅香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "江梅香：用沉香、丁香、零陵香、檀香、藿香、甘松、白芷、脑麝各等分，为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": ""
+  },
+  {
+    "fang_name": "蓬莱香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "蓬莱香：用沉香、檀香、乳香、丁香、零陵香、藿香、甘松、白芷、脑麝各等分，为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "等分",
+        "original_text": "乳香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": ""
+  },
+  {
+    "fang_name": "雪香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "雪香：用沉香、檀香、零陵香、藿香、丁香、白芷、甘松、脑麝各等分，为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": ""
+  },
+  {
+    "fang_name": "杏香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "杏香：用沉香、檀香、丁香、零陵香、藿香、甘松、白芷、脑麝各等分，为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": ""
+  },
+  {
+    "fang_name": "柏子香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "柏子香：用柏子不拘多少，净洗，轻炒，碾为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "柏子",
+        "amount": "不拘多少",
+        "original_text": "柏子不拘多少"
+      }
+    ],
+    "method": "净洗，轻炒，碾为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": "取其清。"
+  },
+  {
+    "fang_name": "檀香清远方",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "檀香清远方：用檀香一斤，锉碎，以酒浸透，炒干，入麝香少许，为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "檀香",
+        "amount": "一斤",
+        "original_text": "檀香一斤"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香少许"
+      }
+    ],
+    "method": "锉碎，以酒浸透，炒干，入麝香少许，为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": "去檀香燥气。"
+  },
+  {
+    "fang_name": "沉香燕雪香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "沉香燕雪香：用沉香、檀香、乳香、丁香、零陵香、藿香、甘松、白芷、脑麝各等分，为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "等分",
+        "original_text": "乳香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": ""
+  },
+  {
+    "fang_name": "蜜和香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "蜜和香：用沉香、檀香、乳香、丁香、零陵香、藿香、甘松、白芷、脑麝各等分，为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "等分",
+        "original_text": "乳香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": ""
+  },
+  {
+    "fang_name": "芙蕖香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "芙蕖香：用沉香、檀香、丁香、零陵香、藿香、甘松、白芷、脑麝各等分，为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": "荷花香。"
+  },
+  {
+    "fang_name": "茉莉香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "茉莉香：用沉香、檀香、丁香、零陵香、藿香、甘松、白芷、脑麝各等分，为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": ""
+  },
+  {
+    "fang_name": "木犀香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "木犀香：用沉香、檀香、丁香、零陵香、藿香、甘松、白芷、脑麝各等分，为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": "桂花香。"
+  },
+  {
+    "fang_name": "紫茸香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "紫茸香：用沉香、檀香、乳香、丁香、零陵香、藿香、甘松、白芷、脑麝各等分，为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "等分",
+        "original_text": "乳香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": ""
+  },
+  {
+    "fang_name": "醒心香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "醒心香：用沉香、檀香、乳香、龙脑、麝香各等分，为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "等分",
+        "original_text": "乳香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "等分",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "等分",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "提神醒脑",
+    "notes": ""
+  },
+  {
+    "fang_name": "韵梅香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "韵梅香：用沉香、丁香、零陵香、檀香、藿香、甘松、白芷、脑麝各等分，为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": ""
+  },
+  {
+    "fang_name": "藏春香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "藏春香：用沉香、檀香、乳香、丁香、零陵香、藿香、甘松、白芷、脑麝各等分，为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "等分",
+        "original_text": "乳香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和丸，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": ""
+  },
+  {
+    "fang_name": "熏衣香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "熏衣香：用沉香、檀香、零陵香、甘松、藿香、丁香、白芷、脑麝各等分，为末，炼蜜和丸，熏衣。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和丸，熏衣。",
+    "category": "熏衣",
+    "usage": "熏衣",
+    "notes": ""
+  },
+  {
+    "fang_name": "百和薰衣香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "百和薰衣香：用沉香、檀香、乳香、丁香、零陵香、藿香、甘松、白芷、脑麝各等分，为末，炼蜜和丸，熏衣。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "等分",
+        "original_text": "乳香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和丸，熏衣。",
+    "category": "熏衣",
+    "usage": "熏衣",
+    "notes": ""
+  },
+  {
+    "fang_name": "长安薰衣香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "长安薰衣香：用沉香、檀香、零陵香、丁香、藿香、甘松、白芷、脑麝各等分，为末，炼蜜和丸，熏衣。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和丸，熏衣。",
+    "category": "熏衣",
+    "usage": "熏衣",
+    "notes": ""
+  },
+  {
+    "fang_name": "南阳公主熏衣香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "南阳公主熏衣香：用沉香、檀香、乳香、丁香、零陵香、藿香、甘松、白芷、脑麝各等分，为末，炼蜜和丸，熏衣。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "等分",
+        "original_text": "乳香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和丸，熏衣。",
+    "category": "熏衣",
+    "usage": "熏衣",
+    "notes": ""
+  },
+  {
+    "fang_name": "印香方",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "印香方：用沉香、檀香、乳香、丁香、零陵香、藿香、甘松、白芷、脑麝各等分，为末，炼蜜和匀，入印模中压实，取出烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "等分",
+        "original_text": "乳香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和匀，入印模中压实，取出烧之。",
+    "category": "印香",
+    "usage": "焚香",
+    "notes": "印香即篆香。"
+  },
+  {
+    "fang_name": "百花印香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "百花印香：用沉香、檀香、乳香、丁香、零陵香、藿香、甘松、白芷、脑麝各等分，为末，炼蜜和匀，印作百花形，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "等分",
+        "original_text": "乳香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和匀，印作百花形，烧之。",
+    "category": "印香",
+    "usage": "焚香",
+    "notes": ""
+  },
+  {
+    "fang_name": "木樨印香",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "木樨印香：用沉香、檀香、丁香、零陵香、藿香、甘松、白芷、脑麝各等分，为末，炼蜜和匀，印作木樨花形，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和匀，印作木樨花形，烧之。",
+    "category": "印香",
+    "usage": "焚香",
+    "notes": "木樨即桂花。"
+  },
+  {
+    "fang_name": "香饼子方",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "香饼子方：用沉香、檀香、乳香、丁香、零陵香、藿香、甘松、白芷、脑麝各等分，为末，炼蜜和匀，作饼子，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "等分",
+        "original_text": "乳香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和匀，作饼子，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": "香饼子可作炭代用。"
+  },
+  {
+    "fang_name": "香丸子方",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "香丸子方：用沉香、檀香、乳香、丁香、零陵香、藿香、甘松、白芷、脑麝各等分，为末，炼蜜和匀，丸如梧桐子大，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "等分",
+        "original_text": "乳香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "脑麝",
+        "amount": "等分",
+        "original_text": "脑麝各等分"
+      }
+    ],
+    "method": "为末，炼蜜和匀，丸如梧桐子大，烧之。",
+    "category": "焚香",
+    "usage": "焚香",
+    "notes": ""
+  },
+  {
+    "fang_name": "渍香法",
+    "book": "居家必用事类全集",
+    "author": "佚名 (元)",
+    "volume": "己集香谱",
+    "source_text": "渍香法：凡香欲湿润，先以少许蜂蜜调匀，渍香片，阴干，烧之。",
+    "ingredients": [
+      {
+        "name": "蜂蜜",
+        "amount": "少许",
+        "original_text": "少许蜂蜜"
+      }
+    ],
+    "method": "以少许蜂蜜调匀，渍香片，阴干，烧之。",
+    "category": "制香法",
+    "usage": "处理香材",
+    "notes": "使香更润。"
+  }
+]

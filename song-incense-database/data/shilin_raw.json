@@ -1,0 +1,384 @@
+[
+  {
+    "fang_name": "三匀煎",
+    "book": "事林广记",
+    "author": "陈元靓 (宋末元初)",
+    "volume": "卷十",
+    "source_text": "三匀煎：沉香一两，片脑一钱，麝香一钱，右以沉为末，入脑、麝，研匀，以鹅梨汁和作饼子，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "片脑",
+        "amount": "一钱",
+        "original_text": "片脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "右以沉为末，入脑、麝，研匀，以鹅梨汁和作饼子，烧之。",
+    "category": "合香",
+    "usage": "焚烧",
+    "notes": ""
+  },
+  {
+    "fang_name": "梅花香",
+    "book": "事林广记",
+    "author": "陈元靓 (宋末元初)",
+    "volume": "卷十",
+    "source_text": "梅花香：甘松半两，白檀一两，沉香一两，丁香二钱，麝香一钱，右为细末，炼蜜和丸，如梧桐子大，烧之。",
+    "ingredients": [
+      {
+        "name": "甘松",
+        "amount": "半两",
+        "original_text": "甘松半两"
+      },
+      {
+        "name": "白檀",
+        "amount": "一两",
+        "original_text": "白檀一两"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "二钱",
+        "original_text": "丁香二钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如梧桐子大，烧之。",
+    "category": "合香",
+    "usage": "焚烧",
+    "notes": ""
+  },
+  {
+    "fang_name": "雪中春信",
+    "book": "事林广记",
+    "author": "陈元靓 (宋末元初)",
+    "volume": "卷十",
+    "source_text": "雪中春信：沉香二两，檀香一两，丁香半两，藿香叶半两，零陵香半两，麝香一钱，龙脑一钱，右为末，炼蜜和匀，作饼烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "二两",
+        "original_text": "沉香二两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "藿香叶",
+        "amount": "半两",
+        "original_text": "藿香叶半两"
+      },
+      {
+        "name": "零陵香",
+        "amount": "半两",
+        "original_text": "零陵香半两"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，作饼烧之。",
+    "category": "合香",
+    "usage": "焚烧",
+    "notes": ""
+  },
+  {
+    "fang_name": "韩魏公浓梅香",
+    "book": "事林广记",
+    "author": "陈元靓 (宋末元初)",
+    "volume": "卷十",
+    "source_text": "韩魏公浓梅香：沉香一两，檀香半两，丁香半两，郁金香一分，麝香一钱，右为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "郁金香",
+        "amount": "一分",
+        "original_text": "郁金香一分"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "右为末，炼蜜和丸，烧之。",
+    "category": "合香",
+    "usage": "焚烧",
+    "notes": ""
+  },
+  {
+    "fang_name": "意可香",
+    "book": "事林广记",
+    "author": "陈元靓 (宋末元初)",
+    "volume": "卷十",
+    "source_text": "意可香：沉香半两，檀香一两，丁香二钱，藿香三钱，麝香一钱，龙脑半钱，右为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "二钱",
+        "original_text": "丁香二钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "三钱",
+        "original_text": "藿香三钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "半钱",
+        "original_text": "龙脑半钱"
+      }
+    ],
+    "method": "右为末，炼蜜和丸，烧之。",
+    "category": "合香",
+    "usage": "焚烧",
+    "notes": ""
+  },
+  {
+    "fang_name": "深静香",
+    "book": "事林广记",
+    "author": "陈元靓 (宋末元初)",
+    "volume": "卷十",
+    "source_text": "深静香：沉香一两，檀香半两，丁香半两，零陵香半两，甘松半两，麝香一钱，龙脑一钱，右为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "零陵香",
+        "amount": "半两",
+        "original_text": "零陵香半两"
+      },
+      {
+        "name": "甘松",
+        "amount": "半两",
+        "original_text": "甘松半两"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      }
+    ],
+    "method": "右为末，炼蜜和丸，烧之。",
+    "category": "合香",
+    "usage": "焚烧",
+    "notes": ""
+  },
+  {
+    "fang_name": "胜笃耨",
+    "book": "事林广记",
+    "author": "陈元靓 (宋末元初)",
+    "volume": "卷十",
+    "source_text": "胜笃耨：沉香二两，檀香一两，丁香半两，马尾香一两，麝香一钱，龙脑一钱，右为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "二两",
+        "original_text": "沉香二两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "马尾香",
+        "amount": "一两",
+        "original_text": "马尾香一两"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      }
+    ],
+    "method": "右为末，炼蜜和丸，烧之。",
+    "category": "合香",
+    "usage": "焚烧",
+    "notes": ""
+  },
+  {
+    "fang_name": "龙涎香方",
+    "book": "事林广记",
+    "author": "陈元靓 (宋末元初)",
+    "volume": "卷十",
+    "source_text": "龙涎香：沉香一两，龙脑三钱，麝香二钱，右为末，炼蜜和丸，如绿豆大，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "三钱",
+        "original_text": "龙脑三钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      }
+    ],
+    "method": "右为末，炼蜜和丸，如绿豆大，烧之。",
+    "category": "合香",
+    "usage": "焚烧",
+    "notes": ""
+  },
+  {
+    "fang_name": "四和香",
+    "book": "事林广记",
+    "author": "陈元靓 (宋末元初)",
+    "volume": "卷十",
+    "source_text": "四和香：沉香一两，檀香一两，丁香一两，藿香一两，右为末，炼蜜和丸，烧之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁香一两"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香一两"
+      }
+    ],
+    "method": "右为末，炼蜜和丸，烧之。",
+    "category": "合香",
+    "usage": "焚烧",
+    "notes": ""
+  },
+  {
+    "fang_name": "烧香法",
+    "book": "事林广记",
+    "author": "陈元靓 (宋末元初)",
+    "volume": "卷十",
+    "source_text": "烧香法：凡烧香，须用香炉，先以香灰铺底，次安香饼，然后燃火。若用印香，则以香末印之，焚之。",
+    "ingredients": [],
+    "method": "凡烧香，须用香炉，先以香灰铺底，次安香饼，然后燃火。若用印香，则以香末印之，焚之。",
+    "category": "用法",
+    "usage": "指导",
+    "notes": ""
+  },
+  {
+    "fang_name": "造香饼子法",
+    "book": "事林广记",
+    "author": "陈元靓 (宋末元初)",
+    "volume": "卷十",
+    "source_text": "造香饼子法：用杉木炭末、榆皮末，各等分，以水和匀，捏作饼子，晒干，烧之耐久。",
+    "ingredients": [
+      {
+        "name": "杉木炭末",
+        "amount": "等分",
+        "original_text": "杉木炭末"
+      },
+      {
+        "name": "榆皮末",
+        "amount": "等分",
+        "original_text": "榆皮末"
+      }
+    ],
+    "method": "用杉木炭末、榆皮末，各等分，以水和匀，捏作饼子，晒干，烧之耐久。",
+    "category": "制作",
+    "usage": "制作香饼",
+    "notes": ""
+  }
+]

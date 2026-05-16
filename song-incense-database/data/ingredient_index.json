@@ -1,0 +1,9124 @@
+{
+  "丁香": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "黄太史香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "韩魏公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "百花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "万春香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宝华香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "聚仙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "通仙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "金鸡香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玉华香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玉蕊香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑶英香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清远香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清心香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "醒骨香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "阁中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "帐中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "枕中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "球子香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "兰花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "桂花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "菊花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "荷花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "茉莉香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "素馨香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "含笑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑞香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "木犀香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "菖蒲香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "艾香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "芸香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "麝香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "龙脑丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "乳香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "苏合丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "安息丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "木香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "丁香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "檀香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "沉香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "降真丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "百和香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "傅身香粉"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "沐香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "熏衣香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "笑兰香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "口香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "含香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "涂香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "散香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "香佩"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "香囊方"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "胜白香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "金粟黄香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "碧云香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "万寿香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "长春香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "秋寒香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "暖玉香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清暑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "安神枕香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "髻中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "佩帏香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "幄中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "笼中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "衾中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "祛秽香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟寒香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟暑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟蠹香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "合口香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "丁香油"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "木香汤"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "兰膏"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "苏合香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "安息香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "麝香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "龙脑丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "乳香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "丁香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "檀香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "沉香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "降真丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "兰花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "桂花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "菊花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "荷花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "茉莉香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "素馨香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "含笑香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "木犀香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "百刻印香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "五福篆香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "韩魏公浓梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "黄太史清真香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "欧阳文忠公梅花香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "林梅隐香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清妙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清馥香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清味香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清韵香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清致香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清胜香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清悦香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "古龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "小龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "佳龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "真龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "龙涎香方（宋内府）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "制龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "拟龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "宝篆香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "香饼（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "寿阳公主梅花香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅英香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "雪中春信香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "雪梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "腊梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅魂香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "兰香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "蕙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "芷香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "安息香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "乳香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "平等香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "六和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "九和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "十和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "千和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "万和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "云盖香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "颜五家印香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "深静香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "闻思香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅蕊香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "五香散"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "七香膏"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "八香饼"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "宫中甜香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "雪中春信"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "韩魏公浓梅香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "意可香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "深静香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "胜笃耨"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "四和香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "昌龄梅花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "寿阳香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "龙涎香(方)"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "清远香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "御爱香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "江梅香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "蓬莱香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "雪香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "杏香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "沉香燕雪香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "蜜和香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "芙蕖香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "茉莉香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "木犀香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "紫茸香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "韵梅香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "藏春香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "熏衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百和薰衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "长安薰衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "南阳公主熏衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "印香方"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百花印香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "木樨印香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "香饼子方"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "香丸子方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "韩魏公浓梅香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "寿阳公主梅花香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "杨吉老龙涎香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "安息香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "藏春香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "蔷薇香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "兰花香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "木犀香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "百花香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "玉华香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "檀香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "龙涎香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "煮香法"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "印香法"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香饼子方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香球方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香囊方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "降真香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "熏衣香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "湿香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "干香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "傅身香粉方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "面脂香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "莲花香茶方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香墨方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香炭方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "柏子香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "梅花香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "蝴蝶香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "闻思香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "意可香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "小宗香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "马都监香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "荀令十里香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "贾女香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "妙华香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "蓝田香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "翠羽香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "甜香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "玉蕊香方"
+    }
+  ],
+  "丁香皮": [
+    {
+      "book": "香乘",
+      "fang_name": "汉建宁宫中香"
+    }
+  ],
+  "丹砂": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "傅身香粉方"
+    }
+  ],
+  "乳香": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "英宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宪圣皇后御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "山谷香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "丁公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "温公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "万春香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宝华香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "聚仙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "通仙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "金鸡香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玉华香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玉蕊香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑶英香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清远香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清心香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "醒骨香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "阁中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "帐中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "枕中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "球子香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "枣香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "松香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "麝香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "龙脑丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "乳香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "苏合丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "安息丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "木香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "丁香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "檀香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "沉香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "降真丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "降真香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "百和香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宝篆印香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "无尘篆香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "隔火香方"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑞香饼"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "龙涎香珠"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "七宝香串"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宝鼎香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "金鼎香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "马牙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "胜白香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玄香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "金粟黄香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "紫茸香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "碧云香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "万寿香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "长春香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "暖玉香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "安神枕香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "髻中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "佩帏香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "幄中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "笼中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "衾中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "祛秽香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟寒香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "麝香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "乳香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "木香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "百刻印香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "五福篆香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "汉建宁宫中香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅魂香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "乳香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "四和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "九和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "十和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "千和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "万和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "小四和"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "云盖香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "颜五家印香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "意可香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "深静香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "小宗香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "闻思香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅蕊香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "五香散"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "七香膏"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "八香饼"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "宫中甜香"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "二苏旧局"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "神仙香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "胜笃耨"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "四和香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "龙涎香(方)"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "水晶龙涎香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "御爱香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "蓬莱香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "沉香燕雪香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "蜜和香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "紫茸香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "醒心香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "藏春香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百和薰衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "南阳公主熏衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "印香方"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百花印香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "香饼子方"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "香丸子方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香饼子方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香炭方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "琼瑶香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "更深香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "双井香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "安晚香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "韩寿偷香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "妙华香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "百刻香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "宝篆香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "蓝田香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "玉蕊香方"
+    }
+  ],
+  "兰草": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "兰膏"
+    }
+  ],
+  "含笑花": [
+    {
+      "book": "香谱",
+      "fang_name": "含笑香"
+    }
+  ],
+  "咄咄香": [
+    {
+      "book": "香乘",
+      "fang_name": "咄咄香"
+    }
+  ],
+  "唵叭香": [
+    {
+      "book": "香乘",
+      "fang_name": "唵叭香"
+    }
+  ],
+  "安息香": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "仁宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "徽宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "长春香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "苏公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "赵清献公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "安息丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "百和香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "龙涎香珠"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "七宝香串"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宝鼎香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "幄中香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "苏合香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "安息香丸"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "安息香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "六和香"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "龙安香"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "安息香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "更深香方"
+    }
+  ],
+  "官桂": [
+    {
+      "book": "香乘",
+      "fang_name": "雪中春信香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "雪梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "腊梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅魂香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅香"
+    }
+  ],
+  "定粉": [
+    {
+      "book": "香乘",
+      "fang_name": "韩魏公浓梅香"
+    }
+  ],
+  "小茴香": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "印香法"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香囊方"
+    }
+  ],
+  "山柰": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "香囊方"
+    }
+  ],
+  "川芎": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "傅身香粉方"
+    }
+  ],
+  "排香": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宪圣皇后御制香"
+    }
+  ],
+  "木樨花": [
+    {
+      "book": "香乘",
+      "fang_name": "木樨香"
+    }
+  ],
+  "木炭": [
+    {
+      "book": "香祖笔记",
+      "fang_name": "香饼制法"
+    }
+  ],
+  "木犀花": [
+    {
+      "book": "香谱",
+      "fang_name": "木犀香"
+    }
+  ],
+  "木香": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "英宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "欧公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "温公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "万春香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宝华香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "聚仙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "通仙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "金鸡香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玉华香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑶英香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清心香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "阁中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "球子香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "木香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "万寿香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "长春香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "暖玉香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟寒香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "木香汤"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "木香丸"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "古龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "佳龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "真龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "龙涎香方（宋内府）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "制龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "拟龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "宝篆香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "香饼（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅魂香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "九和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "十和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "千和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "万和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "闻思香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "七香膏"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "八香饼"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "宫中甜香"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "韩魏公浓梅香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "藏春香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "蔷薇香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "兰花香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "木犀香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "百花香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "玉华香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "檀香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "煮香法"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "印香法"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香饼子方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香球方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香囊方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "熏衣香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "湿香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "干香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "傅身香粉方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "面脂香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香墨方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香炭方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "梅花香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "双井香方"
+    }
+  ],
+  "杉木炭末": [
+    {
+      "book": "事林广记",
+      "fang_name": "造香饼子法"
+    }
+  ],
+  "杏仁": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "面脂香方"
+    }
+  ],
+  "杏花": [
+    {
+      "book": "香乘",
+      "fang_name": "杏花香"
+    }
+  ],
+  "松子壳": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "四弃香方"
+    }
+  ],
+  "松烟墨": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "香墨方"
+    }
+  ],
+  "松香": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "松香"
+    }
+  ],
+  "枣": [
+    {
+      "book": "香乘",
+      "fang_name": "汉建宁宫中香"
+    }
+  ],
+  "枣肉": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "枣香"
+    }
+  ],
+  "柏叶": [
+    {
+      "book": "香乘",
+      "fang_name": "柏香"
+    }
+  ],
+  "柏子": [
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "柏子香"
+    }
+  ],
+  "柏子仁": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清神香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "柏子香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "柏子香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "柏香"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "柏子香方"
+    }
+  ],
+  "栈香": [
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百花香"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "寿阳公主梅花香方"
+    }
+  ],
+  "桂心": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "含香"
+    }
+  ],
+  "桂皮": [
+    {
+      "book": "香乘",
+      "fang_name": "寿阳公主梅花香"
+    }
+  ],
+  "桂花": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "百花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "桂花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "木犀香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "髻中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "衾中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "合口香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "桂花油"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "桂花香"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "木犀香方"
+    }
+  ],
+  "桃仁": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "面脂香方"
+    }
+  ],
+  "桃花": [
+    {
+      "book": "香乘",
+      "fang_name": "桃花"
+    }
+  ],
+  "梅花": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "梅花水"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "雪中春信香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅魂香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅香"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "梅花香方"
+    }
+  ],
+  "梅花蕊": [
+    {
+      "book": "香乘",
+      "fang_name": "雪梅香"
+    }
+  ],
+  "梨皮": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "四弃香方"
+    }
+  ],
+  "梨花": [
+    {
+      "book": "香乘",
+      "fang_name": "梨花"
+    }
+  ],
+  "榆皮末": [
+    {
+      "book": "事林广记",
+      "fang_name": "造香饼子法"
+    }
+  ],
+  "橙皮": [
+    {
+      "book": "香乘",
+      "fang_name": "橙香"
+    }
+  ],
+  "橙花": [
+    {
+      "book": "香乘",
+      "fang_name": "橙花"
+    }
+  ],
+  "檀香": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "汉宫香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "江南李主帐中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "唐开元宫中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宣和御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "真宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "仁宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "英宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "神宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "徽宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "高庙御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宪圣皇后御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "寿光香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "长春香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "醒心香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清神香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "黄太史香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "山谷香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "欧公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "苏公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "韩魏公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "丁公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "蔡太师香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "王荆公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "温公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "赵清献公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "百花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "万春香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宝华香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "聚仙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "通仙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "灵犀香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "金鸡香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玉华香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玉蕊香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑶英香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清远香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清心香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "醒骨香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "阁中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "帐中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "枕中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "球子香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "兰花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "桂花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "菊花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "荷花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "茉莉香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "素馨香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "含笑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑞香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "木犀香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "枣香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "柏子香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "松香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "菖蒲香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "艾香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "芸香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "麝香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "龙脑丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "乳香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "苏合丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "安息丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "木香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "丁香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "檀香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "沉香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "降真丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "笃耨香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "降真香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "甲香牙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "百和香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宝篆印香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "无尘篆香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "隔火香方"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "傅身香粉"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "沐香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "熏衣香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "笑兰香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "涂香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "散香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑞香饼"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "龙涎香珠"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "七宝香串"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "香佩"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "香囊方"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宝鼎香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "金鼎香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "马牙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "胜白香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玄香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "金粟黄香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "紫茸香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "碧云香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "万寿香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "长春香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "秋寒香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "暖玉香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清暑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "安神枕香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "髻中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "佩帏香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "幄中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "笼中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "衾中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "祛秽香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟寒香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟暑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟蠹香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "合口香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "檀香膏"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "木香汤"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "兰膏"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "苏合香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "安息香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "龙涎香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "麝香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "龙脑丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "乳香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "丁香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "木香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "檀香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "沉香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "降真丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "兰花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "桂花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "菊花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "荷花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "茉莉香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "素馨香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "含笑香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "木犀香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "百刻印香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "五福篆香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "汉建宁宫中香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "苏内翰贫衙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "丁晋公清真香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "林梅隐香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "兴龙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清妙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清馥香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清味香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清韵香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清致香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清胜香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清悦香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "古龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "小龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "佳龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "真龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "龙涎香方（宋内府）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "制龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "拟龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "宝篆香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "香饼（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅英香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "雪中春信香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "雪梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "腊梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅魂香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "橙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "橙花"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "木樨香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "蔷薇香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "玫瑰香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "兰香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "蕙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "芷香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "菊香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "莲香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "竹香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "柏香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "杏花香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梨花"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "桃花"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "安息香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "唵叭香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "咄咄香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "荃香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "金颜香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "乳香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "平等香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "四和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "九和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "十和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "万和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "小四和"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "大四和"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "云盖香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "颜五家印香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "意和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "意可香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "深静香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "小宗香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "闻思香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅蕊香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "五香散"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "七香膏"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "八香饼"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "论沉水香"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "四和香通方"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "宫中甜香"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "二苏旧局"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "小四和香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "雪中春信"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "韩魏公浓梅香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "意可香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "深静香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "胜笃耨"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "四和香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "昌龄梅花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "寿阳香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "胜笃耨"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "四和香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "龙涎香(方)"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "清远香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "水晶龙涎香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "御爱香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "江梅香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "蓬莱香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "雪香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "杏香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "檀香清远方"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "沉香燕雪香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "蜜和香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "芙蕖香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "茉莉香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "木犀香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "紫茸香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "醒心香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "韵梅香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "藏春香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "熏衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百和薰衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "长安薰衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "南阳公主熏衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "印香方"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百花印香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "木樨印香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "香饼子方"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "香丸子方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "韩魏公浓梅香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "寿阳公主梅花香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "杨吉老龙涎香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "唐开元宫中香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "宣和御制香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "安息香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "藏春香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "蔷薇香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "兰花香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "木犀香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "百花香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "玉华香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "檀香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "龙涎香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "煮香法"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "印香法"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香球方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香囊方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "降真香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "熏衣香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "湿香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "干香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "傅身香粉方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "面脂香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "莲花香茶方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香墨方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香炭方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "柏子香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "梅花香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "逗情香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "闻思香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "更深香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "双井香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "马都监香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "安晚香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "韩寿偷香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "贾女香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "妙华香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "百刻香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "宝篆香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "蓝田香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "甜香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "醒心香方"
+    }
+  ],
+  "沉香": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "汉宫香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "江南李主帐中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "唐开元宫中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宣和御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "真宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "仁宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "英宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "神宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "徽宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "高庙御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宪圣皇后御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "寿光香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "长春香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "醒心香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清神香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "黄太史香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "山谷香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "欧公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "苏公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "韩魏公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "丁公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "蔡太师香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "王荆公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "温公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "赵清献公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "万春香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宝华香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "聚仙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "通仙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "灵犀香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "金鸡香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玉华香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玉蕊香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑶英香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清远香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清心香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "阁中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "帐中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "球子香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "枣香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "柏子香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "松香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "麝香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "龙脑丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "乳香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "苏合丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "安息丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "木香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "丁香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "檀香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "沉香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "降真丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "龙涎香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "笃耨香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "降真香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "甲香牙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "百和香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宝篆印香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "无尘篆香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "隔火香方"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "熏衣香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "口香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "含香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "涂香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "散香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑞香饼"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "龙涎香珠"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "七宝香串"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "香佩"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "香囊方"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宝鼎香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "金鼎香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑞脑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "马牙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "胜白香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玄香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "金粟黄香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "紫茸香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "碧云香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "万寿香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "长春香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "秋寒香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "暖玉香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清暑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "安神枕香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "髻中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "佩帏香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "幄中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "笼中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "衾中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟寒香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟暑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "合口香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "沉香煎"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "木香汤"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "兰膏"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "安息香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "龙涎香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "麝香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "龙脑丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "乳香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "丁香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "木香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "檀香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "沉香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "降真丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "兰花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "桂花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "菊花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "荷花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "茉莉香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "素馨香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "含笑香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "木犀香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "百刻印香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "五福篆香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "苏内翰贫衙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "丁晋公清真香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "黄太史清真香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "欧阳文忠公梅花香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "林梅隐香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "兴龙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清妙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清馥香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清味香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清韵香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清致香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清胜香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清悦香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "古龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "小龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "佳龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "真龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "龙涎香方（宋内府）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "制龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "拟龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "宝篆香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "香饼（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "寿阳公主梅花香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅英香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "雪中春信香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "雪梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "腊梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅魂香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "橙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "橙花"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "木樨香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "蔷薇香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "玫瑰香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "兰香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "蕙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "芷香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "菊香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "莲香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "竹香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "柏香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "杏花香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梨花"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "桃花"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "安息香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "唵叭香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "咄咄香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "荃香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "金颜香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "乳香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "四和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "六和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "九和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "十和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "千和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "万和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "小四和"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "大四和"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "云盖香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "颜五家印香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "意和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "意可香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "深静香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "小宗香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "闻思香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅蕊香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "五香散"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "七香膏"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "八香饼"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "论沉水香"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "四和香通方"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "宫中甜香"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "二苏旧局"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "李主花浸沉"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "三匀煎"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "雪中春信"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "韩魏公浓梅香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "意可香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "深静香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "胜笃耨"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "龙涎香方"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "四和香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "昌龄梅花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "寿阳香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "胜笃耨"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "四和香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "龙涎香(方)"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "清远香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "水晶龙涎香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "御爱香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "江梅香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "蓬莱香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "雪香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "杏香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "沉香燕雪香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "蜜和香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "芙蕖香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "茉莉香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "木犀香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "紫茸香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "醒心香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "韵梅香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "藏春香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "熏衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百和薰衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "长安薰衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "南阳公主熏衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "印香方"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百花印香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "木樨印香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "香饼子方"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "香丸子方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "韩魏公浓梅香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "寿阳公主梅花香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "杨吉老龙涎香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "唐开元宫中香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "宣和御制香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "安息香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "藏春香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "蔷薇香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "兰花香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "木犀香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "百花香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "玉华香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "檀香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "龙涎香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "煮香法"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "印香法"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香球方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "降真香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "熏衣香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "湿香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "干香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "柏子香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "梅花香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "逗情香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "琼瑶香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "意可香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "更深香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "小宗香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "双井香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "马都监香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "安晚香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "荀令十里香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "韩寿偷香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "贾女香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "妙华香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "百刻香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "宝篆香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "蓝田香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "甜香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "醒心香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "玉蕊香方"
+    }
+  ],
+  "没药": [
+    {
+      "book": "香乘",
+      "fang_name": "四和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "九和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "十和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "千和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "万和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "小四和"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "云盖香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "颜五家印香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "深静香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "小宗香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "闻思香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅蕊香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "五香散"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "七香膏"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "八香饼"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "神仙香"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "宝篆香方"
+    }
+  ],
+  "油": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "丁香油"
+    }
+  ],
+  "浆水": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "龙脑浆"
+    }
+  ],
+  "炭末": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "香饼子方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香炭方"
+    }
+  ],
+  "炼蜜": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "四弃香方"
+    }
+  ],
+  "猪脂": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "面脂香方"
+    }
+  ],
+  "玄参": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玄香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "平等香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "千和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "万和香"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "闻思香方"
+    }
+  ],
+  "玫瑰花": [
+    {
+      "book": "香乘",
+      "fang_name": "玫瑰香"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "百花香方"
+    }
+  ],
+  "玫瑰花瓣": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "衾中香"
+    }
+  ],
+  "琥珀": [
+    {
+      "book": "香祖笔记",
+      "fang_name": "二苏旧局"
+    }
+  ],
+  "甘松": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "高庙御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "王荆公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "百花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宝华香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "聚仙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "通仙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玉华香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玉蕊香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑶英香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清远香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "阁中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "帐中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "兰花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "菊花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "茉莉香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "素馨香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "含笑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑞香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "万寿香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "长春香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "秋寒香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "暖玉香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清暑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "安神枕香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "髻中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "佩帏香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "幄中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "笼中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "衾中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "祛秽香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟寒香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟暑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟蚊香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟蠹香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "合口香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "木香汤"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "兰膏"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "汉建宁宫中香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清馥香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清致香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清悦香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "古龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "佳龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "真龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "龙涎香方（宋内府）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "制龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "拟龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "宝篆香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "香饼（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "寿阳公主梅花香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅英香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "雪中春信香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "雪梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "腊梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅魂香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "兰香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "蕙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "芷香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "平等香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "九和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "十和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "千和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "万和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "云盖香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "颜五家印香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "深静香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅蕊香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "深静香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "昌龄梅花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "寿阳香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "龙涎香(方)"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "清远香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "江梅香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "蓬莱香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "雪香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "杏香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "沉香燕雪香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "蜜和香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "芙蕖香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "茉莉香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "木犀香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "紫茸香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "韵梅香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "藏春香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "熏衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百和薰衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "长安薰衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "南阳公主熏衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "印香方"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百花印香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "木樨印香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "香饼子方"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "香丸子方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "蔷薇香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "百花香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "煮香法"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "印香法"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香球方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香囊方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "湿香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "干香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "傅身香粉方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "蝴蝶香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "闻思香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "意可香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "马都监香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "荀令十里香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "贾女香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "妙华香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "翠羽香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "玉蕊香方"
+    }
+  ],
+  "甘草": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "醒心香"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "莲花香茶方"
+    }
+  ],
+  "甘菊花": [
+    {
+      "book": "香谱",
+      "fang_name": "菊花香"
+    }
+  ],
+  "甘蔗渣": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "四弃香方"
+    }
+  ],
+  "生结香": [
+    {
+      "book": "香乘",
+      "fang_name": "汉建宁宫中香"
+    }
+  ],
+  "甲香": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "唐开元宫中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "神宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "寿光香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "甲香牙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "百和香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宝篆印香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑞香饼"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宝鼎香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玄香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "紫茸香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "碧云香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "林梅隐香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "兴龙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "佳龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "真龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "龙涎香方（宋内府）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "制龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "拟龙涎香"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "宣和御制香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "玉华香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "琼瑶香方"
+    }
+  ],
+  "白及": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "面脂香方"
+    }
+  ],
+  "白术": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "面脂香方"
+    }
+  ],
+  "白檀": [
+    {
+      "book": "香乘",
+      "fang_name": "寿阳公主梅花香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "六和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "千和香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "琼瑶香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "意可香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "小宗香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "荀令十里香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "玉蕊香方"
+    }
+  ],
+  "白芨": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "仁宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "王荆公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "无尘篆香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "平等香"
+    }
+  ],
+  "白芷": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "唐开元宫中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "韩魏公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "傅身香粉"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "沐香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "笑兰香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "含香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "香囊方"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "胜白香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "碧云香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "万寿香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "长春香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "秋寒香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "暖玉香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清暑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "安神枕香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "髻中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "佩帏香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "幄中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "笼中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "衾中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "祛秽香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟寒香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟暑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟蚊香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟蠹香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "合口香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "木香汤"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "兰膏"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "汉建宁宫中香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清韵香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "古龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "真龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "龙涎香方（宋内府）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "制龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "拟龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "宝篆香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "香饼（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "寿阳公主梅花香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅英香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "雪中春信香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "雪梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "腊梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅魂香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "兰香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "蕙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "芷香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "平等香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "十和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "千和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "万和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "云盖香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "颜五家印香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "昌龄梅花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "寿阳香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "龙涎香(方)"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "清远香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "江梅香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "蓬莱香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "雪香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "杏香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "沉香燕雪香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "蜜和香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "芙蕖香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "茉莉香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "木犀香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "紫茸香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "韵梅香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "藏春香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "熏衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百和薰衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "长安薰衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "南阳公主熏衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "印香方"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百花印香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "木樨印香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "香饼子方"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "香丸子方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "印香法"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香饼子方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香球方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香囊方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "傅身香粉方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "面脂香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香炭方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "蝴蝶香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "翠羽香方"
+    }
+  ],
+  "白芸香": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "杨吉老龙涎香方"
+    }
+  ],
+  "白茯苓": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "面脂香方"
+    }
+  ],
+  "白蔹": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "面脂香方"
+    }
+  ],
+  "白附子": [
+    {
+      "book": "香乘",
+      "fang_name": "汉建宁宫中香"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "面脂香方"
+    }
+  ],
+  "百花香露": [
+    {
+      "book": "香祖笔记",
+      "fang_name": "李主花浸沉"
+    }
+  ],
+  "石菖蒲": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟蚊香"
+    }
+  ],
+  "硝石": [
+    {
+      "book": "香祖笔记",
+      "fang_name": "香饼制法"
+    }
+  ],
+  "竹叶": [
+    {
+      "book": "香乘",
+      "fang_name": "竹香"
+    }
+  ],
+  "竹沥": [
+    {
+      "book": "香乘",
+      "fang_name": "竹香"
+    }
+  ],
+  "笃耨香": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "笃耨香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "笃耨香"
+    }
+  ],
+  "糯米粉": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "傅身香粉"
+    }
+  ],
+  "素馨花": [
+    {
+      "book": "香谱",
+      "fang_name": "素馨香"
+    }
+  ],
+  "紫绛香": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "香囊方"
+    }
+  ],
+  "紫茸": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "紫茸香"
+    }
+  ],
+  "细辛": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "唐开元宫中香"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "傅身香粉方"
+    }
+  ],
+  "羊脂": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "面脂香方"
+    }
+  ],
+  "肉桂": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟寒香"
+    }
+  ],
+  "脑": [
+    {
+      "book": "香乘",
+      "fang_name": "梅英香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "兰香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "蕙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "芷香"
+    }
+  ],
+  "脑香": [
+    {
+      "book": "香乘",
+      "fang_name": "寿阳公主梅花香"
+    }
+  ],
+  "脑麝": [
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "昌龄梅花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "寿阳香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "四和香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "龙涎香(方)"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "御爱香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "江梅香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "蓬莱香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "雪香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "杏香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "沉香燕雪香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "蜜和香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "芙蕖香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "茉莉香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "木犀香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "紫茸香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "韵梅香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "藏春香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "熏衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百和薰衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "长安薰衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "南阳公主熏衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "印香方"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百花印香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "木樨印香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "香饼子方"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "香丸子方"
+    }
+  ],
+  "腊梅花": [
+    {
+      "book": "香乘",
+      "fang_name": "腊梅香"
+    }
+  ],
+  "腊茶末": [
+    {
+      "book": "香乘",
+      "fang_name": "韩魏公浓梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "黄太史清真香"
+    }
+  ],
+  "艾叶": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "艾香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟蚊香"
+    }
+  ],
+  "芸香": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "芸香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟蠹香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "芸香"
+    }
+  ],
+  "苍术": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "祛秽香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟蚊香"
+    }
+  ],
+  "苏合香": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "汉宫香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宣和御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "神宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "长春香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "山谷香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "苏公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "蔡太师香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "赵清献公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "苏合丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "笃耨香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "百和香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "龙涎香珠"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "七宝香串"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "苏合香丸"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "古龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "佳龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "真龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "龙涎香方（宋内府）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "制龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "拟龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "香饼（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "平等香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "六和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "大四和"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "意和香"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "二苏旧局"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "龙安香"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "安晚香方"
+    }
+  ],
+  "茅香": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "傅身香粉"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "沐香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "汉建宁宫中香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅英香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "兰香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "蕙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "芷香"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "甜香方"
+    }
+  ],
+  "茉莉花": [
+    {
+      "book": "香谱",
+      "fang_name": "茉莉香"
+    }
+  ],
+  "茴香": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "百花香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "汉建宁宫中香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "寿阳公主梅花香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅英香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "雪中春信香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "雪梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "腊梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅魂香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "兰香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "蕙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "芷香"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "小四和香"
+    }
+  ],
+  "茶叶": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "莲花香茶方"
+    }
+  ],
+  "荃香": [
+    {
+      "book": "香乘",
+      "fang_name": "荃香"
+    }
+  ],
+  "荔枝壳": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "四弃香方"
+    }
+  ],
+  "荷叶": [
+    {
+      "book": "香谱",
+      "fang_name": "荷花香"
+    }
+  ],
+  "莲花蕊": [
+    {
+      "book": "香乘",
+      "fang_name": "莲香"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "莲花香茶方"
+    }
+  ],
+  "莲花须": [
+    {
+      "book": "香乘",
+      "fang_name": "莲香"
+    }
+  ],
+  "菊花": [
+    {
+      "book": "香乘",
+      "fang_name": "菊香"
+    }
+  ],
+  "菖蒲": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "菖蒲香"
+    }
+  ],
+  "蔷薇花": [
+    {
+      "book": "香乘",
+      "fang_name": "蔷薇香"
+    }
+  ],
+  "蕙草": [
+    {
+      "book": "香乘",
+      "fang_name": "蕙香"
+    }
+  ],
+  "薄荷": [
+    {
+      "book": "遵生八笺",
+      "fang_name": "莲花香茶方"
+    }
+  ],
+  "薄荷叶": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "醒心香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清暑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟暑香"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "醒心香方"
+    }
+  ],
+  "薰陆香": [
+    {
+      "book": "香乘",
+      "fang_name": "六和香"
+    }
+  ],
+  "藿香": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "百花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宝华香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "聚仙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "通仙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玉华香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玉蕊香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑶英香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清远香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "醒骨香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "阁中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "帐中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "枕中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "兰花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "桂花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "菊花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "荷花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "茉莉香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "素馨香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "含笑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑞香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "木犀香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "菖蒲香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "艾香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "芸香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "百和香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "傅身香粉"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "沐香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "熏衣香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "笑兰香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "口香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "含香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "涂香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "散香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑞香饼"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "香佩"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "香囊方"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "金鼎香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "胜白香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "金粟黄香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "碧云香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "万寿香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "长春香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "安神枕香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "髻中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "佩帏香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "幄中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "笼中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "衾中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "祛秽香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟蚊香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟蠹香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "合口香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "木香汤"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "藿香露"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "兰膏"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "汉建宁宫中香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "欧阳文忠公梅花香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清味香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清致香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清胜香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "古龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "小龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "佳龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "真龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "龙涎香方（宋内府）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "制龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "拟龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "宝篆香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "香饼（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "寿阳公主梅花香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅英香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "雪中春信香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "雪梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "腊梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅魂香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "兰香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "蕙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "芷香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "九和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "十和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "千和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "万和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "云盖香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "颜五家印香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "闻思香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "七香膏"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "八香饼"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "雪中春信"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "意可香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "四和香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "昌龄梅花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "寿阳香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "龙涎香(方)"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "清远香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "江梅香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "蓬莱香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "雪香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "杏香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "沉香燕雪香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "蜜和香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "芙蕖香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "茉莉香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "木犀香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "紫茸香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "韵梅香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "藏春香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "熏衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百和薰衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "长安薰衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "南阳公主熏衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "印香方"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百花印香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "木樨印香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "香饼子方"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "香丸子方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "韩魏公浓梅香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "藏春香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "蔷薇香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "兰花香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "木犀香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "百花香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "玉华香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "煮香法"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "印香法"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香球方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香囊方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "熏衣香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "湿香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "干香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "傅身香粉方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "面脂香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香墨方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "梅花香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "蝴蝶香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "马都监香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "翠羽香方"
+    }
+  ],
+  "蜂蜜": [
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "渍香法"
+    }
+  ],
+  "蜜": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "沉香煎"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "檀香膏"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "麝香蜜"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "百花膏"
+    }
+  ],
+  "诸香": [
+    {
+      "book": "香祖笔记",
+      "fang_name": "百和香通方"
+    }
+  ],
+  "郁金": [
+    {
+      "book": "香乘",
+      "fang_name": "韩魏公浓梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "黄太史清真香"
+    }
+  ],
+  "郁金香": [
+    {
+      "book": "事林广记",
+      "fang_name": "韩魏公浓梅香"
+    }
+  ],
+  "金箔": [
+    {
+      "book": "香乘",
+      "fang_name": "制龙涎香"
+    }
+  ],
+  "金颜香": [
+    {
+      "book": "香乘",
+      "fang_name": "金颜香（方）"
+    }
+  ],
+  "降真香": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "降真丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "降真香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "降真丸"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "平等香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "万和香"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "四和香通方"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "神仙香"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "小四和香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "降真香(方)"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "降真香方"
+    }
+  ],
+  "雄黄": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟蚊香"
+    }
+  ],
+  "零陵香": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "唐开元宫中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "高庙御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "寿光香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清神香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "黄太史香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "欧公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "蔡太师香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "百花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宝华香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "聚仙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "通仙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玉华香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玉蕊香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑶英香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清远香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "醒骨香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "阁中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "帐中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "枕中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "兰花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "桂花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "菊花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "荷花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "茉莉香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "素馨香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "含笑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑞香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "木犀香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "菖蒲香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "艾香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "芸香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "百和香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "傅身香粉"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "沐香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "熏衣香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "笑兰香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "口香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "含香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "涂香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "散香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑞香饼"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "香佩"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "香囊方"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "金鼎香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "胜白香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "金粟黄香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "碧云香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "万寿香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "长春香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "秋寒香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "暖玉香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清暑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "安神枕香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "髻中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "佩帏香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "幄中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "笼中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "衾中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "祛秽香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟寒香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟暑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟蚊香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟蠹香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "合口香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "木香汤"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "兰膏"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "兰花香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "汉建宁宫中香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "欧阳文忠公梅花香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清妙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清馥香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清韵香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清胜香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清悦香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "古龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "小龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "佳龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "真龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "龙涎香方（宋内府）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "制龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "拟龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "宝篆香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "香饼（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "寿阳公主梅花香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅英香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "雪中春信香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "雪梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "腊梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅魂香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "兰香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "蕙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "芷香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "九和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "十和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "千和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "万和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "云盖香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "闻思香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅蕊香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "八香饼"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "四和香通方"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "小四和香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "雪中春信"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "深静香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "昌龄梅花香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "寿阳香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "龙涎香(方)"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "清远香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "江梅香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "蓬莱香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "雪香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "杏香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "沉香燕雪香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "蜜和香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "芙蕖香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "茉莉香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "木犀香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "紫茸香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "韵梅香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "藏春香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "熏衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百和薰衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "长安薰衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "南阳公主熏衣香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "印香方"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "百花印香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "木樨印香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "香饼子方"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "香丸子方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "兰花香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "百花香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "煮香法"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "印香法"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香球方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香囊方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "熏衣香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "湿香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "干香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "傅身香粉方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "蝴蝶香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "意可香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "马都监香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "荀令十里香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "贾女香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "蓝田香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "翠羽香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "甜香方"
+    }
+  ],
+  "香油": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "桂花油"
+    }
+  ],
+  "香花花瓣": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "百花膏"
+    }
+  ],
+  "马尾香": [
+    {
+      "book": "事林广记",
+      "fang_name": "胜笃耨"
+    }
+  ],
+  "马牙硝": [
+    {
+      "book": "香乘",
+      "fang_name": "兴龙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "真龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "龙涎香方（宋内府）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "制龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "拟龙涎香"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "唐开元宫中香方"
+    }
+  ],
+  "马牙香": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "马牙香"
+    }
+  ],
+  "鸡舌香": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "百和香"
+    }
+  ],
+  "鹅梨": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "江南李主帐中香"
+    }
+  ],
+  "麝": [
+    {
+      "book": "香乘",
+      "fang_name": "梅英香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "兰香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "蕙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "芷香"
+    }
+  ],
+  "麝香": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "汉宫香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "江南李主帐中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "唐开元宫中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宣和御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "真宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "仁宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "英宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "神宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "徽宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "高庙御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宪圣皇后御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "寿光香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "长春香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "醒心香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清神香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "黄太史香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "山谷香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "欧公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "苏公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "韩魏公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "丁公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "蔡太师香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "王荆公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "温公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "赵清献公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "百花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "万春香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宝华香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "聚仙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "通仙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "灵犀香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "金鸡香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玉华香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玉蕊香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑶英香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清远香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清心香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "醒骨香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "阁中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "帐中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "枕中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "球子香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "兰花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "桂花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "菊花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "荷花香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "茉莉香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "素馨香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "含笑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑞香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "木犀香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "枣香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "柏子香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "松香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "菖蒲香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "艾香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "芸香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "麝香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "乳香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "苏合丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "安息丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "木香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "丁香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "檀香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "沉香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "降真丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "龙涎香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "降真香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "甲香牙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "百和香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宝篆印香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "无尘篆香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "隔火香方"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "熏衣香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "笑兰香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "口香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "含香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "涂香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "散香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑞香饼"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "龙涎香珠"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "七宝香串"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "香佩"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "香囊方"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宝鼎香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "金鼎香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑞脑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "胜白香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玄香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "金粟黄香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "紫茸香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "碧云香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "万寿香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "长春香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "秋寒香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "暖玉香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "安神枕香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "髻中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "佩帏香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "幄中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "笼中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "衾中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟寒香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟暑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "合口香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "麝香蜜"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "苏合香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "安息香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "龙涎香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "麝香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "龙脑丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "乳香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "丁香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "木香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "檀香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "沉香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "降真丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "兰花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "桂花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "菊花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "荷花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "茉莉香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "素馨香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "含笑香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "木犀香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "百刻印香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "五福篆香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "韩魏公浓梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "苏内翰贫衙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "丁晋公清真香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "黄太史清真香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "欧阳文忠公梅花香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "林梅隐香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "兴龙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清妙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清馥香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清味香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清韵香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清致香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清胜香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清悦香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "古龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "小龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "佳龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "真龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "龙涎香方（宋内府）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "制龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "拟龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "宝篆香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "香饼（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "寿阳公主梅花香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "雪中春信香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "雪梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "腊梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅魂香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "橙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "橙花"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "木樨香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "蔷薇香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "玫瑰香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "菊香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "莲香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "竹香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "柏香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "杏花香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梨花"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "桃花"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "安息香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "唵叭香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "咄咄香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "荃香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "金颜香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "乳香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "千和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "万和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "云盖香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "颜五家印香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "意和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "意可香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "深静香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "小宗香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "闻思香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅蕊香"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "宫中甜香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "三匀煎"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "雪中春信"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "韩魏公浓梅香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "意可香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "深静香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "胜笃耨"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "龙涎香方"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "胜笃耨"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "水晶龙涎香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "檀香清远方"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "醒心香"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "韩魏公浓梅香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "寿阳公主梅花香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "杨吉老龙涎香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "唐开元宫中香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "宣和御制香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "安息香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "藏春香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "蔷薇香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "兰花香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "木犀香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "百花香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "玉华香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "檀香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "龙涎香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香球方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "降真香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "熏衣香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "傅身香粉方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香墨方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "柏子香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "梅花香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "逗情香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "蝴蝶香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "闻思香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "意可香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "小宗香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "双井香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "马都监香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "荀令十里香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "韩寿偷香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "贾女香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "妙华香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "百刻香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "宝篆香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "翠羽香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "玉蕊香方"
+    }
+  ],
+  "黄丹": [
+    {
+      "book": "香祖笔记",
+      "fang_name": "香饼制法"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香饼子方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香炭方"
+    }
+  ],
+  "黄熟香": [
+    {
+      "book": "香乘",
+      "fang_name": "汉建宁宫中香"
+    }
+  ],
+  "黑角沉": [
+    {
+      "book": "香乘",
+      "fang_name": "韩魏公浓梅香"
+    }
+  ],
+  "龙涎香": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "龙涎香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "龙涎香珠"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "万和香"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "龙涎香方"
+    }
+  ],
+  "龙脑": [
+    {
+      "book": "陈氏香谱",
+      "fang_name": "汉宫香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "江南李主帐中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "唐开元宫中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宣和御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "真宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "仁宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "英宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "神宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "徽宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "徽宗御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "高庙御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宪圣皇后御制香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "寿光香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "长春香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "醒心香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清神香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "黄太史香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "山谷香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "欧公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "苏公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "韩魏公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "丁公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "丁公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "蔡太师香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "王荆公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "温公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "赵清献公香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "万春香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "聚仙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "通仙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "灵犀香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "金鸡香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玉华香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑶英香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清远香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清心香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "醒骨香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "阁中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "帐中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "素馨香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "龙脑丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "龙涎香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "降真香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "甲香牙香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "百和香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宝篆印香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "无尘篆香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "隔火香方"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "笑兰香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "口香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "涂香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑞香饼"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "龙涎香珠"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "七宝香串"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "香佩"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "香囊方"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "宝鼎香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "金鼎香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "瑞脑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "玄香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "金粟黄香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "紫茸香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "碧云香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "万寿香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "长春香丸"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "秋寒香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "暖玉香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "清暑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "安神枕香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "髻中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "佩帏香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "幄中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "笼中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "衾中香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟寒香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟暑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "辟暑香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "合口香"
+    },
+    {
+      "book": "陈氏香谱",
+      "fang_name": "龙脑浆"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "苏合香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "安息香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "龙涎香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "龙脑丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "丁香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "檀香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "沉香丸"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "梅花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "兰花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "荷花香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "茉莉香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "素馨香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "含笑香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "百刻印香"
+    },
+    {
+      "book": "香谱",
+      "fang_name": "五福篆香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "韩魏公浓梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "苏内翰贫衙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "丁晋公清真香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "黄太史清真香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "欧阳文忠公梅花香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "林梅隐香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "兴龙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清妙香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清馥香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清味香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清韵香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清致香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清胜香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "清悦香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "古龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "小龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "佳龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "真龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "龙涎香方（宋内府）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "制龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "拟龙涎香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "宝篆香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "香饼（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "雪中春信香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "雪梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "腊梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅魂香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "橙花"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "木樨香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "蔷薇香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "玫瑰香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "菊香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "莲香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "竹香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "柏香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "杏花香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梨花"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "桃花"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "安息香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "唵叭香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "咄咄香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "荃香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "金颜香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "乳香（方）"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "千和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "万和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "大四和"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "云盖香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "颜五家印香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "意和香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "意可香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "深静香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "小宗香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "闻思香"
+    },
+    {
+      "book": "香乘",
+      "fang_name": "梅蕊香"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "宫中甜香"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "二苏旧局"
+    },
+    {
+      "book": "香祖笔记",
+      "fang_name": "龙安香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "三匀煎"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "雪中春信"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "意可香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "深静香"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "胜笃耨"
+    },
+    {
+      "book": "事林广记",
+      "fang_name": "龙涎香方"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "胜笃耨"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "水晶龙涎香"
+    },
+    {
+      "book": "居家必用事类全集",
+      "fang_name": "醒心香"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "韩魏公浓梅香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "寿阳公主梅花香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "杨吉老龙涎香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "唐开元宫中香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "宣和御制香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "安息香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "藏春香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "蔷薇香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "兰花香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "木犀香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "百花香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "玉华香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "檀香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香球方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "降真香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "熏衣香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "香墨方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "柏子香方"
+    },
+    {
+      "book": "遵生八笺",
+      "fang_name": "梅花香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "逗情香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "琼瑶香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "意可香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "更深香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "马都监香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "韩寿偷香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "妙华香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "百刻香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "宝篆香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "蓝田香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "甜香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "醒心香方"
+    },
+    {
+      "book": "中国香文献辑要",
+      "fang_name": "玉蕊香方"
+    }
+  ]
+}

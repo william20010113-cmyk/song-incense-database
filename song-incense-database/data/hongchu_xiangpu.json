@@ -1,0 +1,942 @@
+[
+  {
+    "fang_name": "苏合香丸",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "苏合香丸：苏合香一两，白檀香一两，丁香一两，麝香一钱，龙脑一钱，安息香半两，炼蜜和丸，如梧桐子大，每服一丸，以酒化下。",
+    "ingredients": [
+      {
+        "name": "苏合香",
+        "amount": "一两",
+        "original_text": "苏合香一两"
+      },
+      {
+        "name": "白檀香",
+        "amount": "一两",
+        "original_text": "白檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁香一两"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "安息香",
+        "amount": "半两",
+        "original_text": "安息香半两"
+      }
+    ],
+    "method": "将以上香料各自捣研为细末，炼蜜调匀，和成丸剂，如梧桐子大。",
+    "category": "丸香",
+    "usage": "可内服，以酒化下；亦可焚烧熏衣。",
+    "notes": "出自《香谱》卷上，为合香丸剂，兼具药用与熏香之用。"
+  },
+  {
+    "fang_name": "安息香丸",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "安息香丸：安息香一两，沉香半两，白檀香半两，丁香半两，麝香一钱，龙脑一钱，炼蜜和丸，如梧桐子大。",
+    "ingredients": [
+      {
+        "name": "安息香",
+        "amount": "一两",
+        "original_text": "安息香一两"
+      },
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "白檀香",
+        "amount": "半两",
+        "original_text": "白檀香半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      }
+    ],
+    "method": "将诸香研细末，炼蜜为丸，如梧桐子大。",
+    "category": "丸香",
+    "usage": "可焚烧或佩戴。",
+    "notes": "安息香为君药，与沉檀丁香相配，香气浓郁。"
+  },
+  {
+    "fang_name": "龙涎香",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "龙涎香：龙涎香一两，沉香一两，白檀香半两，麝香二钱，龙脑三钱，右为细末，炼蜜和匀，捻作饼子，或丸如绿豆大。",
+    "ingredients": [
+      {
+        "name": "龙涎香",
+        "amount": "一两",
+        "original_text": "龙涎香一两"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "白檀香",
+        "amount": "半两",
+        "original_text": "白檀香半两"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "三钱",
+        "original_text": "龙脑三钱"
+      }
+    ],
+    "method": "将香料分别研末，炼蜜调和，制成饼状或丸状，阴干。",
+    "category": "合香",
+    "usage": "焚烧，可除秽气，发香持久。",
+    "notes": "龙涎香为贵重香料，此方以龙涎为主，配以沉檀脑麝。"
+  },
+  {
+    "fang_name": "笃耨香",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "笃耨香：笃耨香不拘多少，烧之，亦可杂诸香同为末，炼蜜和丸。",
+    "ingredients": [
+      {
+        "name": "笃耨香",
+        "amount": "不拘多少",
+        "original_text": "笃耨香不拘多少"
+      }
+    ],
+    "method": "单品焚烧，或与沉香、檀香等同研为末，炼蜜作丸。",
+    "category": "单方香",
+    "usage": "直接焚烧，或合香用。",
+    "notes": "笃耨香为树脂类香料，出西域，香气温润。"
+  },
+  {
+    "fang_name": "麝香丸",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "麝香丸：麝香三钱，沉香一两，白檀香一两，丁香半两，乳香半两，右为细末，炼蜜和丸，如楝实大。",
+    "ingredients": [
+      {
+        "name": "麝香",
+        "amount": "三钱",
+        "original_text": "麝香三钱"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "白檀香",
+        "amount": "一两",
+        "original_text": "白檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香半两"
+      }
+    ],
+    "method": "将诸药研细末，炼蜜和丸，如楝实大。",
+    "category": "丸香",
+    "usage": "焚烧熏衣，或置入香囊中。",
+    "notes": "麝香丸为常用合香丸剂，香气透骨。"
+  },
+  {
+    "fang_name": "龙脑丸",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "龙脑丸：龙脑一两，沉香一两，白檀香一两，麝香半两，丁香半两，右为细末，炼蜜和丸，如梧桐子大。",
+    "ingredients": [
+      {
+        "name": "龙脑",
+        "amount": "一两",
+        "original_text": "龙脑一两"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "白檀香",
+        "amount": "一两",
+        "original_text": "白檀香一两"
+      },
+      {
+        "name": "麝香",
+        "amount": "半两",
+        "original_text": "麝香半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      }
+    ],
+    "method": "研末，炼蜜为丸，如梧桐子大。",
+    "category": "丸香",
+    "usage": "焚烧，可清神醒脑。",
+    "notes": "龙脑为主，香清凉透达。"
+  },
+  {
+    "fang_name": "乳香丸",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "乳香丸：乳香一两，沉香一两，白檀香一两，丁香半两，麝香二钱，右为细末，炼蜜和丸，如梧桐子大。",
+    "ingredients": [
+      {
+        "name": "乳香",
+        "amount": "一两",
+        "original_text": "乳香一两"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "白檀香",
+        "amount": "一两",
+        "original_text": "白檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      }
+    ],
+    "method": "研细末，炼蜜为丸，如梧桐子大。",
+    "category": "丸香",
+    "usage": "焚烧，可通经活络。",
+    "notes": "乳香为君，香气温和。"
+  },
+  {
+    "fang_name": "丁香丸",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "丁香丸：丁香一两，沉香一两，白檀香半两，麝香一钱，龙脑一钱，炼蜜和丸，如梧桐子大。",
+    "ingredients": [
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁香一两"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "白檀香",
+        "amount": "半两",
+        "original_text": "白檀香半两"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      }
+    ],
+    "method": "研末，炼蜜和丸，如梧桐子大。",
+    "category": "丸香",
+    "usage": "焚烧，可用于祛寒辟秽。",
+    "notes": "丁香辛温，合沉麝脑制丸。"
+  },
+  {
+    "fang_name": "木香丸",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "木香丸：木香一两，沉香一两，白檀香一两，麝香二钱，乳香半两，右为细末，炼蜜和丸，如梧桐子大。",
+    "ingredients": [
+      {
+        "name": "木香",
+        "amount": "一两",
+        "original_text": "木香一两"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "白檀香",
+        "amount": "一两",
+        "original_text": "白檀香一两"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香半两"
+      }
+    ],
+    "method": "研细末，炼蜜为丸，如梧桐子大。",
+    "category": "丸香",
+    "usage": "焚烧或佩戴。",
+    "notes": "木香理气，与沉檀乳麝相和。"
+  },
+  {
+    "fang_name": "檀香丸",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "檀香丸：白檀香二两，沉香一两，丁香半两，麝香二钱，龙脑一钱，炼蜜和丸，如梧桐子大。",
+    "ingredients": [
+      {
+        "name": "白檀香",
+        "amount": "二两",
+        "original_text": "白檀香二两"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      }
+    ],
+    "method": "研末，炼蜜和丸，如梧桐子大。",
+    "category": "丸香",
+    "usage": "焚烧，气息清雅。",
+    "notes": "檀香为君，香气纯正。"
+  },
+  {
+    "fang_name": "沉香丸",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "沉香丸：沉香二两，白檀香一两，丁香半两，麝香三钱，龙脑二钱，炼蜜和丸，如梧桐子大。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "二两",
+        "original_text": "沉香二两"
+      },
+      {
+        "name": "白檀香",
+        "amount": "一两",
+        "original_text": "白檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "麝香",
+        "amount": "三钱",
+        "original_text": "麝香三钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑二钱"
+      }
+    ],
+    "method": "研细末，炼蜜和丸，如梧桐子大。",
+    "category": "丸香",
+    "usage": "焚烧，可安神定气。",
+    "notes": "沉香甜厚，配檀麝脑更显馥郁。"
+  },
+  {
+    "fang_name": "降真丸",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "降真丸：降真香一两，沉香半两，白檀香半两，丁香半两，麝香一钱，炼蜜和丸，如梧桐子大。",
+    "ingredients": [
+      {
+        "name": "降真香",
+        "amount": "一两",
+        "original_text": "降真香一两"
+      },
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "白檀香",
+        "amount": "半两",
+        "original_text": "白檀香半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "研末，炼蜜和丸，如梧桐子大。",
+    "category": "丸香",
+    "usage": "焚烧，可辟邪降真。",
+    "notes": "降真香为道教常用，此方合沉檀丁麝。"
+  },
+  {
+    "fang_name": "梅花香",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "梅花香：丁香一两，檀香一两，乳香半两，麝香三钱，龙脑二钱，沉香半两，右为细末，炼蜜和丸，如弹子大。焚之如梅花。",
+    "ingredients": [
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香半两"
+      },
+      {
+        "name": "麝香",
+        "amount": "三钱",
+        "original_text": "麝香三钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑二钱"
+      },
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      }
+    ],
+    "method": "研细末，炼蜜和丸，如弹子大，阴干。用时焚之。",
+    "category": "花香",
+    "usage": "焚香，模拟梅花香气。",
+    "notes": "此方为宋代拟花香型合香，名为梅花香。"
+  },
+  {
+    "fang_name": "兰花香",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "兰花香：白檀香一两，沉香半两，丁香半两，麝香二钱，龙脑一钱，零陵香半两，右为细末，炼蜜和丸，焚之如兰。",
+    "ingredients": [
+      {
+        "name": "白檀香",
+        "amount": "一两",
+        "original_text": "白檀香一两"
+      },
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "半两",
+        "original_text": "零陵香半两"
+      }
+    ],
+    "method": "研末，炼蜜和丸，如绿豆大，焚之。",
+    "category": "花香",
+    "usage": "焚香，模拟兰花香。",
+    "notes": "零陵香为兰花香气的重要来源。"
+  },
+  {
+    "fang_name": "桂花香",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "桂花香：沉香一两，白檀香一两，丁香半两，麝香一钱，桂花末（干桂花）半两，炼蜜和丸，焚之如桂。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "白檀香",
+        "amount": "一两",
+        "original_text": "白檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      },
+      {
+        "name": "桂花末",
+        "amount": "半两",
+        "original_text": "桂花末（干桂花）半两"
+      }
+    ],
+    "method": "研末，炼蜜和丸，如绿豆大，焚之。",
+    "category": "花香",
+    "usage": "焚香，模拟桂花香气。",
+    "notes": "加入真实桂花末以增强香气。"
+  },
+  {
+    "fang_name": "菊花香",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "菊花香：甘菊花（晒干研末）一两，白檀香半两，沉香半两，丁香二钱，麝香一钱，炼蜜和丸，焚之如菊。",
+    "ingredients": [
+      {
+        "name": "甘菊花",
+        "amount": "一两",
+        "original_text": "甘菊花（晒干研末）一两"
+      },
+      {
+        "name": "白檀香",
+        "amount": "半两",
+        "original_text": "白檀香半两"
+      },
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "二钱",
+        "original_text": "丁香二钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "甘菊花晒干研末，与诸香末混匀，炼蜜和丸，如绿豆大。",
+    "category": "花香",
+    "usage": "焚香，模拟菊花香。",
+    "notes": "菊花香清雅，此方以甘菊为主。"
+  },
+  {
+    "fang_name": "荷花香",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "荷花香：白檀香一两，沉香半两，丁香半两，麝香二钱，龙脑一钱，荷叶（干）半两，炼蜜和丸，焚之如荷。",
+    "ingredients": [
+      {
+        "name": "白檀香",
+        "amount": "一两",
+        "original_text": "白檀香一两"
+      },
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "荷叶",
+        "amount": "半两",
+        "original_text": "荷叶（干）半两"
+      }
+    ],
+    "method": "干荷叶研末，与诸香末和匀，炼蜜作丸，如绿豆大。",
+    "category": "花香",
+    "usage": "焚香，模拟荷花香气。",
+    "notes": "荷叶带来水生清香。"
+  },
+  {
+    "fang_name": "茉莉香",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "茉莉香：白檀香一两，沉香半两，丁香半两，麝香二钱，龙脑一钱，茉莉花（干）半两，炼蜜和丸，焚之如茉莉。",
+    "ingredients": [
+      {
+        "name": "白檀香",
+        "amount": "一两",
+        "original_text": "白檀香一两"
+      },
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "茉莉花",
+        "amount": "半两",
+        "original_text": "茉莉花（干）半两"
+      }
+    ],
+    "method": "干茉莉花研末，与诸香末混匀，炼蜜和丸，如绿豆大。",
+    "category": "花香",
+    "usage": "焚香，模拟茉莉花香。",
+    "notes": "茉莉花香气甜美，合沉檀脑麝。"
+  },
+  {
+    "fang_name": "素馨香",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "素馨香：白檀香一两，沉香半两，丁香半两，麝香一钱，龙脑一钱，素馨花（干）半两，炼蜜和丸，焚之如素馨。",
+    "ingredients": [
+      {
+        "name": "白檀香",
+        "amount": "一两",
+        "original_text": "白檀香一两"
+      },
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "素馨花",
+        "amount": "半两",
+        "original_text": "素馨花（干）半两"
+      }
+    ],
+    "method": "干素馨花研末，与诸香末混匀，炼蜜和丸，如绿豆大。",
+    "category": "花香",
+    "usage": "焚香，模拟素馨花香。",
+    "notes": "素馨花为南方香花，香气清婉。"
+  },
+  {
+    "fang_name": "含笑香",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "含笑香：白檀香一两，沉香半两，丁香半两，麝香二钱，龙脑一钱，含笑花（干）半两，炼蜜和丸，焚之如含笑。",
+    "ingredients": [
+      {
+        "name": "白檀香",
+        "amount": "一两",
+        "original_text": "白檀香一两"
+      },
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "含笑花",
+        "amount": "半两",
+        "original_text": "含笑花（干）半两"
+      }
+    ],
+    "method": "含笑花干研末，与诸香末和匀，炼蜜作丸，如绿豆大。",
+    "category": "花香",
+    "usage": "焚香，模拟含笑花香。",
+    "notes": "含笑花香气类似香蕉，独特甜美。"
+  },
+  {
+    "fang_name": "木犀香",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "木犀香：木犀花（干桂花）一两，白檀香一两，沉香半两，丁香半两，麝香二钱，炼蜜和丸，焚之如木犀。",
+    "ingredients": [
+      {
+        "name": "木犀花",
+        "amount": "一两",
+        "original_text": "木犀花（干桂花）一两"
+      },
+      {
+        "name": "白檀香",
+        "amount": "一两",
+        "original_text": "白檀香一两"
+      },
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      }
+    ],
+    "method": "桂花干研末，与诸香末混匀，炼蜜和丸，如绿豆大。",
+    "category": "花香",
+    "usage": "焚香，模拟桂花（木犀）香气。",
+    "notes": "木犀即桂花，此方以桂花为主。"
+  },
+  {
+    "fang_name": "百刻印香",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "百刻印香：沉香二两，白檀香二两，乳香一两，丁香一两，麝香半两，龙脑半两，右为细末，炼蜜和匀，印作百刻篆文，焚之可以计时。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "二两",
+        "original_text": "沉香二两"
+      },
+      {
+        "name": "白檀香",
+        "amount": "二两",
+        "original_text": "白檀香二两"
+      },
+      {
+        "name": "乳香",
+        "amount": "一两",
+        "original_text": "乳香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁香一两"
+      },
+      {
+        "name": "麝香",
+        "amount": "半两",
+        "original_text": "麝香半两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "半两",
+        "original_text": "龙脑半两"
+      }
+    ],
+    "method": "诸香研细末，炼蜜调匀，以特制印模印成篆文香条，每段燃烧时间约一时刻（百刻制）。",
+    "category": "印香",
+    "usage": "计时焚香，用于寺院或文人书斋。",
+    "notes": "百刻香为宋代计时香，一昼夜燃尽恰好一百刻。"
+  },
+  {
+    "fang_name": "五福篆香",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷上",
+    "source_text": "五福篆香：沉香一两，白檀香一两，丁香半两，乳香半两，麝香一钱，龙脑一钱，右为细末，炼蜜和匀，印作五福寿字等篆文。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "白檀香",
+        "amount": "一两",
+        "original_text": "白檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香半两"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香半两"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      }
+    ],
+    "method": "研末，炼蜜调成香泥，用篆字印模印出福寿等字样，阴干后焚之。",
+    "category": "印香",
+    "usage": "节日、庆典或祈福时焚用。",
+    "notes": "五福篆香为吉祥印香，常在喜庆时使用。"
+  },
+  {
+    "fang_name": "柏子香",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷下",
+    "source_text": "柏子香：柏子实不拘多少，慢火焙出香气，捣为末，每用少许，可入檀麝同焚。",
+    "ingredients": [
+      {
+        "name": "柏子实",
+        "amount": "不拘多少",
+        "original_text": "柏子实不拘多少"
+      }
+    ],
+    "method": "柏子实慢火焙干，捣为粗末，可单独焚烧，或与檀香、麝香末混合。",
+    "category": "单方香",
+    "usage": "焚香，清静自然。",
+    "notes": "柏子香为道家常用，取其松柏清气。"
+  },
+  {
+    "fang_name": "芸香",
+    "book": "香谱",
+    "author": "洪刍",
+    "volume": "卷下",
+    "source_text": "芸香：芸香草晒干，研为末，可单焚，亦可与沉檀和合。",
+    "ingredients": [
+      {
+        "name": "芸香草",
+        "amount": "不拘多少",
+        "original_text": "芸香草晒干"
+      }
+    ],
+    "method": "采芸香草晒干，捣碎为末，直接焚烧或混合诸香。",
+    "category": "单方香",
+    "usage": "熏衣、辟蠹、焚香。",
+    "notes": "芸香即七里香，香气浓郁，可驱虫。"
+  }
+]

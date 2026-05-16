@@ -1,0 +1,840 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,viewport-fit=cover">
+<title>香谱数据库 · Xiang Pu DB</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@200;300;400;600&family=Playfair+Display:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500&family=Inter:wght@200;300;400;500;600&family=JetBrains+Mono:wght@200;300;400;500&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#f5f0e6;--bg-alt:#ede5d6;--bg-panel:#faf6ef;
+  --surface:#f2ecd9;--surface-hi:#e8e0ce;
+  --gold:#b8923c;--gold-dim:#8a7a5a;--amber:#a0896a;
+  --green:#6a8b5e;--green-dim:#5a7a50;
+  --cyan:#5a8a8a;--red:#9b4a4a;
+  --ink:#1a1612;--dim:#786e60;--light:#b5aa98;--border:#d4ccbc;
+  --radius:6px;
+  --shadow:0 1px 3px rgba(0,0,0,.04);
+  font-size:clamp(15px,1.5vw,19px);
+}
+html{height:100%}
+body{
+  font-family:"Inter",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  background:var(--bg);color:var(--ink);
+  min-height:100dvh;display:flex;flex-direction:column;
+  -webkit-font-smoothing:antialiased;overscroll-behavior:none;
+  line-height:1.5;
+}
+
+/* ═══ HEADER ═══ */
+.term-header{
+  background:var(--bg);border-bottom:1px solid var(--border);
+  padding:14px 20px;display:flex;align-items:flex-start;gap:12px;flex-shrink:0;
+  user-select:none;
+}
+.term-title{
+  flex:1;
+}
+.term-title .main{
+  font-family:"Playfair Display","Noto Serif SC","Songti SC",serif;
+  font-size:1.1rem;font-weight:600;color:var(--ink);
+  letter-spacing:.03em;line-height:1.2;
+}
+.term-title .sub{
+  font-family:"Playfair Display","Noto Serif SC",serif;
+  font-size:.44rem;font-weight:400;color:var(--gold-dim);
+  letter-spacing:.06em;margin-left:8px;font-style:italic;
+}
+.term-title .byline{
+  display:block;font-size:.3rem;color:var(--light);
+  font-weight:400;letter-spacing:.04em;margin-top:2px;
+}
+.term-title .desc{
+  display:block;font-size:.46rem;color:var(--amber);
+  font-weight:400;letter-spacing:.02em;margin-top:5px;
+  font-style:italic;max-width:700px;
+  line-height:1.5;
+}
+.term-title .poem-line{
+  display:block;font-size:.4rem;color:var(--dim);
+  font-weight:400;margin-top:7px;padding-top:6px;
+  border-top:1px solid var(--border);
+  line-height:1.6;max-width:620px;
+  font-style:italic;min-height:1.3em;
+  transition:opacity .6s;
+}
+.term-title .poem-line .poem-source{
+  font-size:.36rem;color:var(--amber);opacity:.6;
+  font-style:normal;
+  white-space:nowrap;
+}
+.lang-toggle{
+  font-size:.35rem;padding:4px 12px;border:1px solid var(--border);
+  border-radius:var(--radius);background:transparent;color:var(--gold-dim);
+  cursor:pointer;transition:all .25s;font-family:"Inter",sans-serif;
+  font-weight:500;letter-spacing:.06em;text-transform:uppercase;
+  flex-shrink:0;margin-top:2px;
+}
+.lang-toggle:hover{border-color:var(--gold);color:var(--gold);background:rgba(184,146,60,.06)}
+
+/* ═══ BODY ═══ */
+.term-body{
+  flex:1;overflow-y:auto;padding:10px 16px 120px;display:flex;flex-direction:column;gap:5px;
+}
+.term-body::-webkit-scrollbar{width:5px}
+.term-body::-webkit-scrollbar-thumb{background:var(--light);border-radius:3px}
+
+/* ═══ MOTD ═══ */
+.motd{font-size:.45rem;color:var(--dim);line-height:1.4;white-space:pre-wrap;font-family:"Inter",sans-serif}
+.motd .logo{color:var(--gold);font-weight:400;line-height:1.1;margin-bottom:3px;font-size:.4rem;
+  font-family:"JetBrains Mono",monospace;}
+.motd .logo span{color:var(--gold-dim);font-weight:300}
+
+/* ═══ SEARCH BAR ═══ */
+.search-row{
+  display:flex;align-items:center;gap:6px;
+}
+.search-row input{
+  flex:1;background:var(--bg-panel);border:1px solid var(--border);
+  color:var(--ink);font-family:"Inter",system-ui,sans-serif;
+  font-size:.6rem;padding:10px 16px;border-radius:var(--radius);
+  outline:none;transition:all .2s;caret-color:var(--gold);
+  min-width:140px;
+  box-shadow:var(--shadow);
+}
+.search-row input:focus{border-color:var(--gold-dim);box-shadow:0 0 0 2px rgba(184,146,60,.12)}
+.search-row input::placeholder{color:var(--light);font-size:.5rem;font-style:italic}
+
+.btn-group{display:flex;gap:5px;flex-shrink:0}
+.btn-group button{
+  padding:9px 18px;border:1px solid var(--border);border-radius:var(--radius);
+  background:var(--bg-panel);color:var(--dim);
+  font-family:"Inter",system-ui,sans-serif;
+  font-size:.46rem;font-weight:500;letter-spacing:.04em;text-transform:uppercase;
+  cursor:pointer;transition:all .2s;line-height:1.4;
+  box-shadow:var(--shadow);
+}
+.btn-group button:hover{background:var(--surface-hi);border-color:var(--gold-dim);color:var(--gold)}
+.btn-group button:active{transform:scale(.95)}
+.btn-group button.pri{background:var(--gold);color:#fff;border-color:var(--gold)}
+.btn-group button.pri:hover{background:#a88332;color:#fff}
+.btn-group button.pri:disabled{opacity:.2;cursor:default}
+
+/* ═══ FILTER BAR ═══ */
+.filter-bar{
+  display:flex;flex-wrap:wrap;gap:4px;align-items:center;
+  padding:8px 10px;background:var(--bg-alt);border-radius:var(--radius);
+  box-shadow:inset 0 1px 2px rgba(0,0,0,.03);
+}
+.filter-bar select{
+  font-family:"Inter",system-ui,sans-serif;
+  font-size:.4rem;padding:5px 8px;
+  background:var(--bg-panel);border:1px solid var(--border);
+  color:var(--ink);border-radius:4px;outline:none;cursor:pointer;
+  max-width:170px;
+}
+.filter-bar select:focus{border-color:var(--gold-dim)}
+.filter-bar .f-label{font-size:.38rem;color:var(--dim);font-weight:500;margin-left:6px;text-transform:uppercase;letter-spacing:.03em}
+.filter-bar .f-toggle{
+  font-size:.38rem;color:var(--dim);cursor:pointer;padding:3px 8px;
+  border-radius:3px;transition:color .2s;margin-left:auto;
+}
+.filter-bar .f-toggle:hover{color:var(--gold)}
+.filter-hint{font-size:.38rem;color:var(--light);font-style:italic;margin-left:3px}
+
+/* ═══ STATS ═══ */
+.stats{
+  font-size:.38rem;color:var(--dim);padding:4px 8px;
+  display:flex;flex-wrap:wrap;gap:3px 12px;
+  font-weight:400;
+}
+.stats .s{display:flex;gap:4px;align-items:center}
+.stats .s .v{color:var(--gold);font-weight:500}
+.stats .s .v.gr{color:var(--green)}
+
+/* ═══ DETAIL PANEL ═══ */
+#detailWrap{
+  position:fixed;bottom:20px;left:50%;transform:translateX(-50%);
+  z-index:100;width:min(92vw,680px);max-height:80vh;
+  animation:detailSlideUp .3s ease-out;
+}
+@media(max-width:640px){
+  #detailWrap{bottom:0;left:0;width:100vw;max-height:85vh;transform:none;animation:detailSlideUpMobile .3s ease-out;}
+}
+#detailWrap:empty{display:none}
+.detail-panel{
+  border:1px solid var(--border);
+  border-radius:8px;
+  background:var(--bg-panel);overflow:hidden;
+  box-shadow:0 4px 24px rgba(0,0,0,.12),0 1px 4px rgba(0,0,0,.06);
+  max-height:inherit;display:flex;flex-direction:column;
+}
+@media(max-width:640px){
+  .detail-panel{border-radius:8px 8px 0 0;border-bottom:none;max-height:85vh;}
+}
+.detail-panel .dh{
+  display:flex;justify-content:space-between;align-items:center;flex-shrink:0;
+  padding:10px 16px;background:var(--surface);
+  border-bottom:1px solid var(--border);
+  font-family:"Playfair Display","Noto Serif SC",serif;
+  font-size:.52rem;font-weight:500;color:var(--ink);
+}
+.detail-panel .dh .dc{
+  cursor:pointer;color:var(--dim);font-size:.34rem;padding:4px 10px;border-radius:4px;
+  font-family:"Inter",sans-serif;font-weight:600;text-transform:uppercase;letter-spacing:.04em;
+  transition:all .15s;border:1px solid var(--border);
+}
+.detail-panel .dh .dc:hover{color:var(--red);border-color:var(--red);background:rgba(155,74,74,.04)}
+.detail-panel .db{
+  overflow-y:auto;flex:1;padding:12px 16px 16px;
+  scrollbar-width:thin;scrollbar-color:var(--border) transparent;
+}
+.detail-panel .df{
+  display:flex;gap:8px;margin-bottom:5px;font-size:.5rem;line-height:1.5;
+}
+.detail-panel .df .dl{
+  color:var(--dim);flex-shrink:0;width:55px;
+  font-size:.38rem;letter-spacing:.04em;text-transform:uppercase;font-weight:500;
+}
+.detail-panel .df .dv{color:var(--ink)}
+.detail-panel .df .dv .cn{font-family:"Noto Serif SC","Songti SC",serif;color:var(--gold-dim);text-transform:none}
+
+.ing-tbl{width:100%;border-collapse:collapse;font-size:.48rem;margin-top:6px}
+.ing-tbl th{
+  text-align:left;padding:5px 8px;color:var(--dim);font-weight:500;
+  border-bottom:1px solid var(--border);font-size:.36rem;letter-spacing:.04em;
+  text-transform:uppercase;
+}
+.ing-tbl td{padding:4px 8px;border-bottom:1px solid rgba(212,204,188,.3);vertical-align:top}
+.ing-tbl tr:last-child td{border-bottom:none}
+.ing-tbl .n{color:var(--gold);font-weight:400}
+.ing-tbl .amt{color:var(--dim);font-family:"JetBrains Mono",monospace;font-size:.42rem}
+.ing-tbl .nat{font-size:.38rem;color:var(--green-dim)}
+.ing-tbl .flv{font-size:.38rem;color:var(--cyan)}
+
+.source-box{
+  margin-top:6px;padding:8px 12px;background:var(--bg-alt);border-radius:4px;
+  font-size:.45rem;line-height:1.6;color:var(--ink);
+  border-left:3px solid var(--gold-dim);
+  font-family:"Noto Serif SC","Songti SC",serif;
+}
+
+@keyframes detailSlideUp{
+  from{opacity:0;transform:translateX(-50%) translateY(20px);}
+  to{opacity:1;transform:translateX(-50%) translateY(0);}
+}
+@keyframes detailFadeOut{
+  from{opacity:1;transform:translateX(-50%) translateY(0)}
+  to{opacity:0;transform:translateX(-50%) translateY(12px)}
+}
+@keyframes detailSlideUpMobile{
+  from{opacity:0;transform:translateY(30px);}
+  to{opacity:1;transform:translateY(0);}
+}
+
+/* ═══ RESULTS ═══ */
+.results-wrap{
+  border:1px solid var(--border);border-radius:var(--radius);overflow:hidden;
+  box-shadow:0 1px 4px rgba(0,0,0,.04);
+}
+.results-header{
+  display:flex;justify-content:space-between;align-items:center;
+  padding:6px 12px;background:var(--surface);
+  border-bottom:1px solid var(--border);
+  font-size:.38rem;color:var(--dim);cursor:pointer;
+  user-select:none;transition:background .15s;
+}
+.results-header:hover{background:var(--surface-hi)}
+.results-header .rh-arrow{font-size:.35rem;transition:transform .2s}
+.results-header .rh-arrow.open{transform:rotate(90deg)}
+
+.results{display:flex;flex-direction:column}
+.r-line{
+  font-size:.52rem;padding:5px 12px;cursor:pointer;
+  transition:background .15s;
+  font-family:"Inter",sans-serif;
+}
+.r-line:hover{background:var(--surface-hi)}
+.r-line .id{color:var(--light);font-size:.36rem;margin-right:8px;font-family:"JetBrains Mono",monospace}
+.r-line .nm{color:var(--gold);font-weight:500;font-size:.44rem}
+.r-line .bk{font-size:.36rem;color:var(--dim);margin-left:8px;opacity:.6}
+.r-line .ig{font-size:.36rem;color:var(--dim);margin-left:4px}
+.r-line.highlight{background:var(--gold);color:var(--bg)}
+.r-line.highlight .nm{color:var(--bg)}
+.r-line.highlight .id{color:rgba(26,22,18,.4)}
+.r-line.highlight .bk{color:rgba(26,22,18,.5)}
+.r-line.highlight .ig{color:rgba(26,22,18,.5)}
+
+.more-hint{font-size:.38rem;color:var(--light);font-style:italic;text-align:center;padding:5px}
+
+/* ═══ NO RESULTS ═══ */
+.no-res{font-size:.5rem;color:var(--dim);padding:20px;text-align:center}
+
+
+@keyframes fadeUp{from{opacity:0;transform:translateY(3px)}to{opacity:1;transform:translateY(0)}}
+
+@media(max-width:640px){
+  :root{font-size:clamp(15px,2vw,18px)}
+  .term-header{padding:10px 14px;gap:4px}
+  .term-title .main{font-size:.9rem}
+  .term-title .sub{font-size:.42rem}
+  .term-title .desc{font-size:.42rem;max-width:100%}
+  .term-title .poem-line{font-size:.38rem;max-width:100%}
+  .term-body{padding:8px 14px 120px;gap:6px}
+  .search-row{flex-wrap:wrap;gap:6px}
+  .search-row input{font-size:.55rem;min-width:0;width:100%;padding:12px 14px}
+  .btn-group{width:100%;gap:6px}
+  .btn-group button{flex:1;font-size:.44rem;padding:12px 10px;text-align:center;justify-content:center}
+  .filter-bar{gap:5px;flex-wrap:wrap}
+  .filter-bar .f-label{font-size:.36rem;min-width:auto;margin-bottom:0}
+  .filter-bar select{max-width:none;flex:1;min-width:0;font-size:.44rem;padding:10px 8px}
+  .stats{font-size:.36rem;gap:4px 10px}
+  .r-line{padding:12px 10px;gap:4px;min-height:48px}
+  .r-line .nm{font-size:.46rem}
+  .r-line .bk{font-size:.34rem}
+  .r-line .ig{font-size:.34rem}
+  .detail-panel .df{font-size:.44rem;flex-wrap:wrap;gap:4px}
+  .detail-panel .df .dl{width:48px;font-size:.38rem}
+  .ing-tbl{font-size:.44rem}
+  .ing-tbl th,.ing-tbl td{padding:6px 6px}
+  .source-box{font-size:.44rem}
+  .detail-panel .db{padding:10px 12px}
+  .detail-panel .dh{padding:10px 12px;font-size:.5rem}
+  .detail-panel .dh .dc{padding:6px 12px;font-size:.38rem}
+  .no-res{font-size:.44rem;padding:20px 10px}
+}
+}
+@media(prefers-reduced-motion:reduce){*{animation-duration:.01ms!important;transition-duration:.01ms!important}}
+</style>
+</head>
+<body>
+
+<header class="term-header">
+  <div class="term-title">
+    <span class="main" id="headerTitle">香谱数据库</span>
+    <span class="sub" id="headerSub">Xiang Pu Database</span>
+    <span class="byline" id="headerBy">by Changhao Li</span>
+    <span class="desc" id="headerDesc">Browse 378 traditional incense recipes from 8 classical Chinese texts (Song–Qing). Search by name, ingredient, or book. Filter by category or use. Click any recipe to view ingredients, dosages, preparation methods, and TCM properties. Toggle EN/中文 in the top-right corner.</span>
+    <div class="poem-line" id="poemLine"></div>
+  </div>
+  <button class="lang-toggle" id="langToggle">EN</button>
+</header>
+
+<main class="term-body" id="termBody">
+
+  <!-- MOTD -->
+  <div class="motd" id="motd">
+    <div class="logo">
+╔══════════════════════════╗<br>
+║  香  谱  数  据  库      ║<br>
+║  <span>Chinese Incense DB</span> ║<br>
+╚══════════════════════════╝
+    </div>
+    Loading...
+  </div>
+
+  <!-- SEARCH -->
+  <div class="search-row">
+    <input type="text" id="searchInput" placeholder="Search..." autocomplete="off" spellcheck="false">
+    <div class="btn-group">
+      <button class="pri" id="searchBtn">Go</button>
+      <button id="randomBtn">Rnd</button>
+      <button id="clearBtn">Clr</button>
+    </div>
+  </div>
+
+  <!-- FILTER BAR -->
+  <div class="filter-bar" id="filterBar">
+    <span class="f-label" id="flBook">Book</span>
+    <select id="filterBook"><option value="">—</option></select>
+    <span class="f-label" id="flCat">Type</span>
+    <select id="filterCat"><option value="">—</option></select>
+    <span class="f-label" id="flUse">Use</span>
+    <select id="filterUse"><option value="">—</option></select>
+    <span class="f-toggle" id="filterToggle">▲ hide</span>
+  </div>
+
+  <!-- STATS -->
+  <div class="stats" id="stats">
+    <span class="s"><span class="v" id="stRecipes">0</span> <span class="lbl" id="lblRecipes">recipes</span></span>
+    <span class="s"><span class="v" id="stBooks">0</span> <span class="lbl" id="lblBooks">texts</span></span>
+    <span class="s"><span class="v" id="stIngredients">0</span> <span class="lbl" id="lblIngs">ingredients</span></span>
+    <span class="s" id="stResults" style="display:none"><span class="v gr" id="stResNum">0</span> <span class="lbl" id="lblResults">results</span></span>
+  </div>
+
+  <!-- DETAIL (above results) -->
+  <div id="detailWrap"></div>
+
+  <!-- RESULTS -->
+  <div class="results-wrap" id="resultsWrap">
+    <div class="results-header" id="resultsHeader">
+      <span><span class="lbl" id="lblResultsList">Results</span> <span id="resCount" style="color:var(--light)"></span></span>
+      <span class="rh-arrow open" id="rhArrow">▶</span>
+    </div>
+    <div class="results" id="results"></div>
+  </div>
+
+</main>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
+<script>
+(function(){ 'use strict';
+
+// ═══ I18N ═══
+const I18N = {
+  zh: {
+    headerTitle: '香谱数据库',
+    headerSub: 'Xiang Pu Database',
+    headerDesc: '横跨宋至清 8 部古籍，共 378 首传统合香方。可按香方名、香材、古籍搜索，按类别或用途筛选。点击任一香方查看详细配方、用量、制法和本草功效。右上角切换中/英文。',
+    searchPH: '搜香方 / 香材 / 古籍…',
+    flBook: '古籍', flCat: '类别', flUse: '用法',
+    filterHide: '▲ 收', filterShow: '▼ 展',
+    lblRecipes: '香方', lblBooks: '古籍', lblIngs: '香材', lblResults: '结果',
+    lblResultsList: '香方列表',
+    noResults: '∅ 未找到结果',
+    moreResults: n => `⋯ 还有 ${n} 条结果，缩小搜索范围`,
+    loading: '载入中…',
+    dbLoaded: '数据库已加载',
+    dbFailed: '数据库加载失败',
+    book: '出处', author: '作者', type: '类别', use: '用法', src: '原文',
+    ing: '香材', amount: '用量', nature: '性', flavor: '味',
+    close: '✕ 关闭',
+  },
+  en: {
+    headerTitle: 'Xiang Pu Database',
+    headerSub: 'Chinese Incense Compendium',
+    headerDesc: 'A curated database of 378 traditional Chinese incense recipes from 8 classical texts, spanning the Song through Qing dynasties.',
+    searchPH: 'Search incense name, ingredient, or book…',
+    flBook: 'Book', flCat: 'Type', flUse: 'Use',
+    filterHide: '▲ hide', filterShow: '▼ show',
+    lblRecipes: 'recipes', lblBooks: 'texts', lblIngs: 'ingredients', lblResults: 'results',
+    lblResultsList: 'Recipes',
+    noResults: '∅ No results found',
+    moreResults: n => `⋯ ${n} more results. Refine your search.`,
+    loading: 'Loading…',
+    dbLoaded: 'Database loaded',
+    dbFailed: 'Failed to load database',
+    book: 'Book', author: 'Author', type: 'Category', use: 'Usage', src: 'Text',
+    ing: 'Ingredient', amount: 'Amount', nature: 'Nature', flavor: 'Flavor',
+    close: '✕ close',
+  }
+};
+
+// ═══ SONG INCENSE POEMS ═══
+const INCENSE_POEMS = [
+  {q:'四句烧香偈，随香遍大千', src:'苏轼《和鲁直韵》'},
+  {q:'金炉犹暖麝煤残，惜香更把宝钗翻', src:'苏轼《翻香令》'},
+  {q:'壁立孤峰倚砚长，共疑沉水得顽苍', src:'苏轼《沉香石》'},
+  {q:'薄雾浓云愁永昼，瑞脑消金兽', src:'李清照《醉花阴》'},
+  {q:'宝熏清夜起氤氲，寂寂中庭伴月痕', src:'陆游《焚香》'},
+  {q:'茹芝却粒世无方，随食随时每炷香', src:'陆游《烧香》'},
+  {q:'香篆袅时诗未就，一灯明灭小窗深', src:'陆游《昼睡》'},
+  {q:'琢瓷作鼎碧于水，削银为叶轻如纸', src:'杨万里《烧香》'},
+  {q:'燎沉香，消溽暑。鸟雀呼晴，侵晓窥檐语', src:'周邦彦《苏幕遮》'},
+  {q:'宝扇轻摇香篆袅，玉炉频爇饼茶香', src:'周邦彦《浣溪沙》'},
+  {q:'无可奈何花落去，似曾相识燕归来，小园香径独徘徊', src:'晏殊《浣溪沙》'},
+  {q:'炉香静逐游丝转，一场愁梦酒醒时', src:'晏殊《踏莎行》'},
+  {q:'尽日沉香一炷烟，春来春去自年年', src:'晏殊《香》'},
+  {q:'山抹微云，天连衰草，画角声断谯门', src:'秦观《满庭芳》'},
+  {q:'疏影横斜水清浅，暗香浮动月黄昏', src:'林逋《山园小梅》'},
+  {q:'澄鲜只共邻僧惜，冷落犹嫌俗客看', src:'林逋《梅花》'},
+  {q:'燎沉香，消溽暑。鸟雀呼晴，侵晓窥檐语', src:'周邦彦《苏幕遮》'},
+  {q:'炉烟一窗，瓶花一床。更无俗物，相对清昼长', src:'范成大《香》'},
+  {q:'明窗延静昼，默坐消尘缘。石鼎火微温，沈烟一缕圆', src:'陈与义《焚香》'},
+  {q:'小物有至趣，幽香发深省', src:'朱熹《香茶》'},
+  {q:'幽兴年来莫与同，滋兰聊欲汎光风', src:'朱熹《香界》'},
+  {q:'窈窕玉堂空，朝朝作烟雾。犹胜野人栽，摇落风雨中', src:'王安石《香》'},
+  {q:'溪深树密无人处，惟有幽花渡水香', src:'王安石《天童山溪》'},
+  {q:'香来不知处，风过有馀清', src:'黄庭坚《香十咏》'},
+  {q:'但知言若兰，不悟香成国', src:'黄庭坚《子瞻寄沉香石》'},
+  {q:'一炷清香满石楼，坐看飞鸟度林丘', src:'曾几《香》'},
+  {q:'细烟轻雾锁窗纱，宝鸭香温夜煮茶', src:'张耒《烧香》'},
+  {q:'沈水烟消宝篆残，夜凉人静月团团', src:'陈克《香》'},
+  {q:'夜香烧罢月明中，素手轻将玉珮弄', src:'毛滂《烧香》'},
+  {q:'四更山月照寒窗，起坐焚香思渺茫', src:'王庭珪《焚香》'},
+  {q:'香喷瑞兽金三品，密云双凤新丝滑', src:'辛弃疾《满江红》'},
+  {q:'香暖处，酒醒时，画檐玉箸已偷垂', src:'辛弃疾《鹧鸪天》'},
+  {q:'酒醒春晚，一枕清梦，小窗香暗', src:'张先《香》'},
+  {q:'睡起香销金鹊尾，日长深院静', src:'谢逸《香》'},
+  {q:'暗香一阵，熏破春酲，莫教人省', src:'毛滂《烛影摇红》'},
+  {q:'独自倚阑干，夜深香篆残', src:'朱淑真《菩萨蛮》'},
+  {q:'香冷金猊，被翻红浪，起来慵自梳头', src:'李清照《凤凰台上忆吹箫》'},
+  {q:'沈香烟断玉炉寒，伴我情怀如水', src:'李清照《孤雁儿》'},
+  {q:'篆香烧尽，日影下帘钩', src:'李清照《满庭芳》'},
+  {q:'香残永夜，月照霜浓，江南歳晚', src:'姜夔《香》'},
+  {q:'自胡马窥江去后，废池乔木，犹厌言兵', src:'姜夔《扬州慢》'},
+  {q:'昭君不惯胡沙远，但暗忆、江南江北', src:'姜夔《疏影》'},
+  {q:'飘零到此，天涯倦客，山中伴我，一炷炉薰', src:'张炎《祝英台近》'},
+  {q:'石鼎火初红，茶香透竹丛。一炉沉水暖，清坐对长空', src:'白玉蟾《焚香》'},
+  {q:'七里香风生坐隅，谁家烟草绿模糊', src:'刘克庄《香》'},
+  {q:'玉炉沉水袅残烟，小窗深，日高眠', src:'晏几道《香》'},
+  {q:'焚香扫地昼掩门，十年旧事谁共论', src:'唐庚《焚香》'},
+  {q:'一炷夜香犹在手，天涯何处觅归舟', src:'朱敦儒《香》'},
+  {q:'山家清供无别物，一炉沉水伴黄昏', src:'徐玑《香》'},
+  {q:'老去惜香心更切，故烧高烛照红妆', src:'杨万里《惜香》'},
+  {q:'闻道神仙有香界，不知人世几沧桑', src:'黄庚《香界》'},
+  {q:'小炷博山炉，孤灯照寂寥。坐听三更雨，闲添一缕香', src:'周密《焚香》'},
+];
+
+function pickPoem() {
+  const el = document.getElementById('poemLine');
+  if (!el) return;
+  const p = INCENSE_POEMS[Math.floor(Math.random() * INCENSE_POEMS.length)];
+  el.innerHTML = '「' + p.q + '」 <span class="poem-source">— ' + p.src + '</span>';
+}
+
+let lang = navigator.language.startsWith('zh') ? 'zh' : 'en';
+function t(id, ...args) {
+  const val = I18N[lang][id];
+  return typeof val === 'function' ? val(...args) : val;
+}
+function applyLang() {
+  document.getElementById('headerTitle').textContent = t('headerTitle');
+  document.getElementById('headerSub').textContent = t('headerSub');
+  document.getElementById('headerBy').textContent = 'by Changhao Li';
+  document.getElementById('headerDesc').textContent = t('headerDesc');
+  pickPoem();
+  document.getElementById('searchInput').placeholder = t('searchPH');
+  document.getElementById('lblRecipes').textContent = t('lblRecipes');
+  document.getElementById('lblBooks').textContent = t('lblBooks');
+  document.getElementById('lblIngs').textContent = t('lblIngs');
+  document.getElementById('lblResults').textContent = t('lblResults');
+  document.getElementById('lblResultsList').textContent = t('lblResultsList');
+  document.getElementById('langToggle').textContent = lang === 'zh' ? 'EN' : '中文';
+  // Re-render
+  renderFilterLabels();
+  updateMotd();
+  if (currentDetailR) { showDetail(currentDetailR, true); }
+}
+
+function renderFilterLabels() {
+  document.getElementById('flBook').textContent = t('flBook');
+  document.getElementById('flCat').textContent = t('flCat');
+  document.getElementById('flUse').textContent = t('flUse');
+  const hidden = filtersHidden;
+  document.getElementById('filterToggle').textContent = hidden ? t('filterShow') : t('filterHide');
+}
+
+function updateMotd() {
+  const books = [...new Set(DB.map(r => r.book))].filter(Boolean);
+  const allIngredients = new Set();
+  DB.forEach(r => (r.ingredients || []).forEach(ig => allIngredients.add(ig.name)));
+  document.getElementById('stRecipes').textContent = DB.length;
+  document.getElementById('stBooks').textContent = books.length;
+  document.getElementById('stIngredients').textContent = allIngredients.size;
+}
+
+// ═══ STATE ═══
+let DB = [];
+let allFiltered = () => DB;
+let currentDetailR = null;
+let resultsLimit = 999;
+let filtersHidden = false;
+
+// ═══ DOM REFS ═══
+const motd = document.getElementById('motd');
+const searchInput = document.getElementById('searchInput');
+const searchBtn = document.getElementById('searchBtn');
+const randomBtn = document.getElementById('randomBtn');
+const clearBtn = document.getElementById('clearBtn');
+const results = document.getElementById('results');
+const detailWrap = document.getElementById('detailWrap');
+const resultsWrap = document.getElementById('resultsWrap');
+const resultsHeader = document.getElementById('resultsHeader');
+const rhArrow = document.getElementById('rhArrow');
+const filterBook = document.getElementById('filterBook');
+const filterCat = document.getElementById('filterCat');
+const filterUse = document.getElementById('filterUse');
+const filterToggle = document.getElementById('filterToggle');
+
+// ═══ LOAD ═══
+// Build absolute URL from page path so fetch works everywhere (Control UI webview, mobile, etc.)
+function dataPath(file) {
+  const base = window.location.pathname.replace(/\/[^/]*$/, '/');
+  return window.location.origin + base + 'song-incense-database/data/' + file;
+}
+let dbUrl = dataPath('all_recipes.json');
+
+async function load() {
+  pickPoem();
+  await loadData(dbUrl);
+}
+
+async function loadData(url) {
+  try {
+    motd.innerHTML = `<div class="logo">╔══════════════════════════╗<br>║  香  谱  数  据  库      ║<br>╚══════════════════════════╝</div>\n    ${t('loading')}`;
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    DB = await res.json();
+    dbUrl = url;
+    
+    // Populate filter dropdowns
+    const books = [...new Set(DB.map(r => r.book))].filter(Boolean).sort();
+    const cats = [...new Set(DB.map(r => r.category))].filter(Boolean).sort();
+    const usages = [...new Set(DB.map(r => r.usage))].filter(Boolean).sort();
+    filterBook.innerHTML = '<option value="">—</option>' + books.map(b => `<option value="${b.replace(/"/g,'&quot;')}">${b}</option>`).join('');
+    filterCat.innerHTML = '<option value="">—</option>' + cats.map(c => `<option value="${c}">${c}</option>`).join('');
+    filterUse.innerHTML = '<option value="">—</option>' + usages.map(u => `<option value="${u}">${u}</option>`).join('');
+
+    // Filter function
+    allFiltered = () => applyFilters(DB, searchInput.value, filterBook.value, filterCat.value, filterUse.value);
+
+    // Event listeners for filters
+    [filterBook, filterCat, filterUse, searchInput].forEach(el => {
+      el.addEventListener('change', doSearch);
+      el.addEventListener('input', doSearch);
+    });
+
+    motd.style.display = 'none';
+    updateMotd();
+    applyLang();
+    doSearch();
+    
+  } catch(e) {
+    motd.style.display = '';
+    motd.innerHTML = `<div class="logo">╔══════════════════════════╗<br>║  香  谱  数  据  库      ║<br>╚══════════════════════════╝</div>
+      <span style="color:var(--red)">✗ ${t('dbFailed')}</span><br>
+      <span style="color:var(--dim);font-size:.4rem">${e.message}</span>`;
+    console.error(e);
+    return;
+  }
+  
+  // Boot animations (separate from data loading)
+  try {
+    if (typeof anime !== 'undefined') {
+      anime.animate('.search-row', { opacity: [0, 1], duration: 400, easing: 'easeOutQuad' });
+      anime.animate('.filter-bar', { opacity: [0, 1], duration: 350, delay: 100, easing: 'easeOutQuad' });
+      anime.animate('.stats', { opacity: [0, 1], duration: 300, delay: 200, easing: 'easeOutQuad' });
+    }
+  } catch(_) {}
+}
+
+// Language toggle - also reload data
+document.getElementById('langToggle').addEventListener('click', async () => {
+  lang = lang === 'zh' ? 'en' : 'zh';
+  const newUrl = dataPath(lang === 'en' ? 'all_recipes_en.json' : 'all_recipes.json');
+  // Only reload if the file changes
+  if (dbUrl !== newUrl) {
+    detailWrap.innerHTML = '';
+    currentDetailR = null;
+    results.innerHTML = '';
+    await loadData(newUrl);
+  } else {
+    applyLang();
+  }
+});
+
+// ═══ FILTER ═══
+function applyFilters(data, q, book, cat, usage) {
+  const terms = q ? q.trim().toLowerCase().split(/[\s,，、]+/).filter(Boolean) : [];
+  let res = data;
+  if (book) res = res.filter(r => r.book === book);
+  if (cat) res = res.filter(r => r.category === cat);
+  if (usage) res = res.filter(r => r.usage === usage);
+  if (terms.length === 0) return res;
+  return res.filter(r => {
+    const searchable = [
+      r.fang_name || '', r.book || '', r.author || '', r.source_text || '',
+      r.method || '', r.category || '',
+      ...(r.ingredients || []).map(ig => ig.name || ''),
+    ].join(' ').toLowerCase();
+    return terms.every(t => searchable.includes(t));
+  });
+}
+
+// ═══ SEARCH ═══
+function doSearch() {
+  const filtered = allFiltered();
+  renderResults(filtered.slice(0, resultsLimit), filtered.length);
+  updateResultCount(filtered.length);
+}
+
+function updateResultCount(total) {
+  const el = document.getElementById('stResults');
+  if (total !== DB.length) {
+    el.style.display = 'inline';
+    document.getElementById('stResNum').textContent = total;
+  } else {
+    el.style.display = 'none';
+  }
+  document.getElementById('resCount').textContent = total === DB.length ? '' : `${total}/${DB.length}`;
+}
+
+// ═══ RENDER RESULTS ═══
+function renderResults(items, total) {
+  detailWrap.innerHTML = '';
+  currentDetailR = null;
+  
+  if (items.length === 0) {
+    results.innerHTML = `<div class="no-res">${t('noResults')}</div>`;
+    return;
+  }
+  
+  results.innerHTML = items.map((r, i) => {
+    const top = (r.ingredients || []).slice(0, 2).map(ig => ig.name).join('、');
+    const nm = lang === 'en' && r.fang_name_zh
+      ? `${r.fang_name} <span style="color:var(--dim);font-size:.35rem">[${r.fang_name_zh}]</span>`
+      : r.fang_name;
+    return `<div class="r-line" data-idx="${i}">
+      <span class="id">#${String(i+1).padStart(3,'0')}</span>
+      <span class="nm">${nm}</span>
+      <span class="bk">${r.book || ''}${r.volume ? ' · ' + r.volume : ''}</span>
+      <span class="ig">${top ? '→ ' + top : ''}</span>
+    </div>`;
+  }).join('');
+
+  if (total > items.length) {
+    const more = document.createElement('div');
+    more.className = 'more-hint';
+    more.textContent = t('moreResults', total - items.length);
+    results.appendChild(more);
+  }
+
+  // Animate (guard: anime may not load in some embedded webviews)
+  const els = results.querySelectorAll('.r-line');  
+  if (typeof anime !== 'undefined') {
+    try {
+      anime.animate(els, {
+        opacity: [0, 1], translateY: [2, 0],
+        duration: 200, delay: anime.stagger(15), easing: 'easeOutQuad'
+      });
+    } catch(_) {}
+  }
+
+  // Click
+  els.forEach(el => {
+    el.addEventListener('click', () => {
+      const idx = parseInt(el.dataset.idx);
+      showDetail(items[idx]);
+    });
+  });
+}
+
+// ═══ DETAIL ═══
+function showDetail(r, skipAnimation) {
+  if (!r) return;
+  currentDetailR = r;
+  
+  const natLabel = lang === 'zh' ? '性' : '';
+  const flvLabel = lang === 'zh' ? '味' : '';
+  const ings = (r.ingredients || []).map(ig => {
+    const nat = ig.nature || '';
+    const flv = ig.flavor || '';
+    return `<tr><td class="n">${ig.name}</td><td class="amt">${ig.amount || ''}</td>
+      <td class="nat">${nat ? natLabel + nat : ''}</td><td class="flv">${flv ? flvLabel + flv : ''}</td></tr>`;
+  }).join('');
+
+  const fangNameDisplay = lang === 'en' && r.fang_name_zh
+    ? `${r.fang_name} <span style="color:var(--dim);font-size:.38rem">(${r.fang_name_zh})</span>`
+    : r.fang_name;
+
+  detailWrap.innerHTML = `
+    <div class="detail-panel">
+      <div class="dh"><span>${fangNameDisplay}</span><span class="dc" id="detailClose">${t('close')}</span></div>
+      <div class="db">
+        <div class="df"><span class="dl">${t('book')}</span><span class="dv">${r.book || '—'} ${r.volume || ''}</span></div>
+        ${r.author ? `<div class="df"><span class="dl">${t('author')}</span><span class="dv"><span class="cn">${r.author}</span></span></div>` : ''}
+        ${r.category ? `<div class="df"><span class="dl">${t('type')}</span><span class="dv"><span class="cn">${r.category}</span></span></div>` : ''}
+        ${r.usage ? `<div class="df"><span class="dl">${t('use')}</span><span class="dv"><span class="cn">${r.usage}</span></span></div>` : ''}
+        ${ings ? `<table class="ing-tbl"><thead><tr>
+          <th>${t('ing')}</th><th>${t('amount')}</th><th>${t('nature')}</th><th>${t('flavor')}</th>
+        </tr></thead><tbody>${ings}</tbody></table>` : ''}
+        <div class="source-box">${r.source_text || r.method || '—'}</div>
+        <div style="font-size:.36rem;color:var(--dim);margin-top:2px">${r.source_citation?.full_reference || ''}</div>
+      </div>
+    </div>`;
+  
+  // Scroll the clicked result into view so user sees both it and the detail panel
+  results.querySelectorAll('.r-line').forEach(el => el.classList.remove('highlight'));
+
+  // Highlight the active row in the results list
+  results.querySelectorAll('.r-line').forEach(el => el.classList.remove('highlight'));
+  results.querySelectorAll('.r-line').forEach(el => {
+    const idx = parseInt(el.dataset.idx);
+    const filtered = allFiltered();
+    if (filtered[idx] === r) el.classList.add('highlight');
+  });
+
+  document.getElementById('detailClose').addEventListener('click', animateClose);
+}
+
+function animateClose() {
+  detailWrap.style.animation = 'detailFadeOut .2s ease-in forwards';
+  setTimeout(() => {
+    detailWrap.innerHTML = '';
+    currentDetailR = null;
+    detailWrap.style.animation = '';
+    results.querySelectorAll('.r-line').forEach(el => el.classList.remove('highlight'));
+  }, 200);
+}
+
+// ═══ RESULTS COLLAPSE ═══
+let resultsCollapsed = false;
+resultsHeader.addEventListener('click', () => {
+  resultsCollapsed = !resultsCollapsed;
+  results.style.display = resultsCollapsed ? 'none' : '';
+  rhArrow.classList.toggle('open', !resultsCollapsed);
+});
+
+// ═══ FILTER TOGGLE ═══
+filterToggle.addEventListener('click', () => {
+  filtersHidden = !filtersHidden;
+  const sel = filterToggle.parentElement;
+  const selects = sel.querySelectorAll('select');
+  const labels = sel.querySelectorAll('.f-label');
+  selects.forEach(s => s.style.display = filtersHidden ? 'none' : '');
+  labels.forEach(l => l.style.display = filtersHidden ? 'none' : '');
+  filterToggle.textContent = filtersHidden ? t('filterShow') : t('filterHide');
+});
+
+// ═══ RANDOM ═══
+function randomRecipe() {
+  const r = DB[Math.floor(Math.random() * DB.length)];
+  if (typeof anime !== 'undefined') {
+    try { anime.animate(randomBtn, { rotate: ['0deg', '360deg'], scale: [1, 0.7, 1], duration: 400, easing: 'easeOutCubic' }); } catch(_) {}
+  }
+  searchInput.value = r.fang_name;
+  doSearch();
+  setTimeout(() => {
+    const first = results.querySelector('.r-line');
+    if (first) first.click();
+  }, 80);
+}
+
+// ═══ EVENTS ═══
+searchBtn.addEventListener('click', doSearch);
+searchInput.addEventListener('keydown', e => { if (e.key === 'Enter') doSearch(); });
+randomBtn.addEventListener('click', randomRecipe);
+clearBtn.addEventListener('click', () => {
+  searchInput.value = '';
+  filterBook.value = '';
+  filterCat.value = '';
+  filterUse.value = '';
+  detailWrap.innerHTML = '';
+  currentDetailR = null;
+  doSearch();
+});
+
+document.addEventListener('keydown', e => {
+  if (e.key === '/' && document.activeElement !== searchInput) { e.preventDefault(); searchInput.focus(); }
+  if (e.key === 'Escape') animateClose();
+});
+
+// ═══ CLICK OUTSIDE TO CLOSE DETAIL ═══
+document.addEventListener('click', e => {
+  if (!currentDetailR) return;
+  if (!e.target.closest('#detailWrap') && !e.target.closest('.r-line')) {
+    animateClose();
+  }
+});
+
+// ═══ BOOT ═══
+load();
+
+})();
+</script>
+</body>
+</html>

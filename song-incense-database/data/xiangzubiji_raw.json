@@ -1,0 +1,400 @@
+[
+  {
+    "fang_name": "论沉水香",
+    "book": "香祖笔记",
+    "author": "王士禛 (清)",
+    "volume": "卷一",
+    "source_text": "沉水香六分，檀香四分，共研为末，匀和用之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "六分",
+        "original_text": "沉水香六分"
+      },
+      {
+        "name": "檀香",
+        "amount": "四分",
+        "original_text": "檀香四分"
+      }
+    ],
+    "method": "将沉香与檀香共研为细末，调匀。",
+    "category": "合香",
+    "usage": "焚香或入香囊。",
+    "notes": "沉香宜用真水沉，檀香选白檀为佳。"
+  },
+  {
+    "fang_name": "韩魏公浓梅香",
+    "book": "香祖笔记",
+    "author": "王士禛 (清)",
+    "volume": "卷二",
+    "source_text": "浓梅香方：沉香一两，檀香半两，丁香一钱，木香一钱，乳香一钱，龙脑半钱，麝香半钱，苏合油一钱许，以蜜调合，模压成饼。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "一钱",
+        "original_text": "丁香一钱"
+      },
+      {
+        "name": "木香",
+        "amount": "一钱",
+        "original_text": "木香一钱"
+      },
+      {
+        "name": "乳香",
+        "amount": "一钱",
+        "original_text": "乳香一钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "半钱",
+        "original_text": "龙脑半钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "半钱",
+        "original_text": "麝香半钱"
+      },
+      {
+        "name": "苏合油",
+        "amount": "一钱许",
+        "original_text": "苏合油一钱许"
+      }
+    ],
+    "method": "诸香共研细末，入苏合油、蜜调匀，压为饼状。",
+    "category": "合香",
+    "usage": "煎爇或熏衣。",
+    "notes": "韩魏公即韩琦，此方为其家传。"
+  },
+  {
+    "fang_name": "四和香通方",
+    "book": "香祖笔记",
+    "author": "王士禛 (清)",
+    "volume": "卷二",
+    "source_text": "四和香：沉香、檀香、降真香、零陵香各等分，为末，以蜜和作饼。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香等分"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香等分"
+      },
+      {
+        "name": "降真香",
+        "amount": "等分",
+        "original_text": "降真香等分"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香等分"
+      }
+    ],
+    "method": "四味各等分研末，炼蜜调匀，作饼阴干。",
+    "category": "合香",
+    "usage": "焚香。",
+    "notes": "此方为通和四香之基础。"
+  },
+  {
+    "fang_name": "香饼制法",
+    "book": "香祖笔记",
+    "author": "王士禛 (清)",
+    "volume": "卷三",
+    "source_text": "香饼方：木炭末二斤，黄丹五两，硝石一两，糯米粥调匀，范为饼，晒干。",
+    "ingredients": [
+      {
+        "name": "木炭",
+        "amount": "二斤",
+        "original_text": "木炭末二斤"
+      },
+      {
+        "name": "黄丹",
+        "amount": "五两",
+        "original_text": "黄丹五两"
+      },
+      {
+        "name": "硝石",
+        "amount": "一两",
+        "original_text": "硝石一两"
+      }
+    ],
+    "method": "木炭研末，与黄丹、硝石和匀，以糯米粥调成团，入模压饼，晒干。",
+    "category": "香品制作",
+    "usage": "作为焚香之底炭。",
+    "notes": "此饼用于助燃香炭。"
+  },
+  {
+    "fang_name": "柏子香",
+    "book": "香祖笔记",
+    "author": "王士禛 (清)",
+    "volume": "卷三",
+    "source_text": "柏子香法：采新柏实，以沸汤焯过，酒浸一宿，取出晾干，复以蜜拌匀，蒸透，再晒干。",
+    "ingredients": [
+      {
+        "name": "柏实",
+        "amount": "适量",
+        "original_text": "新柏实"
+      },
+      {
+        "name": "酒",
+        "amount": "适量",
+        "original_text": "酒"
+      },
+      {
+        "name": "蜜",
+        "amount": "适量",
+        "original_text": "蜜"
+      }
+    ],
+    "method": "柏实焯水后酒浸一夜，晾干，蜜拌，蒸透，晒干。",
+    "category": "单品香",
+    "usage": "焚之清远。",
+    "notes": "此乃蒸柏实法。"
+  },
+  {
+    "fang_name": "宫中甜香",
+    "book": "香祖笔记",
+    "author": "王士禛 (清)",
+    "volume": "卷四",
+    "source_text": "甜香方：沉香、檀香、丁香、木香、乳香各一两，龙脑半两，麝香二钱，炼蜜和匀，作丸或饼。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁香一两"
+      },
+      {
+        "name": "木香",
+        "amount": "一两",
+        "original_text": "木香一两"
+      },
+      {
+        "name": "乳香",
+        "amount": "一两",
+        "original_text": "乳香一两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "半两",
+        "original_text": "龙脑半两"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      }
+    ],
+    "method": "诸香研末，炼蜜为丸或压饼。",
+    "category": "合香",
+    "usage": "宫中焚用，气甚甜腻。",
+    "notes": "此方出自内府。"
+  },
+  {
+    "fang_name": "蔷薇水",
+    "book": "香祖笔记",
+    "author": "王士禛 (清)",
+    "volume": "卷四",
+    "source_text": "蔷薇水，大食国花露也。今以茉莉花蒸水为之，或用蔷薇花。",
+    "ingredients": [],
+    "method": "蒸花取露。",
+    "category": "花露",
+    "usage": "调香或熏衣。",
+    "notes": "此条无具体配方，仅记制法。"
+  },
+  {
+    "fang_name": "二苏旧局",
+    "book": "香祖笔记",
+    "author": "王士禛 (清)",
+    "volume": "卷五",
+    "source_text": "二苏旧局：沉香、檀香、乳香、琥珀各一两，苏合油三钱，龙脑一钱，以炼蜜调成丸。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "乳香",
+        "amount": "一两",
+        "original_text": "乳香一两"
+      },
+      {
+        "name": "琥珀",
+        "amount": "一两",
+        "original_text": "琥珀一两"
+      },
+      {
+        "name": "苏合油",
+        "amount": "三钱",
+        "original_text": "苏合油三钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      }
+    ],
+    "method": "研末，入苏合油、蜜调匀，搓丸。",
+    "category": "合香",
+    "usage": "煎爇，气味清雅。",
+    "notes": "传为苏轼、苏辙所合。"
+  },
+  {
+    "fang_name": "神仙香",
+    "book": "香祖笔记",
+    "author": "王士禛 (清)",
+    "volume": "卷五",
+    "source_text": "神仙香：降真香二两，乳香一两，没药一两，为末，以蜜和作饼。",
+    "ingredients": [
+      {
+        "name": "降真香",
+        "amount": "二两",
+        "original_text": "降真香二两"
+      },
+      {
+        "name": "乳香",
+        "amount": "一两",
+        "original_text": "乳香一两"
+      },
+      {
+        "name": "没药",
+        "amount": "一两",
+        "original_text": "没药一两"
+      }
+    ],
+    "method": "三味研末，蜜调作饼。",
+    "category": "合香",
+    "usage": "焚之有降神之效。",
+    "notes": "道家常用。"
+  },
+  {
+    "fang_name": "小四和香",
+    "book": "香祖笔记",
+    "author": "王士禛 (清)",
+    "volume": "卷六",
+    "source_text": "小四和香：茴香、檀香、降真香、零陵香各等分，为末，蜜和。",
+    "ingredients": [
+      {
+        "name": "茴香",
+        "amount": "等分",
+        "original_text": "茴香等分"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香等分"
+      },
+      {
+        "name": "降真香",
+        "amount": "等分",
+        "original_text": "降真香等分"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香等分"
+      }
+    ],
+    "method": "共研末，炼蜜调匀。",
+    "category": "合香",
+    "usage": "焚香，气清幽。",
+    "notes": "较四和香更简。"
+  },
+  {
+    "fang_name": "李主花浸沉",
+    "book": "香祖笔记",
+    "author": "王士禛 (清)",
+    "volume": "卷六",
+    "source_text": "李主花浸沉法：以沉香木薄片，浸于百花香露中，半月取出，阴干焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "适量",
+        "original_text": "沉香木薄片"
+      },
+      {
+        "name": "百花香露",
+        "amount": "适量",
+        "original_text": "百花香露"
+      }
+    ],
+    "method": "沉香片浸露半月，阴干。",
+    "category": "熏香",
+    "usage": "焚香，花气入沉。",
+    "notes": "南唐李后主之法。"
+  },
+  {
+    "fang_name": "百和香通方",
+    "book": "香祖笔记",
+    "author": "王士禛 (清)",
+    "volume": "卷七",
+    "source_text": "百和香：诸香各等分，不拘多少，研末蜜和，随意加减。",
+    "ingredients": [
+      {
+        "name": "诸香",
+        "amount": "等分",
+        "original_text": "诸香各等分"
+      }
+    ],
+    "method": "多种香药等分研末，蜜和成丸或饼。",
+    "category": "合香",
+    "usage": "通用焚香。",
+    "notes": "此方无定名，随宜合和。"
+  },
+  {
+    "fang_name": "龙安香",
+    "book": "香祖笔记",
+    "author": "王士禛 (清)",
+    "volume": "卷七",
+    "source_text": "龙安香：安息香二两，苏合油一两，龙脑半两，炼蜜和丸。",
+    "ingredients": [
+      {
+        "name": "安息香",
+        "amount": "二两",
+        "original_text": "安息香二两"
+      },
+      {
+        "name": "苏合油",
+        "amount": "一两",
+        "original_text": "苏合油一两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "半两",
+        "original_text": "龙脑半两"
+      }
+    ],
+    "method": "研末，入蜜调丸。",
+    "category": "合香",
+    "usage": "焚之，气厚而润。",
+    "notes": "出龙安州。"
+  }
+]

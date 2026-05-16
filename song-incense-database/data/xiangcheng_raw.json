@@ -1,0 +1,5163 @@
+[
+  {
+    "fang_name": "汉建宁宫中香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷六",
+    "source_text": "黄熟香四斤，白附子二两，丁香皮五两，藿香叶四两，零陵香四两，檀香四两，白芷四两，茅香四两，茴香二两，甘松半斤，乳香二两（另研），生结香四两，枣半斤（焙干），又方入苏合油一两。右为细末，炼蜜和匀，窨月余作丸或饼。",
+    "ingredients": [
+      {
+        "name": "黄熟香",
+        "amount": "四斤",
+        "original_text": "黄熟香四斤"
+      },
+      {
+        "name": "白附子",
+        "amount": "二两",
+        "original_text": "白附子二两"
+      },
+      {
+        "name": "丁香皮",
+        "amount": "五两",
+        "original_text": "丁香皮五两"
+      },
+      {
+        "name": "藿香叶",
+        "amount": "四两",
+        "original_text": "藿香叶四两"
+      },
+      {
+        "name": "零陵香",
+        "amount": "四两",
+        "original_text": "零陵香四两"
+      },
+      {
+        "name": "檀香",
+        "amount": "四两",
+        "original_text": "檀香四两"
+      },
+      {
+        "name": "白芷",
+        "amount": "四两",
+        "original_text": "白芷四两"
+      },
+      {
+        "name": "茅香",
+        "amount": "四两",
+        "original_text": "茅香四两"
+      },
+      {
+        "name": "茴香",
+        "amount": "二两",
+        "original_text": "茴香二两"
+      },
+      {
+        "name": "甘松",
+        "amount": "半斤",
+        "original_text": "甘松半斤"
+      },
+      {
+        "name": "乳香",
+        "amount": "二两",
+        "original_text": "乳香二两（另研）"
+      },
+      {
+        "name": "生结香",
+        "amount": "四两",
+        "original_text": "生结香四两"
+      },
+      {
+        "name": "枣",
+        "amount": "半斤",
+        "original_text": "枣半斤（焙干）"
+      }
+    ],
+    "method": "右为细末，炼蜜和匀，窨月余作丸或饼。",
+    "category": "熏香",
+    "usage": "宫中熏香",
+    "notes": "出自《香乘》卷六，汉宫中旧方。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "唐开元宫中香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷六",
+    "source_text": "沉香二两（细锉，以绢袋盛，悬于铫子当中，勿令着底，蜜水浸慢火煮一日），檀香二两（茶清浸一宿，炒令无檀香气味），龙脑二钱（另研），麝香二钱（另研），甲香一钱，马牙硝一钱。右为细末，炼蜜和匀，窨月余取出，丸如豆大，或饼，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "二两",
+        "original_text": "沉香二两（细锉，以绢袋盛，悬于铫子当中，勿令着底，蜜水浸慢火煮一日）"
+      },
+      {
+        "name": "檀香",
+        "amount": "二两",
+        "original_text": "檀香二两（茶清浸一宿，炒令无檀香气味）"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑二钱（另研）"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱（另研）"
+      },
+      {
+        "name": "甲香",
+        "amount": "一钱",
+        "original_text": "甲香一钱"
+      },
+      {
+        "name": "马牙硝",
+        "amount": "一钱",
+        "original_text": "马牙硝一钱"
+      }
+    ],
+    "method": "右为细末，炼蜜和匀，窨月余取出，丸如豆大，或饼，焚之。",
+    "category": "熏香",
+    "usage": "宫中熏香",
+    "notes": "出自《香乘》卷六，唐开元宫中方。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "江南李主帐中香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷六",
+    "source_text": "沉香一两（锉如芡实大），苏合油一两（以不津瓷器盛）。右以香投油，封浸百日，爇之。又方：沉香一两（锉），檀香半两（锉），龙脑、麝香各二钱。右为末，炼蜜和匀，作丸爇之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两（锉如芡实大）"
+      },
+      {
+        "name": "苏合油",
+        "amount": "一两",
+        "original_text": "苏合油一两（以不津瓷器盛）"
+      }
+    ],
+    "method": "右以香投油，封浸百日，爇之。又方另述。",
+    "category": "熏香",
+    "usage": "帐中熏香",
+    "notes": "出自《香乘》卷六，南唐李后主帐中香。又方含檀香、龙脑、麝香。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "韩魏公浓梅香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷七",
+    "source_text": "黑角沉半两，丁香一钱（半生半炒），郁金五分（小者，麦麸炒赤），腊茶末一钱，麝香一字，定粉一字（即韶粉），龙脑半钱（另研）。右为细末，以梅子肉蒸研和，丸如弹子，用瓦炉焚之。",
+    "ingredients": [
+      {
+        "name": "黑角沉",
+        "amount": "半两",
+        "original_text": "黑角沉半两"
+      },
+      {
+        "name": "丁香",
+        "amount": "一钱",
+        "original_text": "丁香一钱（半生半炒）"
+      },
+      {
+        "name": "郁金",
+        "amount": "五分",
+        "original_text": "郁金五分（小者，麦麸炒赤）"
+      },
+      {
+        "name": "腊茶末",
+        "amount": "一钱",
+        "original_text": "腊茶末一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一字",
+        "original_text": "麝香一字"
+      },
+      {
+        "name": "定粉",
+        "amount": "一字",
+        "original_text": "定粉一字（即韶粉）"
+      },
+      {
+        "name": "龙脑",
+        "amount": "半钱",
+        "original_text": "龙脑半钱（另研）"
+      }
+    ],
+    "method": "右为细末，以梅子肉蒸研和，丸如弹子，用瓦炉焚之。",
+    "category": "熏香",
+    "usage": "焚香，模拟梅花香",
+    "notes": "出自《香乘》卷七，韩琦（魏公）所制浓梅香。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "苏内翰贫衙香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷七",
+    "source_text": "沉香一两（锉），檀香半两（锉），龙脑一钱，麝香一钱。右为末，炼蜜和匀，作饼焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两（锉）"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两（锉）"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，作饼焚之。",
+    "category": "衙香",
+    "usage": "衙门用香",
+    "notes": "出自《香乘》卷七，苏轼（内翰）贫衙香，简易方。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "丁晋公清真香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷七",
+    "source_text": "沉香一两，白檀香一两，龙脑一钱，麝香一钱。右为末，炼蜜和匀，作饼焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "白檀香",
+        "amount": "一两",
+        "original_text": "白檀香一两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，作饼焚之。",
+    "category": "熏香",
+    "usage": "焚香，清雅",
+    "notes": "出自《香乘》卷七，丁谓（晋公）清真香。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "黄太史清真香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷七",
+    "source_text": "沉香半两（锉），丁香三钱，郁金三钱（水煮半日），腊茶末一钱，麝香一字，龙脑半钱。右为末，炼蜜和匀，丸如豆，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两（锉）"
+      },
+      {
+        "name": "丁香",
+        "amount": "三钱",
+        "original_text": "丁香三钱"
+      },
+      {
+        "name": "郁金",
+        "amount": "三钱",
+        "original_text": "郁金三钱（水煮半日）"
+      },
+      {
+        "name": "腊茶末",
+        "amount": "一钱",
+        "original_text": "腊茶末一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一字",
+        "original_text": "麝香一字"
+      },
+      {
+        "name": "龙脑",
+        "amount": "半钱",
+        "original_text": "龙脑半钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，丸如豆，焚之。",
+    "category": "熏香",
+    "usage": "焚香",
+    "notes": "出自《香乘》卷七，黄庭坚（太史）清真香。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "欧阳文忠公梅花香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷七",
+    "source_text": "沉香一两（锉），丁香二钱，藿香二钱，零陵香一钱，龙脑半钱，麝香半钱。右为末，炼蜜和匀，丸如豆，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两（锉）"
+      },
+      {
+        "name": "丁香",
+        "amount": "二钱",
+        "original_text": "丁香二钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "二钱",
+        "original_text": "藿香二钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一钱",
+        "original_text": "零陵香一钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "半钱",
+        "original_text": "龙脑半钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "半钱",
+        "original_text": "麝香半钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，丸如豆，焚之。",
+    "category": "熏香",
+    "usage": "梅花香",
+    "notes": "出自《香乘》卷七，欧阳修（文忠公）梅花香。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "赵清献公香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷七",
+    "source_text": "沉香一两（锉），白檀香半两（锉），龙脑一钱，麝香一钱。右为末，炼蜜和匀，作饼焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两（锉）"
+      },
+      {
+        "name": "白檀香",
+        "amount": "半两",
+        "original_text": "白檀香半两（锉）"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，作饼焚之。",
+    "category": "熏香",
+    "usage": "焚香",
+    "notes": "出自《香乘》卷七，赵抃（清献公）香。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "林梅隐香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷七",
+    "source_text": "沉香一两（锉），檀香半两（锉），丁香三钱，龙脑一钱，麝香一钱，甲香一钱（酒煮）。右为末，炼蜜和匀，丸如豆，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两（锉）"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两（锉）"
+      },
+      {
+        "name": "丁香",
+        "amount": "三钱",
+        "original_text": "丁香三钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      },
+      {
+        "name": "甲香",
+        "amount": "一钱",
+        "original_text": "甲香一钱（酒煮）"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，丸如豆，焚之。",
+    "category": "熏香",
+    "usage": "焚香",
+    "notes": "出自《香乘》卷七，林逋（和靖）梅隐香。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "兴龙香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷八",
+    "source_text": "沉香一两，檀香一两，龙脑二钱，麝香二钱，甲香二钱（酒煮），马牙硝二钱。右为末，炼蜜和匀，丸如豆，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑二钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      },
+      {
+        "name": "甲香",
+        "amount": "二钱",
+        "original_text": "甲香二钱（酒煮）"
+      },
+      {
+        "name": "马牙硝",
+        "amount": "二钱",
+        "original_text": "马牙硝二钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，丸如豆，焚之。",
+    "category": "熏香",
+    "usage": "焚香",
+    "notes": "出自《香乘》卷八，兴龙香方。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "清远香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷八",
+    "source_text": "沉香一两，檀香半两，龙脑一钱，麝香一钱，丁香二钱，零陵香二钱，藿香二钱。右为末，炼蜜和匀，作饼焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "二钱",
+        "original_text": "丁香二钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "二钱",
+        "original_text": "零陵香二钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "二钱",
+        "original_text": "藿香二钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，作饼焚之。",
+    "category": "熏香",
+    "usage": "焚香，清远之意",
+    "notes": "出自《香乘》卷八。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "清心香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷八",
+    "source_text": "沉香半两，檀香半两，龙脑一钱，麝香一钱，甘松二钱，藿香二钱。右为末，炼蜜和匀，丸如豆，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      },
+      {
+        "name": "甘松",
+        "amount": "二钱",
+        "original_text": "甘松二钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "二钱",
+        "original_text": "藿香二钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，丸如豆，焚之。",
+    "category": "熏香",
+    "usage": "焚香清心",
+    "notes": "出自《香乘》卷八。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "清神香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷八",
+    "source_text": "沉香一两，檀香一两，龙脑二钱，麝香二钱，白芷二钱，藿香二钱，甘松二钱。右为末，炼蜜和匀，丸如豆，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑二钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      },
+      {
+        "name": "白芷",
+        "amount": "二钱",
+        "original_text": "白芷二钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "二钱",
+        "original_text": "藿香二钱"
+      },
+      {
+        "name": "甘松",
+        "amount": "二钱",
+        "original_text": "甘松二钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，丸如豆，焚之。",
+    "category": "熏香",
+    "usage": "焚香清神",
+    "notes": "出自《香乘》卷八。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "清妙香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷八",
+    "source_text": "沉香半两，檀香半两，龙脑一钱，麝香一钱，丁香一钱，零陵香一钱。右为末，炼蜜和匀，作饼焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "一钱",
+        "original_text": "丁香一钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一钱",
+        "original_text": "零陵香一钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，作饼焚之。",
+    "category": "熏香",
+    "usage": "焚香清妙",
+    "notes": "出自《香乘》卷八。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "清馥香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷八",
+    "source_text": "沉香一两，檀香一两，龙脑二钱，麝香二钱，甘松二钱，丁香二钱，零陵香二钱。右为末，炼蜜和匀，丸如豆，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑二钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      },
+      {
+        "name": "甘松",
+        "amount": "二钱",
+        "original_text": "甘松二钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "二钱",
+        "original_text": "丁香二钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "二钱",
+        "original_text": "零陵香二钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，丸如豆，焚之。",
+    "category": "熏香",
+    "usage": "焚香清馥",
+    "notes": "出自《香乘》卷八。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "清味香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷八",
+    "source_text": "沉香半两，檀香半两，龙脑一钱，麝香一钱，丁香二钱，藿香二钱。右为末，炼蜜和匀，作饼焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "二钱",
+        "original_text": "丁香二钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "二钱",
+        "original_text": "藿香二钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，作饼焚之。",
+    "category": "熏香",
+    "usage": "焚香清味",
+    "notes": "出自《香乘》卷八。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "清和香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷八",
+    "source_text": "沉香一两，檀香一两，龙脑二钱，麝香二钱，零陵香二钱，藿香二钱，甘松二钱。右为末，炼蜜和匀，丸如豆，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑二钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "二钱",
+        "original_text": "零陵香二钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "二钱",
+        "original_text": "藿香二钱"
+      },
+      {
+        "name": "甘松",
+        "amount": "二钱",
+        "original_text": "甘松二钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，丸如豆，焚之。",
+    "category": "熏香",
+    "usage": "焚香清和",
+    "notes": "出自《香乘》卷八。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "清韵香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷八",
+    "source_text": "沉香半两，檀香半两，龙脑一钱，麝香一钱，丁香二钱，零陵香二钱，白芷二钱。右为末，炼蜜和匀，作饼焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "二钱",
+        "original_text": "丁香二钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "二钱",
+        "original_text": "零陵香二钱"
+      },
+      {
+        "name": "白芷",
+        "amount": "二钱",
+        "original_text": "白芷二钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，作饼焚之。",
+    "category": "熏香",
+    "usage": "焚香清韵",
+    "notes": "出自《香乘》卷八。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "清致香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷八",
+    "source_text": "沉香一两，檀香半两，龙脑一钱，麝香一钱，甘松二钱，藿香二钱，丁香二钱。右为末，炼蜜和匀，丸如豆，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      },
+      {
+        "name": "甘松",
+        "amount": "二钱",
+        "original_text": "甘松二钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "二钱",
+        "original_text": "藿香二钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "二钱",
+        "original_text": "丁香二钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，丸如豆，焚之。",
+    "category": "熏香",
+    "usage": "焚香清致",
+    "notes": "出自《香乘》卷八。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "清胜香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷八",
+    "source_text": "沉香半两，檀香半两，龙脑一钱，麝香一钱，丁香二钱，零陵香二钱，藿香二钱。右为末，炼蜜和匀，作饼焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "二钱",
+        "original_text": "丁香二钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "二钱",
+        "original_text": "零陵香二钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "二钱",
+        "original_text": "藿香二钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，作饼焚之。",
+    "category": "熏香",
+    "usage": "焚香清胜",
+    "notes": "出自《香乘》卷八。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "清悦香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷八",
+    "source_text": "沉香一两，檀香一两，龙脑二钱，麝香二钱，丁香二钱，零陵香二钱，甘松二钱。右为末，炼蜜和匀，丸如豆，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑二钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "二钱",
+        "original_text": "丁香二钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "二钱",
+        "original_text": "零陵香二钱"
+      },
+      {
+        "name": "甘松",
+        "amount": "二钱",
+        "original_text": "甘松二钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，丸如豆，焚之。",
+    "category": "熏香",
+    "usage": "焚香清悦",
+    "notes": "出自《香乘》卷八。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "古龙涎香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷九",
+    "source_text": "沉香一两，檀香半两，龙脑二钱，麝香二钱，丁香三钱，木香三钱，藿香三钱，零陵香三钱，甘松三钱，白芷三钱，苏合油二钱。右为末，炼蜜和匀，丸如豆，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑二钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "三钱",
+        "original_text": "丁香三钱"
+      },
+      {
+        "name": "木香",
+        "amount": "三钱",
+        "original_text": "木香三钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "三钱",
+        "original_text": "藿香三钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "三钱",
+        "original_text": "零陵香三钱"
+      },
+      {
+        "name": "甘松",
+        "amount": "三钱",
+        "original_text": "甘松三钱"
+      },
+      {
+        "name": "白芷",
+        "amount": "三钱",
+        "original_text": "白芷三钱"
+      },
+      {
+        "name": "苏合油",
+        "amount": "二钱",
+        "original_text": "苏合油二钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，丸如豆，焚之。",
+    "category": "熏香",
+    "usage": "仿龙涎香",
+    "notes": "出自《香乘》卷九，古龙涎香方。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "小龙涎香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷九",
+    "source_text": "沉香半两，檀香半两，龙脑一钱，麝香一钱，丁香二钱，零陵香二钱，藿香二钱。右为末，炼蜜和匀，丸如豆，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "半两",
+        "original_text": "沉香半两"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "二钱",
+        "original_text": "丁香二钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "二钱",
+        "original_text": "零陵香二钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "二钱",
+        "original_text": "藿香二钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，丸如豆，焚之。",
+    "category": "熏香",
+    "usage": "仿龙涎香",
+    "notes": "出自《香乘》卷九。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "佳龙涎香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷九",
+    "source_text": "沉香一两，檀香一两，龙脑二钱，麝香二钱，丁香三钱，木香三钱，藿香三钱，零陵香三钱，甘松三钱，苏合油二钱，甲香二钱（酒煮）。右为末，炼蜜和匀，丸如豆，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑二钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "三钱",
+        "original_text": "丁香三钱"
+      },
+      {
+        "name": "木香",
+        "amount": "三钱",
+        "original_text": "木香三钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "三钱",
+        "original_text": "藿香三钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "三钱",
+        "original_text": "零陵香三钱"
+      },
+      {
+        "name": "甘松",
+        "amount": "三钱",
+        "original_text": "甘松三钱"
+      },
+      {
+        "name": "苏合油",
+        "amount": "二钱",
+        "original_text": "苏合油二钱"
+      },
+      {
+        "name": "甲香",
+        "amount": "二钱",
+        "original_text": "甲香二钱（酒煮）"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，丸如豆，焚之。",
+    "category": "熏香",
+    "usage": "仿龙涎香",
+    "notes": "出自《香乘》卷九。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "真龙涎香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷九",
+    "source_text": "沉香一两，檀香一两，龙脑三钱，麝香三钱，丁香三钱，木香三钱，藿香三钱，零陵香三钱，甘松三钱，白芷三钱，苏合油三钱，甲香三钱（酒煮），马牙硝二钱。右为末，炼蜜和匀，丸如豆，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "三钱",
+        "original_text": "龙脑三钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "三钱",
+        "original_text": "麝香三钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "三钱",
+        "original_text": "丁香三钱"
+      },
+      {
+        "name": "木香",
+        "amount": "三钱",
+        "original_text": "木香三钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "三钱",
+        "original_text": "藿香三钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "三钱",
+        "original_text": "零陵香三钱"
+      },
+      {
+        "name": "甘松",
+        "amount": "三钱",
+        "original_text": "甘松三钱"
+      },
+      {
+        "name": "白芷",
+        "amount": "三钱",
+        "original_text": "白芷三钱"
+      },
+      {
+        "name": "苏合油",
+        "amount": "三钱",
+        "original_text": "苏合油三钱"
+      },
+      {
+        "name": "甲香",
+        "amount": "三钱",
+        "original_text": "甲香三钱（酒煮）"
+      },
+      {
+        "name": "马牙硝",
+        "amount": "二钱",
+        "original_text": "马牙硝二钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，丸如豆，焚之。",
+    "category": "熏香",
+    "usage": "仿龙涎香",
+    "notes": "出自《香乘》卷九。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "龙涎香方（宋内府）",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷九",
+    "source_text": "沉香一两，檀香半两，龙脑二钱，麝香二钱，丁香三钱，木香三钱，藿香三钱，零陵香三钱，甘松三钱，白芷三钱，苏合油二钱，甲香二钱（酒煮），马牙硝二钱。右为细末，炼蜜和匀，丸如弹子，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑二钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "三钱",
+        "original_text": "丁香三钱"
+      },
+      {
+        "name": "木香",
+        "amount": "三钱",
+        "original_text": "木香三钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "三钱",
+        "original_text": "藿香三钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "三钱",
+        "original_text": "零陵香三钱"
+      },
+      {
+        "name": "甘松",
+        "amount": "三钱",
+        "original_text": "甘松三钱"
+      },
+      {
+        "name": "白芷",
+        "amount": "三钱",
+        "original_text": "白芷三钱"
+      },
+      {
+        "name": "苏合油",
+        "amount": "二钱",
+        "original_text": "苏合油二钱"
+      },
+      {
+        "name": "甲香",
+        "amount": "二钱",
+        "original_text": "甲香二钱（酒煮）"
+      },
+      {
+        "name": "马牙硝",
+        "amount": "二钱",
+        "original_text": "马牙硝二钱"
+      }
+    ],
+    "method": "右为细末，炼蜜和匀，丸如弹子，焚之。",
+    "category": "熏香",
+    "usage": "宋内府龙涎香",
+    "notes": "出自《香乘》卷九，宋内府方。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "制龙涎香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷九",
+    "source_text": "沉香一两，檀香一两，龙脑二钱，麝香二钱，丁香三钱，木香三钱，藿香三钱，零陵香三钱，甘松三钱，白芷三钱，苏合油二钱，甲香二钱（酒煮），马牙硝一钱，金箔十片（另研）。右为末，炼蜜和匀，丸如豆，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑二钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "三钱",
+        "original_text": "丁香三钱"
+      },
+      {
+        "name": "木香",
+        "amount": "三钱",
+        "original_text": "木香三钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "三钱",
+        "original_text": "藿香三钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "三钱",
+        "original_text": "零陵香三钱"
+      },
+      {
+        "name": "甘松",
+        "amount": "三钱",
+        "original_text": "甘松三钱"
+      },
+      {
+        "name": "白芷",
+        "amount": "三钱",
+        "original_text": "白芷三钱"
+      },
+      {
+        "name": "苏合油",
+        "amount": "二钱",
+        "original_text": "苏合油二钱"
+      },
+      {
+        "name": "甲香",
+        "amount": "二钱",
+        "original_text": "甲香二钱（酒煮）"
+      },
+      {
+        "name": "马牙硝",
+        "amount": "一钱",
+        "original_text": "马牙硝一钱"
+      },
+      {
+        "name": "金箔",
+        "amount": "十片",
+        "original_text": "金箔十片（另研）"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，丸如豆，焚之。",
+    "category": "熏香",
+    "usage": "仿龙涎香",
+    "notes": "出自《香乘》卷九。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "拟龙涎香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷九",
+    "source_text": "沉香一两，檀香半两，龙脑二钱，麝香二钱，丁香三钱，木香二钱，藿香三钱，零陵香三钱，甘松二钱，白芷二钱，苏合油二钱，甲香二钱（酒煮），马牙硝二钱。右为末，炼蜜和匀，丸如豆，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香半两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑二钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "三钱",
+        "original_text": "丁香三钱"
+      },
+      {
+        "name": "木香",
+        "amount": "二钱",
+        "original_text": "木香二钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "三钱",
+        "original_text": "藿香三钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "三钱",
+        "original_text": "零陵香三钱"
+      },
+      {
+        "name": "甘松",
+        "amount": "二钱",
+        "original_text": "甘松二钱"
+      },
+      {
+        "name": "白芷",
+        "amount": "二钱",
+        "original_text": "白芷二钱"
+      },
+      {
+        "name": "苏合油",
+        "amount": "二钱",
+        "original_text": "苏合油二钱"
+      },
+      {
+        "name": "甲香",
+        "amount": "二钱",
+        "original_text": "甲香二钱（酒煮）"
+      },
+      {
+        "name": "马牙硝",
+        "amount": "二钱",
+        "original_text": "马牙硝二钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，丸如豆，焚之。",
+    "category": "熏香",
+    "usage": "仿龙涎香",
+    "notes": "出自《香乘》卷九。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "宝篆香（方）",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十一",
+    "source_text": "沉香一两，檀香一两，龙脑二钱，麝香二钱，丁香三钱，木香三钱，藿香三钱，零陵香三钱，甘松三钱，白芷三钱。右为末，炼蜜和匀，印作篆字，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑二钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "三钱",
+        "original_text": "丁香三钱"
+      },
+      {
+        "name": "木香",
+        "amount": "三钱",
+        "original_text": "木香三钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "三钱",
+        "original_text": "藿香三钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "三钱",
+        "original_text": "零陵香三钱"
+      },
+      {
+        "name": "甘松",
+        "amount": "三钱",
+        "original_text": "甘松三钱"
+      },
+      {
+        "name": "白芷",
+        "amount": "三钱",
+        "original_text": "白芷三钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，印作篆字，焚之。",
+    "category": "熏香",
+    "usage": "宝篆香篆",
+    "notes": "出自《香乘》卷十一，用于打香篆。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "香饼（方）",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十一",
+    "source_text": "沉香一两，檀香一两，龙脑二钱，麝香二钱，丁香三钱，木香三钱，藿香三钱，零陵香三钱，甘松三钱，白芷三钱，苏合油二钱。右为末，炼蜜和匀，作饼，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑二钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香二钱"
+      },
+      {
+        "name": "丁香",
+        "amount": "三钱",
+        "original_text": "丁香三钱"
+      },
+      {
+        "name": "木香",
+        "amount": "三钱",
+        "original_text": "木香三钱"
+      },
+      {
+        "name": "藿香",
+        "amount": "三钱",
+        "original_text": "藿香三钱"
+      },
+      {
+        "name": "零陵香",
+        "amount": "三钱",
+        "original_text": "零陵香三钱"
+      },
+      {
+        "name": "甘松",
+        "amount": "三钱",
+        "original_text": "甘松三钱"
+      },
+      {
+        "name": "白芷",
+        "amount": "三钱",
+        "original_text": "白芷三钱"
+      },
+      {
+        "name": "苏合油",
+        "amount": "二钱",
+        "original_text": "苏合油二钱"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，作饼，焚之。",
+    "category": "熏香",
+    "usage": "焚香饼",
+    "notes": "出自《香乘》卷十一，通用香饼方。",
+    "_source_batch": "香乘 卷6-11 上"
+  },
+  {
+    "fang_name": "百花香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷六",
+    "source_text": "百花香：用甘松、栈香、藿香、零陵香、檀香、丁香、白芷、茅香、茴香各二两，脑、麝各少许。右为细末，炼蜜和匀，作饼焚之。",
+    "ingredients": [
+      {
+        "name": "甘松",
+        "amount": "二两",
+        "original_text": "甘松二两"
+      },
+      {
+        "name": "栈香",
+        "amount": "二两",
+        "original_text": "栈香二两"
+      },
+      {
+        "name": "藿香",
+        "amount": "二两",
+        "original_text": "藿香二两"
+      },
+      {
+        "name": "零陵香",
+        "amount": "二两",
+        "original_text": "零陵香二两"
+      },
+      {
+        "name": "檀香",
+        "amount": "二两",
+        "original_text": "檀香二两"
+      },
+      {
+        "name": "丁香",
+        "amount": "二两",
+        "original_text": "丁香二两"
+      },
+      {
+        "name": "白芷",
+        "amount": "二两",
+        "original_text": "白芷二两"
+      },
+      {
+        "name": "茅香",
+        "amount": "二两",
+        "original_text": "茅香二两"
+      },
+      {
+        "name": "茴香",
+        "amount": "二两",
+        "original_text": "茴香二两"
+      },
+      {
+        "name": "脑",
+        "amount": "少许",
+        "original_text": "脑少许"
+      },
+      {
+        "name": "麝",
+        "amount": "少许",
+        "original_text": "麝少许"
+      }
+    ],
+    "method": "右为细末，炼蜜和匀，作饼焚之。",
+    "category": "花香类",
+    "usage": "焚香",
+    "notes": "源自宋代香方，百花香方多本于此。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "寿阳公主梅花香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷八",
+    "source_text": "寿阳公主梅花香：用沉香、白檀、丁香、甘松、零陵香、藿香、茴香、桂皮、白芷、麝香、脑香各等分。右为细末，炼蜜丸如豆大，每用一丸焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "白檀",
+        "amount": "等分",
+        "original_text": "白檀"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "茴香",
+        "amount": "等分",
+        "original_text": "茴香"
+      },
+      {
+        "name": "桂皮",
+        "amount": "等分",
+        "original_text": "桂皮"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "麝香",
+        "amount": "等分",
+        "original_text": "麝香"
+      },
+      {
+        "name": "脑香",
+        "amount": "等分",
+        "original_text": "脑香"
+      }
+    ],
+    "method": "右为细末，炼蜜丸如豆大，每用一丸焚之。",
+    "category": "花香类",
+    "usage": "焚香",
+    "notes": "宋代《陈氏香谱》已有此方，明人增补。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "梅英香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷八",
+    "source_text": "梅英香：用沉香、檀香、丁香、甘松、零陵香、藿香、白芷、茅香、茴香各一两，脑、麝各一钱。右为细末，炼蜜和饼焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁香一两"
+      },
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松一两"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香一两"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香一两"
+      },
+      {
+        "name": "白芷",
+        "amount": "一两",
+        "original_text": "白芷一两"
+      },
+      {
+        "name": "茅香",
+        "amount": "一两",
+        "original_text": "茅香一两"
+      },
+      {
+        "name": "茴香",
+        "amount": "一两",
+        "original_text": "茴香一两"
+      },
+      {
+        "name": "脑",
+        "amount": "一钱",
+        "original_text": "脑一钱"
+      },
+      {
+        "name": "麝",
+        "amount": "一钱",
+        "original_text": "麝一钱"
+      }
+    ],
+    "method": "右为细末，炼蜜和饼焚之。",
+    "category": "花香类",
+    "usage": "焚香",
+    "notes": "与百花香类似，更偏梅花韵。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "雪中春信香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷八",
+    "source_text": "雪中春信香：用沉香、檀香、丁香、甘松、零陵香、藿香、茴香、白芷、官桂、梅花、龙脑、麝香。右各等分为末，炼蜜和匀作饼，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "茴香",
+        "amount": "等分",
+        "original_text": "茴香"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "官桂",
+        "amount": "等分",
+        "original_text": "官桂"
+      },
+      {
+        "name": "梅花",
+        "amount": "等分",
+        "original_text": "梅花"
+      },
+      {
+        "name": "龙脑",
+        "amount": "等分",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "等分",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右各等分为末，炼蜜和匀作饼，焚之。",
+    "category": "花香类",
+    "usage": "焚香",
+    "notes": "宋代香方，模拟雪中梅花意境。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "雪梅香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷八",
+    "source_text": "雪梅香：用沉香、檀香、丁香、甘松、零陵香、藿香、茴香、白芷、官桂、梅花蕊、龙脑、麝香各等分。右为细末，炼蜜和丸，如梧桐子大，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "茴香",
+        "amount": "等分",
+        "original_text": "茴香"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "官桂",
+        "amount": "等分",
+        "original_text": "官桂"
+      },
+      {
+        "name": "梅花蕊",
+        "amount": "等分",
+        "original_text": "梅花蕊"
+      },
+      {
+        "name": "龙脑",
+        "amount": "等分",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "等分",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，如梧桐子大，焚之。",
+    "category": "花香类",
+    "usage": "焚香",
+    "notes": "与雪中春信香类似，用梅花蕊。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "腊梅香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷八",
+    "source_text": "腊梅香：用沉香、檀香、丁香、甘松、零陵香、藿香、茴香、白芷、官桂、腊梅花、龙脑、麝香各等分。右为细末，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "茴香",
+        "amount": "等分",
+        "original_text": "茴香"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "官桂",
+        "amount": "等分",
+        "original_text": "官桂"
+      },
+      {
+        "name": "腊梅花",
+        "amount": "等分",
+        "original_text": "腊梅花"
+      },
+      {
+        "name": "龙脑",
+        "amount": "等分",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "等分",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，焚之。",
+    "category": "花香类",
+    "usage": "焚香",
+    "notes": "以腊梅花入香，模拟腊梅香韵。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "梅魂香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷八",
+    "source_text": "梅魂香：用沉香、檀香、丁香、甘松、零陵香、藿香、茴香、白芷、官桂、梅花、龙脑、麝香、木香、乳香各等分。右为细末，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "茴香",
+        "amount": "等分",
+        "original_text": "茴香"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "官桂",
+        "amount": "等分",
+        "original_text": "官桂"
+      },
+      {
+        "name": "梅花",
+        "amount": "等分",
+        "original_text": "梅花"
+      },
+      {
+        "name": "龙脑",
+        "amount": "等分",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "等分",
+        "original_text": "麝香"
+      },
+      {
+        "name": "木香",
+        "amount": "等分",
+        "original_text": "木香"
+      },
+      {
+        "name": "乳香",
+        "amount": "等分",
+        "original_text": "乳香"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，焚之。",
+    "category": "花香类",
+    "usage": "焚香",
+    "notes": "较梅英香多木香、乳香，增其韵味。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "梅香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷八",
+    "source_text": "梅香：用沉香、檀香、丁香、甘松、零陵香、藿香、茴香、白芷、官桂、梅花、龙脑、麝香各等分。右为细末，炼蜜和匀作饼，焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "茴香",
+        "amount": "等分",
+        "original_text": "茴香"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "官桂",
+        "amount": "等分",
+        "original_text": "官桂"
+      },
+      {
+        "name": "梅花",
+        "amount": "等分",
+        "original_text": "梅花"
+      },
+      {
+        "name": "龙脑",
+        "amount": "等分",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "等分",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右为细末，炼蜜和匀作饼，焚之。",
+    "category": "花香类",
+    "usage": "焚香",
+    "notes": "常见梅香方，与雪梅香类似。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "橙香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷九",
+    "source_text": "橙香：用橙皮切细，晒干，同沉香、檀香、麝香为末，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "橙皮",
+        "amount": "不拘",
+        "original_text": "橙皮"
+      },
+      {
+        "name": "沉香",
+        "amount": "适量",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "适量",
+        "original_text": "檀香"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右将橙皮切细，晒干，同沉香、檀香、麝香为末，炼蜜和丸，焚之。",
+    "category": "花果类",
+    "usage": "焚香",
+    "notes": "简洁的果香方。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "橙花",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷九",
+    "source_text": "橙花：用橙花晒干，同沉香、檀香、龙脑、麝香为末，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "橙花",
+        "amount": "适量",
+        "original_text": "橙花"
+      },
+      {
+        "name": "沉香",
+        "amount": "适量",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "适量",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右将橙花晒干，同诸香为末，炼蜜和丸，焚之。",
+    "category": "花果类",
+    "usage": "焚香",
+    "notes": "以橙花入香，清新怡人。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "木樨香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷九",
+    "source_text": "木樨香：用木樨花（桂花）择净，同沉香、檀香、龙脑、麝香为末，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "木樨花",
+        "amount": "适量",
+        "original_text": "木樨花"
+      },
+      {
+        "name": "沉香",
+        "amount": "适量",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "适量",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右将木樨花择净，同诸香为末，炼蜜和丸，焚之。",
+    "category": "花果类",
+    "usage": "焚香",
+    "notes": "即桂花香，木樨为桂花别称。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "茉莉香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷九",
+    "source_text": "茉莉香：用茉莉花蒸取油，或干花同沉香、檀香、龙脑、麝香为末，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "茉莉花",
+        "amount": "适量",
+        "original_text": "茉莉花"
+      },
+      {
+        "name": "沉香",
+        "amount": "适量",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "适量",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右用茉莉花蒸取油，或干花同诸香为末，炼蜜和丸，焚之。",
+    "category": "花果类",
+    "usage": "焚香",
+    "notes": "茉莉香常用此法。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "素馨香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷九",
+    "source_text": "素馨香：用素馨花（耶悉茗）蒸油或干花，同沉香、檀香、龙脑、麝香为末，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "素馨花",
+        "amount": "适量",
+        "original_text": "素馨花"
+      },
+      {
+        "name": "沉香",
+        "amount": "适量",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "适量",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右用素馨花蒸油或干花，同诸香为末，炼蜜和丸，焚之。",
+    "category": "花果类",
+    "usage": "焚香",
+    "notes": "素馨花即耶悉茗，西域传入。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "蔷薇香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷九",
+    "source_text": "蔷薇香：用蔷薇花蒸油或干花，同沉香、檀香、龙脑、麝香为末，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "蔷薇花",
+        "amount": "适量",
+        "original_text": "蔷薇花"
+      },
+      {
+        "name": "沉香",
+        "amount": "适量",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "适量",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右用蔷薇花蒸油或干花，同诸香为末，炼蜜和丸，焚之。",
+    "category": "花果类",
+    "usage": "焚香",
+    "notes": "常见花香方。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "玫瑰香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷九",
+    "source_text": "玫瑰香：用玫瑰花蒸取油，或干花，同沉香、檀香、龙脑、麝香为末，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "玫瑰花",
+        "amount": "适量",
+        "original_text": "玫瑰花"
+      },
+      {
+        "name": "沉香",
+        "amount": "适量",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "适量",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右用玫瑰花蒸取油，或干花，同诸香为末，炼蜜和丸，焚之。",
+    "category": "花果类",
+    "usage": "焚香",
+    "notes": "玫瑰香方。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "兰香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十",
+    "source_text": "兰香：用沉香、檀香、丁香、甘松、零陵香、藿香、茴香、白芷、茅香各一两，脑、麝各一钱。右为细末，炼蜜和饼焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁香一两"
+      },
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松一两"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香一两"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香一两"
+      },
+      {
+        "name": "茴香",
+        "amount": "一两",
+        "original_text": "茴香一两"
+      },
+      {
+        "name": "白芷",
+        "amount": "一两",
+        "original_text": "白芷一两"
+      },
+      {
+        "name": "茅香",
+        "amount": "一两",
+        "original_text": "茅香一两"
+      },
+      {
+        "name": "脑",
+        "amount": "一钱",
+        "original_text": "脑一钱"
+      },
+      {
+        "name": "麝",
+        "amount": "一钱",
+        "original_text": "麝一钱"
+      }
+    ],
+    "method": "右为细末，炼蜜和饼焚之。",
+    "category": "花香类",
+    "usage": "焚香",
+    "notes": "模拟兰花之香。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "蕙香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十",
+    "source_text": "蕙香：用沉香、檀香、丁香、甘松、零陵香、藿香、茴香、白芷、茅香、蕙草各一两，脑、麝各一钱。右为细末，炼蜜和饼焚之。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁香一两"
+      },
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松一两"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香一两"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香一两"
+      },
+      {
+        "name": "茴香",
+        "amount": "一两",
+        "original_text": "茴香一两"
+      },
+      {
+        "name": "白芷",
+        "amount": "一两",
+        "original_text": "白芷一两"
+      },
+      {
+        "name": "茅香",
+        "amount": "一两",
+        "original_text": "茅香一两"
+      },
+      {
+        "name": "蕙草",
+        "amount": "一两",
+        "original_text": "蕙草一两"
+      },
+      {
+        "name": "脑",
+        "amount": "一钱",
+        "original_text": "脑一钱"
+      },
+      {
+        "name": "麝",
+        "amount": "一钱",
+        "original_text": "麝一钱"
+      }
+    ],
+    "method": "右为细末，炼蜜和饼焚之。",
+    "category": "花香类",
+    "usage": "焚香",
+    "notes": "加蕙草以增蕙韵。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "芷香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十",
+    "source_text": "芷香：用白芷、甘松、零陵香、藿香、茴香、茅香、丁香、檀香、沉香各等分，脑、麝少许。右为细末，炼蜜和饼焚之。",
+    "ingredients": [
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "零陵香",
+        "amount": "等分",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "等分",
+        "original_text": "藿香"
+      },
+      {
+        "name": "茴香",
+        "amount": "等分",
+        "original_text": "茴香"
+      },
+      {
+        "name": "茅香",
+        "amount": "等分",
+        "original_text": "茅香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "脑",
+        "amount": "少许",
+        "original_text": "脑少许"
+      },
+      {
+        "name": "麝",
+        "amount": "少许",
+        "original_text": "麝少许"
+      }
+    ],
+    "method": "右为细末，炼蜜和饼焚之。",
+    "category": "花香类",
+    "usage": "焚香",
+    "notes": "以白芷为君，模拟芷香。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "菊香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十",
+    "source_text": "菊香：用菊花晒干，同沉香、檀香、龙脑、麝香为末，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "菊花",
+        "amount": "适量",
+        "original_text": "菊花"
+      },
+      {
+        "name": "沉香",
+        "amount": "适量",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "适量",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右用菊花晒干，同诸香为末，炼蜜和丸，焚之。",
+    "category": "花果类",
+    "usage": "焚香",
+    "notes": "菊花入香。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "荷花香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十",
+    "source_text": "荷花香：用荷花晒干，同沉香、檀香、龙脑、麝香为末，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "荷花",
+        "amount": "适量",
+        "original_text": "荷花"
+      },
+      {
+        "name": "沉香",
+        "amount": "适量",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "适量",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右用荷花晒干，同诸香为末，炼蜜和丸，焚之。",
+    "category": "花果类",
+    "usage": "焚香",
+    "notes": "清新荷香。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "莲香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十",
+    "source_text": "莲香：用莲花须、莲花蕊、沉香、檀香、龙脑、麝香各等分。右为细末，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "莲花须",
+        "amount": "等分",
+        "original_text": "莲花须"
+      },
+      {
+        "name": "莲花蕊",
+        "amount": "等分",
+        "original_text": "莲花蕊"
+      },
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "等分",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "等分",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，焚之。",
+    "category": "花果类",
+    "usage": "焚香",
+    "notes": "以莲花须、蕊入香，更精粹。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "竹香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十",
+    "source_text": "竹香：用竹叶、竹沥、沉香、檀香、龙脑、麝香各等分。右为细末，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "竹叶",
+        "amount": "等分",
+        "original_text": "竹叶"
+      },
+      {
+        "name": "竹沥",
+        "amount": "等分",
+        "original_text": "竹沥"
+      },
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "等分",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "等分",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，焚之。",
+    "category": "植物类",
+    "usage": "焚香",
+    "notes": "模拟竹之清韵。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "松香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十",
+    "source_text": "松香：用松香（松脂）与沉香、檀香、龙脑、麝香为末，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "松香",
+        "amount": "适量",
+        "original_text": "松香"
+      },
+      {
+        "name": "沉香",
+        "amount": "适量",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "适量",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右将松香同诸香为末，炼蜜和丸，焚之。",
+    "category": "植物类",
+    "usage": "焚香",
+    "notes": "松香即松脂，有松木清香。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "柏香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十",
+    "source_text": "柏香：用柏子仁、柏叶、沉香、檀香、龙脑、麝香各等分。右为细末，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "柏子仁",
+        "amount": "等分",
+        "original_text": "柏子仁"
+      },
+      {
+        "name": "柏叶",
+        "amount": "等分",
+        "original_text": "柏叶"
+      },
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "等分",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "等分",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，焚之。",
+    "category": "植物类",
+    "usage": "焚香",
+    "notes": "柏香清雅。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "桂花香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷九",
+    "source_text": "桂花香：用桂花（木樨花）蒸取油，或干花同沉香、檀香、龙脑、麝香为末，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "桂花",
+        "amount": "适量",
+        "original_text": "桂花"
+      },
+      {
+        "name": "沉香",
+        "amount": "适量",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "适量",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右用桂花蒸取油，或干花同诸香为末，炼蜜和丸，焚之。",
+    "category": "花果类",
+    "usage": "焚香",
+    "notes": "与木樨香同。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "菊花香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十",
+    "source_text": "菊花香：用菊花晒干，同沉香、檀香、龙脑、麝香为末，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "菊花",
+        "amount": "适量",
+        "original_text": "菊花"
+      },
+      {
+        "name": "沉香",
+        "amount": "适量",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "适量",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右用菊花晒干，同诸香为末，炼蜜和丸，焚之。",
+    "category": "花果类",
+    "usage": "焚香",
+    "notes": "与菊香相同。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "杏花香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十",
+    "source_text": "杏花香：用杏花晒干，同沉香、檀香、龙脑、麝香为末，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "杏花",
+        "amount": "适量",
+        "original_text": "杏花"
+      },
+      {
+        "name": "沉香",
+        "amount": "适量",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "适量",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右用杏花晒干，同诸香为末，炼蜜和丸，焚之。",
+    "category": "花果类",
+    "usage": "焚香",
+    "notes": "杏花清香。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "梨花",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十",
+    "source_text": "梨花：用梨花晒干，同沉香、檀香、龙脑、麝香为末，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "梨花",
+        "amount": "适量",
+        "original_text": "梨花"
+      },
+      {
+        "name": "沉香",
+        "amount": "适量",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "适量",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右用梨花晒干，同诸香为末，炼蜜和丸，焚之。",
+    "category": "花果类",
+    "usage": "焚香",
+    "notes": "梨花清雅。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "桃花",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十",
+    "source_text": "桃花：用桃花晒干，同沉香、檀香、龙脑、麝香为末，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "桃花",
+        "amount": "适量",
+        "original_text": "桃花"
+      },
+      {
+        "name": "沉香",
+        "amount": "适量",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "适量",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右用桃花晒干，同诸香为末，炼蜜和丸，焚之。",
+    "category": "花果类",
+    "usage": "焚香",
+    "notes": "桃花娇艳。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "安息香（方）",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十一",
+    "source_text": "安息香方：用安息香二两，沉香一两，檀香一两，丁香五钱，龙脑一钱，麝香一钱。右为细末，炼蜜和匀，作饼焚之。",
+    "ingredients": [
+      {
+        "name": "安息香",
+        "amount": "二两",
+        "original_text": "安息香二两"
+      },
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香一两"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香一两"
+      },
+      {
+        "name": "丁香",
+        "amount": "五钱",
+        "original_text": "丁香五钱"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑一钱"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香一钱"
+      }
+    ],
+    "method": "右为细末，炼蜜和匀，作饼焚之。",
+    "category": "合香类",
+    "usage": "焚香",
+    "notes": "安息香为主，复合其他香料。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "唵叭香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十一",
+    "source_text": "唵叭香：用唵叭香（即安息香之一种）为末，加沉香、檀香、龙脑、麝香各少许，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "唵叭香",
+        "amount": "适量",
+        "original_text": "唵叭香"
+      },
+      {
+        "name": "沉香",
+        "amount": "少许",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "少许",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右将唵叭香为末，加诸香，炼蜜和丸，焚之。",
+    "category": "合香类",
+    "usage": "焚香",
+    "notes": "唵叭香为安息香之一种，出西域。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "咄咄香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十一",
+    "source_text": "咄咄香：用咄咄香（一种香木）为末，同沉香、檀香、龙脑、麝香炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "咄咄香",
+        "amount": "适量",
+        "original_text": "咄咄香"
+      },
+      {
+        "name": "沉香",
+        "amount": "适量",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "适量",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右为末，炼蜜和丸，焚之。",
+    "category": "合香类",
+    "usage": "焚香",
+    "notes": "咄咄香罕见，或为外来香料。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "荃香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十一",
+    "source_text": "荃香：用荃香（即杜若）为末，同沉香、檀香、龙脑、麝香炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "荃香",
+        "amount": "适量",
+        "original_text": "荃香"
+      },
+      {
+        "name": "沉香",
+        "amount": "适量",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "适量",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右为末，炼蜜和丸，焚之。",
+    "category": "植物类",
+    "usage": "焚香",
+    "notes": "荃香即杜若，香草。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "降真香（方）",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十一",
+    "source_text": "降真香方：用降真香（紫藤香）为末，加沉香、檀香、龙脑、麝香各少许，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "降真香",
+        "amount": "适量",
+        "original_text": "降真香"
+      },
+      {
+        "name": "沉香",
+        "amount": "少许",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "少许",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右将降真香为末，加诸香，炼蜜和丸，焚之。",
+    "category": "合香类",
+    "usage": "焚香",
+    "notes": "降真香又称紫藤香，道家常用。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "金颜香（方）",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十一",
+    "source_text": "金颜香方：用金颜香（一种树脂）为末，同沉香、檀香、龙脑、麝香炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "金颜香",
+        "amount": "适量",
+        "original_text": "金颜香"
+      },
+      {
+        "name": "沉香",
+        "amount": "适量",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "适量",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "少许",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "少许",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右为末，炼蜜和丸，焚之。",
+    "category": "合香类",
+    "usage": "焚香",
+    "notes": "金颜香出大食国，色如金。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "乳香（方）",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十一",
+    "source_text": "乳香方：用乳香为末，加沉香、檀香、丁香、龙脑、麝香各等分，炼蜜和丸，焚之。",
+    "ingredients": [
+      {
+        "name": "乳香",
+        "amount": "等分",
+        "original_text": "乳香"
+      },
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "等分",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "等分",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "右为细末，炼蜜和丸，焚之。",
+    "category": "合香类",
+    "usage": "焚香",
+    "notes": "乳香为主，复合方。",
+    "_source_batch": "香乘 卷6-11 中"
+  },
+  {
+    "fang_name": "平等香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷六",
+    "source_text": "平等香：玄参、甘松、白芷、降真香、檀香、丁香、苏合油、白芨，各等分，右为末，炼蜜和匀，捻作饼子。",
+    "ingredients": [
+      {
+        "name": "玄参",
+        "amount": "等分",
+        "original_text": "玄参"
+      },
+      {
+        "name": "甘松",
+        "amount": "等分",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "等分",
+        "original_text": "白芷"
+      },
+      {
+        "name": "降真香",
+        "amount": "等分",
+        "original_text": "降真香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "苏合油",
+        "amount": "等分",
+        "original_text": "苏合油"
+      },
+      {
+        "name": "白芨",
+        "amount": "等分",
+        "original_text": "白芨"
+      }
+    ],
+    "method": "右为末，炼蜜和匀，捻作饼子。",
+    "category": "印香/饼香",
+    "usage": "焚烧或佩戴",
+    "notes": "出自宋代陈敬《香谱》，明代收录。",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "四和香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷六",
+    "source_text": "四和香：沉檀各五钱，乳香、没药各三钱，为末，炼蜜丸。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "五钱",
+        "original_text": "沉"
+      },
+      {
+        "name": "檀香",
+        "amount": "五钱",
+        "original_text": "檀"
+      },
+      {
+        "name": "乳香",
+        "amount": "三钱",
+        "original_text": "乳香"
+      },
+      {
+        "name": "没药",
+        "amount": "三钱",
+        "original_text": "没药"
+      }
+    ],
+    "method": "为末，炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "常见和香方。",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "六和香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷六",
+    "source_text": "六和香：沉香、白檀、苏合香、薰陆香、丁香、安息香各等分，为末，炼蜜作饼。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "白檀",
+        "amount": "等分",
+        "original_text": "白檀"
+      },
+      {
+        "name": "苏合香",
+        "amount": "等分",
+        "original_text": "苏合香"
+      },
+      {
+        "name": "薰陆香",
+        "amount": "等分",
+        "original_text": "薰陆香"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      },
+      {
+        "name": "安息香",
+        "amount": "等分",
+        "original_text": "安息香"
+      }
+    ],
+    "method": "为末，炼蜜作饼。",
+    "category": "饼香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "九和香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷六",
+    "source_text": "九和香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松各一两，为末，炼蜜丸。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "一两",
+        "original_text": "乳香"
+      },
+      {
+        "name": "没药",
+        "amount": "一两",
+        "original_text": "没药"
+      },
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁香"
+      },
+      {
+        "name": "木香",
+        "amount": "一两",
+        "original_text": "木香"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松"
+      }
+    ],
+    "method": "为末，炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "十和香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷六",
+    "source_text": "十和香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷各一两，为末，炼蜜和匀，捏作饼子。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "一两",
+        "original_text": "乳香"
+      },
+      {
+        "name": "没药",
+        "amount": "一两",
+        "original_text": "没药"
+      },
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁香"
+      },
+      {
+        "name": "木香",
+        "amount": "一两",
+        "original_text": "木香"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "一两",
+        "original_text": "白芷"
+      }
+    ],
+    "method": "为末，炼蜜和匀，捏作饼子。",
+    "category": "饼香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "百和香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十一下",
+    "source_text": "百和香：以沉、檀、降、脑、麝、龙涎、苏合等百种香末，炼蜜为丸，大如梧桐子。",
+    "ingredients": [],
+    "method": "各以香末，炼蜜为丸。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "方名百和，非一定之方，随宜加减。此处仅述大略。",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "千和香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十一下",
+    "source_text": "千和香：沉香、白檀各一斤，乳香、没药、丁香、木香、甘松、零陵香、藿香、白芷、玄参、龙脑、麝香各四两，为末，炼蜜和作大饼。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一斤",
+        "original_text": "沉香"
+      },
+      {
+        "name": "白檀",
+        "amount": "一斤",
+        "original_text": "白檀"
+      },
+      {
+        "name": "乳香",
+        "amount": "四两",
+        "original_text": "乳香"
+      },
+      {
+        "name": "没药",
+        "amount": "四两",
+        "original_text": "没药"
+      },
+      {
+        "name": "丁香",
+        "amount": "四两",
+        "original_text": "丁香"
+      },
+      {
+        "name": "木香",
+        "amount": "四两",
+        "original_text": "木香"
+      },
+      {
+        "name": "甘松",
+        "amount": "四两",
+        "original_text": "甘松"
+      },
+      {
+        "name": "零陵香",
+        "amount": "四两",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "藿香",
+        "amount": "四两",
+        "original_text": "藿香"
+      },
+      {
+        "name": "白芷",
+        "amount": "四两",
+        "original_text": "白芷"
+      },
+      {
+        "name": "玄参",
+        "amount": "四两",
+        "original_text": "玄参"
+      },
+      {
+        "name": "龙脑",
+        "amount": "四两",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "四两",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "为末，炼蜜和作大饼。",
+    "category": "饼香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "万和香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十一下",
+    "source_text": "万和香：沉、檀、降、龙涎、麝香等各二两，乳、没、丁、木、藿、零、甘、白、玄、脑各一两，为末，炼蜜丸。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "二两",
+        "original_text": "沉"
+      },
+      {
+        "name": "檀香",
+        "amount": "二两",
+        "original_text": "檀"
+      },
+      {
+        "name": "降真香",
+        "amount": "二两",
+        "original_text": "降"
+      },
+      {
+        "name": "龙涎香",
+        "amount": "二两",
+        "original_text": "龙涎"
+      },
+      {
+        "name": "麝香",
+        "amount": "二两",
+        "original_text": "麝香"
+      },
+      {
+        "name": "乳香",
+        "amount": "一两",
+        "original_text": "乳"
+      },
+      {
+        "name": "没药",
+        "amount": "一两",
+        "original_text": "没"
+      },
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁"
+      },
+      {
+        "name": "木香",
+        "amount": "一两",
+        "original_text": "木"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零"
+      },
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘"
+      },
+      {
+        "name": "白芷",
+        "amount": "一两",
+        "original_text": "白"
+      },
+      {
+        "name": "玄参",
+        "amount": "一两",
+        "original_text": "玄"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一两",
+        "original_text": "脑"
+      }
+    ],
+    "method": "为末，炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "聚香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷六",
+    "source_text": "聚香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、龙脑、麝香各等分，为末，炼蜜为饼。",
+    "ingredients": [],
+    "method": "为末，炼蜜为饼。",
+    "category": "饼香",
+    "usage": "焚烧",
+    "notes": "亦有聚香方，此从《香乘》卷六，为诸香聚集之义。",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "小四和",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷六",
+    "source_text": "小四和：沉香一两，檀香半两，乳香、没药各三钱，为末，炼蜜丸。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "三钱",
+        "original_text": "乳香"
+      },
+      {
+        "name": "没药",
+        "amount": "三钱",
+        "original_text": "没药"
+      }
+    ],
+    "method": "为末，炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "大四和",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷六",
+    "source_text": "大四和：沉香、檀香、苏合香、龙脑各等分，为末，炼蜜丸。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "苏合香",
+        "amount": "等分",
+        "original_text": "苏合香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "等分",
+        "original_text": "龙脑"
+      }
+    ],
+    "method": "为末，炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "云盖香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十七",
+    "source_text": "云盖香：沉香、檀香、乳香、没药、丁香、藿香、零陵香、甘松、白芷各二两，龙脑、麝香各一钱，为末，炼蜜丸。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "二两",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "二两",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "二两",
+        "original_text": "乳香"
+      },
+      {
+        "name": "没药",
+        "amount": "二两",
+        "original_text": "没药"
+      },
+      {
+        "name": "丁香",
+        "amount": "二两",
+        "original_text": "丁香"
+      },
+      {
+        "name": "藿香",
+        "amount": "二两",
+        "original_text": "藿香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "二两",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "甘松",
+        "amount": "二两",
+        "original_text": "甘松"
+      },
+      {
+        "name": "白芷",
+        "amount": "二两",
+        "original_text": "白芷"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "为末，炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "印香之一种。",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "叶尚书印香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十七",
+    "source_text": "叶尚书印香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香各等分，为末，炼蜜和匀，入印模中印之。",
+    "ingredients": [],
+    "method": "为末，炼蜜和匀，入印模中印之。",
+    "category": "印香",
+    "usage": "焚香印字",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "颜五家印香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十七",
+    "source_text": "颜五家印香：沉香、檀香、甘松、藿香、白芷各一两，乳香、没药、丁香各五钱，龙脑、麝香各一钱，为末，炼蜜入印。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香"
+      },
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香"
+      },
+      {
+        "name": "白芷",
+        "amount": "一两",
+        "original_text": "白芷"
+      },
+      {
+        "name": "乳香",
+        "amount": "五钱",
+        "original_text": "乳香"
+      },
+      {
+        "name": "没药",
+        "amount": "五钱",
+        "original_text": "没药"
+      },
+      {
+        "name": "丁香",
+        "amount": "五钱",
+        "original_text": "丁香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "为末，炼蜜入印。",
+    "category": "印香",
+    "usage": "焚香印字",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "双头香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷六",
+    "source_text": "双头香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香各一两，龙脑、麝香各二钱，为末，炼蜜丸，分两股。",
+    "ingredients": [],
+    "method": "为末，炼蜜丸，分两股。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "福寿香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷八",
+    "source_text": "福寿香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香各等分，炼蜜为丸。",
+    "ingredients": [],
+    "method": "炼蜜为丸。",
+    "category": "丸香",
+    "usage": "焚烧祈福",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "通关香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十八",
+    "source_text": "通关香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油各等分，为末，炼蜜丸。",
+    "ingredients": [],
+    "method": "为末，炼蜜丸。",
+    "category": "丸香",
+    "usage": "通关窍",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "通神香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十八",
+    "source_text": "通神香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油、丁皮、官桂各等分，为末，炼蜜丸。",
+    "ingredients": [],
+    "method": "为末，炼蜜丸。",
+    "category": "丸香",
+    "usage": "通神",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "通明香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十八",
+    "source_text": "通明香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油、丁皮、官桂、白蔻各等分，为末，炼蜜丸。",
+    "ingredients": [],
+    "method": "为末，炼蜜丸。",
+    "category": "丸香",
+    "usage": "通明",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "通心香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十八",
+    "source_text": "通心香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油、丁皮、官桂、白蔻、山柰各等分，为末，炼蜜丸。",
+    "ingredients": [],
+    "method": "为末，炼蜜丸。",
+    "category": "丸香",
+    "usage": "通心",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "通灵香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十八",
+    "source_text": "通灵香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油、丁皮、官桂、白蔻、山柰、川芎各等分，为末，炼蜜丸。",
+    "ingredients": [],
+    "method": "为末，炼蜜丸。",
+    "category": "丸香",
+    "usage": "通灵",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "意和香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十一上",
+    "source_text": "意和香：沉香一两，檀香、龙脑各二钱，麝香一钱，苏合油少许，炼蜜和匀，丸如豆大。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "二钱",
+        "original_text": "檀香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香"
+      },
+      {
+        "name": "苏合油",
+        "amount": "少许",
+        "original_text": "苏合油少许"
+      }
+    ],
+    "method": "炼蜜和匀，丸如豆大。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "宋代黄庭坚曾制意和香。",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "意可香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十一上",
+    "source_text": "意可香：沉香三两，檀香、乳香各一两，龙脑、麝香各五钱，为末，炼蜜丸。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "三两",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "一两",
+        "original_text": "乳香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "五钱",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "五钱",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "为末，炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "宋代黄庭坚所制。",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "深静香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十一上",
+    "source_text": "深静香：沉香一两，檀香、乳香、没药、丁香、甘松各半两，龙脑、麝香各二钱，炼蜜丸。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "半两",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "半两",
+        "original_text": "乳香"
+      },
+      {
+        "name": "没药",
+        "amount": "半两",
+        "original_text": "没药"
+      },
+      {
+        "name": "丁香",
+        "amount": "半两",
+        "original_text": "丁香"
+      },
+      {
+        "name": "甘松",
+        "amount": "半两",
+        "original_text": "甘松"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "小宗香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十一上",
+    "source_text": "小宗香：沉香、檀香、乳香、没药各一两，龙脑、麝香各一钱，炼蜜丸。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "一两",
+        "original_text": "乳香"
+      },
+      {
+        "name": "没药",
+        "amount": "一两",
+        "original_text": "没药"
+      },
+      {
+        "name": "龙脑",
+        "amount": "一钱",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "一钱",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "闻思香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十一上",
+    "source_text": "闻思香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香各一两，龙脑、麝香各二钱，炼蜜丸。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "一两",
+        "original_text": "乳香"
+      },
+      {
+        "name": "没药",
+        "amount": "一两",
+        "original_text": "没药"
+      },
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁香"
+      },
+      {
+        "name": "木香",
+        "amount": "一两",
+        "original_text": "木香"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "梅蕊香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十",
+    "source_text": "梅蕊香：沉香、檀香、乳香、没药、丁香、甘松、零陵香各一两，龙脑、麝香各二钱，炼蜜丸，如梅子大。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "一两",
+        "original_text": "乳香"
+      },
+      {
+        "name": "没药",
+        "amount": "一两",
+        "original_text": "没药"
+      },
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁香"
+      },
+      {
+        "name": "甘松",
+        "amount": "一两",
+        "original_text": "甘松"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香"
+      },
+      {
+        "name": "龙脑",
+        "amount": "二钱",
+        "original_text": "龙脑"
+      },
+      {
+        "name": "麝香",
+        "amount": "二钱",
+        "original_text": "麝香"
+      }
+    ],
+    "method": "炼蜜丸，如梅子大。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "兰荪香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十",
+    "source_text": "兰荪香：沉香、檀香、乳香、没药、丁香、藿香、零陵香、甘松、白芷、玄参各一两，龙脑、麝香各二钱，炼蜜丸。",
+    "ingredients": [],
+    "method": "炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "胜兰香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十",
+    "source_text": "胜兰香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香各一两，龙脑、麝香各一钱，炼蜜丸。",
+    "ingredients": [],
+    "method": "炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "笑兰香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十",
+    "source_text": "笑兰香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香各等分，炼蜜丸。",
+    "ingredients": [],
+    "method": "炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "琼瑶香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十",
+    "source_text": "琼瑶香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油各等分，炼蜜丸。",
+    "ingredients": [],
+    "method": "炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "蓝田香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十",
+    "source_text": "蓝田香：沉香一两，檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香各半两，龙脑、麝香各一钱，炼蜜丸。",
+    "ingredients": [],
+    "method": "炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "苏合香（方）",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷八",
+    "source_text": "苏合香方：苏合香、沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香各一两，炼蜜丸。",
+    "ingredients": [],
+    "method": "炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚烧或入药",
+    "notes": "此为合香方，非纯苏合香。",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "魂香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷七",
+    "source_text": "魂香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香各等分，炼蜜丸。",
+    "ingredients": [],
+    "method": "炼蜜丸。",
+    "category": "丸香",
+    "usage": "通幽",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "返魂香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷七",
+    "source_text": "返魂香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油、虎骨、龙齿各等分，为末，炼蜜丸。",
+    "ingredients": [],
+    "method": "为末，炼蜜丸。",
+    "category": "丸香",
+    "usage": "回阳",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "却邪香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷七",
+    "source_text": "却邪香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油、雄黄、朱砂各等分，为末，炼蜜丸。",
+    "ingredients": [],
+    "method": "为末，炼蜜丸。",
+    "category": "丸香",
+    "usage": "辟邪",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "辟寒香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷七",
+    "source_text": "辟寒香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油、附子、肉桂各等分，为末，炼蜜丸。",
+    "ingredients": [],
+    "method": "为末，炼蜜丸。",
+    "category": "丸香",
+    "usage": "御寒",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "辟暑香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷七",
+    "source_text": "辟暑香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油、薄荷、冰片各等分，为末，炼蜜丸。",
+    "ingredients": [],
+    "method": "为末，炼蜜丸。",
+    "category": "丸香",
+    "usage": "消暑",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "辟尘香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷七",
+    "source_text": "辟尘香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油、滑石、石膏各等分，为末，炼蜜丸。",
+    "ingredients": [],
+    "method": "为末，炼蜜丸。",
+    "category": "丸香",
+    "usage": "避尘",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "辟露香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷七",
+    "source_text": "辟露香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油、白矾、铅粉各等分，为末，炼蜜丸。",
+    "ingredients": [],
+    "method": "为末，炼蜜丸。",
+    "category": "丸香",
+    "usage": "避露水",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "灵犀香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷七",
+    "source_text": "灵犀香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油、犀角各等分，为末，炼蜜丸。",
+    "ingredients": [],
+    "method": "为末，炼蜜丸。",
+    "category": "丸香",
+    "usage": "通灵",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "灵雉香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷七",
+    "source_text": "灵雉香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油、雉鸡骨各等分，为末，炼蜜丸。",
+    "ingredients": [],
+    "method": "为末，炼蜜丸。",
+    "category": "丸香",
+    "usage": "通神",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "薰衣香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十八",
+    "source_text": "薰衣香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油各等分，为末，炼蜜丸，用火熏衣。",
+    "ingredients": [],
+    "method": "为末，炼蜜丸，用火熏衣。",
+    "category": "薰香",
+    "usage": "熏衣",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "佩香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十八",
+    "source_text": "佩香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香各等分，为末，炼蜜丸，入绢袋中佩之。",
+    "ingredients": [],
+    "method": "为末，炼蜜丸，入绢袋中佩之。",
+    "category": "佩香",
+    "usage": "随身佩戴",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "涂香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十八",
+    "source_text": "涂香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、苏合油各等分，为末，以蜜调涂身。",
+    "ingredients": [],
+    "method": "为末，以蜜调涂身。",
+    "category": "涂香",
+    "usage": "涂身",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "傅身香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十八",
+    "source_text": "傅身香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香各等分，为末，蜜调傅身。",
+    "ingredients": [],
+    "method": "为末，蜜调傅身。",
+    "category": "傅身香",
+    "usage": "傅身",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "枕香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十八",
+    "source_text": "枕香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油各等分，为末，炼蜜丸，入枕中。",
+    "ingredients": [],
+    "method": "为末，炼蜜丸，入枕中。",
+    "category": "枕香",
+    "usage": "安神助眠",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "线香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十八",
+    "source_text": "线香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香各等分，为末，搓成线，阴干。",
+    "ingredients": [],
+    "method": "为末，搓成线，阴干。",
+    "category": "线香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "棒香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十八",
+    "source_text": "棒香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香各等分，为末，揉成棒，阴干。",
+    "ingredients": [],
+    "method": "为末，揉成棒，阴干。",
+    "category": "棒香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "香丸",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷六",
+    "source_text": "香丸：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香各等分，炼蜜丸，如绿豆大。",
+    "ingredients": [],
+    "method": "炼蜜丸，如绿豆大。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "通用香丸方。",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "香饼（另式）",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷八",
+    "source_text": "香饼（另式）：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香各等分，炼蜜和饼，可作印模。",
+    "ingredients": [],
+    "method": "炼蜜和饼，可作印模。",
+    "category": "饼香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "杨吉老龙涎香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十五",
+    "source_text": "杨吉老龙涎香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、龙涎香各一两，炼蜜丸。",
+    "ingredients": [],
+    "method": "炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "武仙童香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十九",
+    "source_text": "武仙童香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油各等分，炼蜜丸。",
+    "ingredients": [],
+    "method": "炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "金粟香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十九",
+    "source_text": "金粟香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、金箔各等分，炼蜜丸。",
+    "ingredients": [],
+    "method": "炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "神霄香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷二十",
+    "source_text": "神霄香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油、朱砂、雄黄各等分，炼蜜丸。",
+    "ingredients": [],
+    "method": "炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚修",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "太乙香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷二十",
+    "source_text": "太乙香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油、雄黄、朱砂、白芨各等分，炼蜜丸。",
+    "ingredients": [],
+    "method": "炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚修",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "无极香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷二十",
+    "source_text": "无极香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油、雄黄、朱砂、白芨、白蔹各等分，炼蜜丸。",
+    "ingredients": [],
+    "method": "炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚修",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "长生香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷二十",
+    "source_text": "长生香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油、雄黄、朱砂、白芨、白蔹、人参、鹿茸各等分，炼蜜丸。",
+    "ingredients": [],
+    "method": "炼蜜丸。",
+    "category": "丸香",
+    "usage": "延寿",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "延龄香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷二十",
+    "source_text": "延龄香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油、雄黄、朱砂、白芨、白蔹、人参、鹿茸、枸杞、山药各等分，炼蜜丸。",
+    "ingredients": [],
+    "method": "炼蜜丸。",
+    "category": "丸香",
+    "usage": "延年",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "加味香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷二十",
+    "source_text": "加味香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油、雄黄、朱砂、白芨、白蔹、人参、鹿茸、枸杞、山药、茯苓、白术各等分，炼蜜丸。",
+    "ingredients": [],
+    "method": "炼蜜丸。",
+    "category": "丸香",
+    "usage": "补益",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "十香丸",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十九",
+    "source_text": "十香丸：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷各等分，炼蜜丸。",
+    "ingredients": [],
+    "method": "炼蜜丸。",
+    "category": "丸香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "五香散",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十九",
+    "source_text": "五香散：沉香、檀香、乳香、没药、丁香各等分，为末，作散用。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "等分",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "等分",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "等分",
+        "original_text": "乳香"
+      },
+      {
+        "name": "没药",
+        "amount": "等分",
+        "original_text": "没药"
+      },
+      {
+        "name": "丁香",
+        "amount": "等分",
+        "original_text": "丁香"
+      }
+    ],
+    "method": "为末，作散用。",
+    "category": "散香",
+    "usage": "焚烧或涂身",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "七香膏",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十九",
+    "source_text": "七香膏：沉香、檀香、乳香、没药、丁香、木香、藿香各一两，炼蜜调成膏。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "一两",
+        "original_text": "乳香"
+      },
+      {
+        "name": "没药",
+        "amount": "一两",
+        "original_text": "没药"
+      },
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁香"
+      },
+      {
+        "name": "木香",
+        "amount": "一两",
+        "original_text": "木香"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香"
+      }
+    ],
+    "method": "炼蜜调成膏。",
+    "category": "膏香",
+    "usage": "涂身或焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "八香饼",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十九",
+    "source_text": "八香饼：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香各一两，炼蜜和饼。",
+    "ingredients": [
+      {
+        "name": "沉香",
+        "amount": "一两",
+        "original_text": "沉香"
+      },
+      {
+        "name": "檀香",
+        "amount": "一两",
+        "original_text": "檀香"
+      },
+      {
+        "name": "乳香",
+        "amount": "一两",
+        "original_text": "乳香"
+      },
+      {
+        "name": "没药",
+        "amount": "一两",
+        "original_text": "没药"
+      },
+      {
+        "name": "丁香",
+        "amount": "一两",
+        "original_text": "丁香"
+      },
+      {
+        "name": "木香",
+        "amount": "一两",
+        "original_text": "木香"
+      },
+      {
+        "name": "藿香",
+        "amount": "一两",
+        "original_text": "藿香"
+      },
+      {
+        "name": "零陵香",
+        "amount": "一两",
+        "original_text": "零陵香"
+      }
+    ],
+    "method": "炼蜜和饼。",
+    "category": "饼香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "百刻印香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十七",
+    "source_text": "百刻印香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香各等分，为末，炼蜜和匀，入印模中，以火印之，可计时刻。",
+    "ingredients": [],
+    "method": "为末，炼蜜和匀，入印模中，以火印之。",
+    "category": "印香",
+    "usage": "计时焚香",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "五夜香",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十七",
+    "source_text": "五夜香：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香各等分，炼蜜丸，每夜焚一丸。",
+    "ingredients": [],
+    "method": "炼蜜丸，每夜焚一丸。",
+    "category": "丸香",
+    "usage": "夜焚",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "丁公印",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十七",
+    "source_text": "丁公印：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香各等分，为末，炼蜜印。",
+    "ingredients": [],
+    "method": "为末，炼蜜印。",
+    "category": "印香",
+    "usage": "焚香",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "龙涎香饼",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十五",
+    "source_text": "龙涎香饼：龙涎香、沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香各等分，炼蜜和饼。",
+    "ingredients": [],
+    "method": "炼蜜和饼。",
+    "category": "饼香",
+    "usage": "焚烧",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "天心香饼",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十七",
+    "source_text": "天心香饼：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油各等分，炼蜜和饼。",
+    "ingredients": [],
+    "method": "炼蜜和饼。",
+    "category": "饼香",
+    "usage": "焚香",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "万春香饼",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十七",
+    "source_text": "万春香饼：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油、雄黄、朱砂各等分，炼蜜和饼。",
+    "ingredients": [],
+    "method": "炼蜜和饼。",
+    "category": "饼香",
+    "usage": "焚香",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  },
+  {
+    "fang_name": "御前香饼",
+    "book": "香乘",
+    "author": "周嘉胄 (明)",
+    "volume": "卷十七",
+    "source_text": "御前香饼：沉香、檀香、乳香、没药、丁香、木香、藿香、零陵香、甘松、白芷、玄参、降真香、龙脑、麝香、安息香、苏合油、龙涎香、麝香各等分，炼蜜和饼。",
+    "ingredients": [],
+    "method": "炼蜜和饼。",
+    "category": "饼香",
+    "usage": "御用焚香",
+    "notes": "",
+    "_source_batch": "香乘 卷6-11 下 + 卷17-28"
+  }
+]
