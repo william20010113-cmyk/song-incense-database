@@ -6,7 +6,7 @@
 import json, os, sys, time
 import requests
 
-API_KEY = os.environ.get("DEEPSEEK_API_KEY", "__DEEPSEEK_API_KEY__")
+API_KEY = os.environ.get("DEEPSEEK_API_KEY", "set DEEPSEEK_API_KEY env var")
 API_URL = "https://api.deepseek.com/chat/completions"
 OUTPUT_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
 

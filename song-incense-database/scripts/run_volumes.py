@@ -4,9 +4,9 @@
 """
 import requests, json, os, sys, time
 
-API_KEY = "__DEEPSEEK_API_KEY__"
+API_KEY = os.environ.get("DEEPSEEK_API_KEY", "__DEEPSEEK_API_KEY__")
 API_URL = "https://api.deepseek.com/chat/completions"
-OUTPUT_DIR = "/data/.openclaw/workspace/song-incense-database/data"
+OUTPUT_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 SYSTEM_PROMPT = """你是一位精通宋代香谱古籍的学者。你的任务是从知识记忆中将宋代香方的完整数据以JSON格式输出。

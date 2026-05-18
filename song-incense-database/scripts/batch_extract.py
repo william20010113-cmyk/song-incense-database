@@ -5,7 +5,7 @@
 """
 import requests, json, os, time, sys
 
-API_KEY = "__DEEPSEEK_API_KEY__"
+API_KEY = os.environ.get("DEEPSEEK_API_KEY", "__DEEPSEEK_API_KEY__")
 API_URL = "https://api.deepseek.com/chat/completions"
 OUTPUT_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
