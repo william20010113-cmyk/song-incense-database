@@ -4,6 +4,15 @@
 策略：按卷分批，每批让模型输出完整结构化JSON
 """
 import requests, json, os, time, sys
+# Auto-load .env if present (secure, local-only)
+_env_file = os.path.join(os.path.dirname(__file__), ".env")
+if os.path.exists(_env_file):
+    with open(_env_file) as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith("#") and "=" in line:
+                k, v = line.split("=", 1)
+                os.environ.setdefault(k.strip(), v.strip())
 
 API_KEY = os.environ.get("DEEPSEEK_API_KEY", "__DEEPSEEK_API_KEY__")
 API_URL = "https://api.deepseek.com/chat/completions"

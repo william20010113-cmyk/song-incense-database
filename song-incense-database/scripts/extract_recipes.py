@@ -4,6 +4,15 @@
 用 DeepSeek V4 Flash API 从古籍知识中提取结构化香方数据
 """
 import json, os, sys, time
+# Auto-load .env if present (secure, local-only)
+_env_file = os.path.join(os.path.dirname(__file__), ".env")
+if os.path.exists(_env_file):
+    with open(_env_file) as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith("#") and "=" in line:
+                k, v = line.split("=", 1)
+                os.environ.setdefault(k.strip(), v.strip())
 import requests
 
 API_KEY = os.environ.get("DEEPSEEK_API_KEY", "set DEEPSEEK_API_KEY env var")
